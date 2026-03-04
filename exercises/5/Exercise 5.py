@@ -527,4 +527,5 @@ ax4.set_title("Seasonal surface light over year")
 ax4.grid(True)
 
 plt.tight_layout()
+
 plt.show()
