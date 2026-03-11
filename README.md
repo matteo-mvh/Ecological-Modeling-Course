@@ -1,35 +1,20 @@
 # Ecological Modeling Course Repository
 
-This repository contains step-by-step programming exercises developed during a university course in **computational aquatic ecology**. The codebase is focused on learning how to build and evaluate ecological models of a water column, progressing from basic numerical methods to integrated ecosystem simulations.
+This repository contains code developed during a university course on computational aquatic ecosystem modeling. The project focuses on building and analyzing a 1D water-column ecosystem model, progressing from basic numerical exercises to a complete NPZD-style implementation.
 
-## Course purpose
+The repository serves both as:
 
-The overall goal of the course is to train students to:
+a record of the step-by-step development of the model, and
 
-- formulate new ecological models and sub-models,
-- implement numerical solutions to process-based equations,
-- build and analyze **NPZD** models (Nutrients–Phytoplankton–Zooplankton–Detritus),
-- understand advection/diffusion in partial differential equations,
-- parameterize and interpret 1D water-column ecosystem models,
-- evaluate strengths/limitations of NPZD approaches (e.g., spring/autumn bloom dynamics),
-- gain practical familiarity with professional tools such as **MIKE EcoLab**.
-
-## What kind of code is written here?
-
-The repository consists of educational Python scripts, each script corresponding to one exercise in the course progression. The code is intended for learning and experimentation rather than production software.
-
-Typical code in this repo includes:
-
-- numerical modeling workflows for ecological and hydrographic processes,
-- implementations of finite-difference style updates for time/space dynamics,
-- parameter setup and unit handling for ecological state variables,
-- simulation-oriented scripts that help build toward a full 1D NPZD water-column model.
+the final model implementation used for the course project.
 
 ## Repository structure
 
 ```text
 Ecological-Modeling-Course/
 ├── README.md
+├── ModelCode/
+│   └── (final ecosystem model implementation)
 └── exercises/
     ├── 1/
     │   ├── Exercise 1.py
@@ -48,45 +33,51 @@ Ecological-Modeling-Course/
         └── Exercise 5.pdf
 ```
 
-### Folder and file roles
+## Main model (ModelCode)
 
-- `exercises/<n>/Exercise <n>.pdf`  
-  Assignment description, theory, and expected outcomes for each exercise.
+The ModelCode directory contains the final ecosystem model developed for the course project.
+The model represents a vertically resolved 1D water column and includes biological and physical processes relevant for marine ecosystem dynamics.
 
-- `exercises/<n>/Exercise <n>.py`  
-  Python implementation corresponding to that exercise.
+The implementation builds on the classical NPZD framework, representing:
 
-## Step-by-step development path in this course
+- nutrients
+- phytoplankton
+- zooplankton
+- detritus
 
-The exercises are organized in increasing complexity. A typical learning trajectory is:
+and their interactions through growth, grazing, mortality, remineralization, and vertical transport.
 
-1. **Foundations of numerical ecological modeling**  
-   Set up basic variables, equations, and simple numerical updates.
+The model is used to simulate seasonal ecosystem dynamics and explore how physical forcing and biological parameters influence bloom development and nutrient cycling.
 
-2. **Advection and diffusion in 1D**  
-   Implement finite-difference approximations for transport and mixing processes.
+Further details about the model structure and results are described in the final project report included in the repository.
 
-3. **Core ecosystem process representation**  
-   Add biological process terms relevant to NPZD dynamics.
+## Exercises (exercises/)
 
-4. **Water-column NPZD integration**  
-   Combine physical and biological components into a vertically resolved model.
+The exercises folder documents the development process throughout the course.
+Each folder contains:
 
-5. **Seasonal simulation and interpretation**  
-   Use forcing (e.g., wind/temperature seasonality), run scenarios, and interpret bloom and production patterns.
+- the exercise description (Exercise n.pdf)
+- the corresponding Python implementation (Exercise n.py)
 
-In the broader course context, this hands-on coding phase is complemented by work with **MIKE EcoLab** and a final project where students either extend these models or apply professional tools to a practical ecological problem.
+The exercises gradually introduce the components required for the final model, including:
 
-## How to use this repository
+- numerical time stepping
+- vertical transport processes (advection and diffusion)
+- biological source and sink terms
+- integration of physical and biological processes in a water-column model
 
-1. Start with `exercises/1/Exercise 1.pdf` and read the task description.
-2. Open and run `exercises/1/Exercise 1.py`.
-3. Continue sequentially through exercises 2 → 5.
-4. Compare your implementation choices and outputs with the conceptual expectations in each PDF.
-5. Use later exercises as templates for your own extended project model.
+These scripts should be viewed primarily as learning steps and intermediate implementations, not as production-ready code.
+
+## How to navigate the repository
+
+If you want to understand how the model was developed:
+
+1. Start with the exercises (exercises/1 → exercises/5).
+2. Follow how physical and biological components are introduced step by step.
+3. Look at ModelCode/ to see the final integrated model.
 
 ## Notes
 
-- Scripts are arranged for course progression and may depend on concepts introduced in earlier exercises.
-- File names include spaces to match assignment naming.
-- This repository is best read as a learning portfolio that documents model development over the semester.
+- The code was written for educational purposes during the course.
+- Scripts prioritize clarity and experimentation over software engineering structure.
+- The repository therefore reflects the model development workflow rather than a polished software package.
