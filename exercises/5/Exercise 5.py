@@ -55,16 +55,16 @@ dz = z[1] - z[0]                  # [m]
 
 # ---- Transport settings (positive downward) ----
 #        N   P   Z    D   O
-W = [0.0, 5.0, 0.0, 10.0, 0.0]     # [m d^-1]
+W = [0.0, 5.0, 0.0, 7.0, 0.0]     # [m d^-1]
 
 # ============================================================
 # 2) INITIAL CONDITIONS
 # ============================================================
-N0 = np.linspace(0, 20, nz)          # [mmol N m^-3]
-P0 = np.linspace(1, 0, nz)           # [mmol N m^-3]
-Z0 = 0.2 * np.ones(nz)               # [mmol N m^-3]
-D0 = 1.5 * np.ones(nz)               # [mmol N m^-3]
-O0 = np.linspace(300, 0, nz)         # [mmol O2 m^-3]
+N0 = np.linspace(0, 100, nz)          # [mmol N m^-3]
+P0 = np.linspace(0.5, 0, nz)           # [mmol N m^-3]
+Z0 = 0.1 * np.ones(nz)               # [mmol N m^-3]
+D0 = np.linspace(0, 100, nz)              # [mmol N m^-3]
+O0 = np.linspace(250, 0, nz)         # [mmol O2 m^-3]
 
 y0 = np.concatenate([N0, P0, Z0, D0, O0])
 
@@ -78,7 +78,7 @@ iO = slice(4*nz, 5*nz)
 # ============================================================
 # 3) TIME SETUP
 # ============================================================
-years = 5
+years = 50
 t_max = 365.0 * years
 t_span = (0.0, t_max)
 t_eval = np.linspace(0.0, t_max, 1000)
@@ -129,7 +129,7 @@ def get_limits(Lz, N, P, O, delta_O=10.0, oxyg_switch=True):
 # ============================================================
 # 6) SEASONAL FORCING: KAPPA + LIGHT
 # ============================================================
-def getLIGHTandKAPPAS(t, P=None, D=None,Lightswitch = True, Seasonality=True, bio_attenuation=True):
+def getLIGHTandKAPPAS(t, P=None, D=None,Lightswitch = True, Seasonality=False, bio_attenuation=True):
     """
     Returns:
       kappa_interface : [m^2 d^-1] at interfaces, size nz+1
@@ -154,7 +154,7 @@ def getLIGHTandKAPPAS(t, P=None, D=None,Lightswitch = True, Seasonality=True, bi
         # --- Seasonal mixing depth z_mix(t) [m] ---
         zMix       = 0.05 * depth
         zMixWinter = 0.8  * depth
-        tMaxSpring = 90.0
+        tMaxSpring = 90
         zetaMaxSteep = 2.0
         z_mix = 0.5 * (1 - np.sin(2*np.pi*(doy - tMaxSpring)/365.0))**zetaMaxSteep * (zMixWinter - zMix) + zMix
 
@@ -193,8 +193,8 @@ def getLIGHTandKAPPAS(t, P=None, D=None,Lightswitch = True, Seasonality=True, bi
             L0 = L0_min + (L0_max - L0_min) * seasonal_shape / 4.0
 
     else:
-        kappa_surface = 5.0
-        kappa_bottom  = 1.0
+        kappa_surface = 10.0
+        kappa_bottom  = 5.0
         z_transition  = 50.0
         zeta_mix      = 10.0
         kappa_center = 0.5*(1 - np.tanh((z - z_transition)/zeta_mix))*(kappa_surface - kappa_bottom) + kappa_bottom
@@ -226,7 +226,7 @@ def surface_flux(tracer_name, C_surface):
 def bottom_flux(tracer_name, C_bottom):
     """Return downward flux J[nz] [mmol m^-2 d^-1] (positive removes tracer into sediments)."""
     if tracer_name == "O":
-        O_use = max(C_bottom, 0.0)
+        O_use = 0 #max(C_bottom, 0.0)
         return (O_use + O2_n) * k_O_bot
     return 0.0
 
@@ -276,8 +276,9 @@ def rhs(t, y):
     P_growth = P_growth_max * np.minimum(light_lim, nut_lim)
     Z_consum = Z_consum_max * np.minimum(graze_lim, oxyg_lim)
 
-    eps = 0.1  # [-] minimum aerobic fraction
+    eps = 0 # [-] minimum aerobic fraction
     r_factor = r * (eps + (1 - eps) * oxyg_lim)
+    #r_factor = np.where(O < 1e-6, 0, r_factor)
 
     # processes
     N_uptake  = P_growth * P
@@ -292,21 +293,13 @@ def rhs(t, y):
     dZ_reac = (1 - e_N - e_D)*Z_grazing - Z_mort
     dD_reac =  P_mort + e_D*Z_grazing + Z_mort - remin
     dO_reac = -y_N*e_N*Z_grazing - y_N*remin + y_P*N_uptake
-
+    
     # transport + reactions
     dN = vertical_transport(N, kappa_interface, w=W[0], tracer_name="N") + dN_reac
     dP = vertical_transport(P, kappa_interface, w=W[1], tracer_name="P") + dP_reac
     dZ = vertical_transport(Z, kappa_interface, w=W[2], tracer_name="Z") + dZ_reac
     dD = vertical_transport(D, kappa_interface, w=W[3], tracer_name="D") + dD_reac
     dO = vertical_transport(O, kappa_interface, w=W[4], tracer_name="O") + dO_reac
-
-    # (optional) simple non-negativity safeguard for biology-only vars
-    # NOTE: we do NOT clip before transport; solver can handle small negatives.
-    N = np.maximum(N, 0.0)
-    P = np.maximum(P, 0.0)
-    Z = np.maximum(Z, 0.0)
-    D = np.maximum(D, 0.0)
-    O = np.maximum(O, 0.0)
 
     return np.concatenate([dN, dP, dZ, dD, dO])
 
@@ -335,9 +328,37 @@ def set_time_axis_seasons_if_last365(ax, t_plot, only_last365):
         ax.set_xlabel("Time [days]")
 
 # ============================================================
+# PLOTTING BLOCK (HEATMAPS + PROFILES + SEASONAL PROFILES)
+# WITH "BUTTON" TO ONLY PLOT TOP X METERS
+# ============================================================
+
+# ============================
+# Depth "button"
+# ============================
+plot_top = False          # True = only plot first X meters, False = full depth
+top_m = 50.0             # first X meters to plot
+
+# z is assumed positive downward (as in your code)
+if plot_top:
+    z_mask = z <= top_m
+else:
+    z_mask = slice(None)
+
+z_plot = z[z_mask]
+
+# Helper for κ (often nz+1)
+z_kappa_full = np.r_[z, z[-1] + dz]
+if plot_top:
+    z_kappa_mask = z_kappa_full <= top_m
+else:
+    z_kappa_mask = slice(None)
+z_kappa_plot = z_kappa_full[z_kappa_mask]
+
+
+# ============================================================
 # 11) HEATMAPS (LAST 365 DAYS)
 # ============================================================
-only_last365 = True
+only_last365 = False
 
 if only_last365:
     t_mask = sol.t >= (t_max - 365.0)
@@ -346,50 +367,45 @@ else:
     t_mask = slice(None)
     t_plot = sol.t
 
-N_all = sol.y[iN, t_mask]
-P_all = sol.y[iP, t_mask]
-Z_all = sol.y[iZ, t_mask]
-D_all = sol.y[iD, t_mask]
-O_all = sol.y[iO, t_mask]
-S_all = np.zeros_like(N_all)  # same shape [nz, nt]
+# sol.y has shape [n_state_vars, n_time], and each iN/iP/... entry is a vertical profile (nz)
+# In your code sol.y[iN, t_mask] returns [nz, nt], so slice as [z_mask, :]
+N_all = sol.y[iN, t_mask][z_mask, :]
+P_all = sol.y[iP, t_mask][z_mask, :]
+Z_all = sol.y[iZ, t_mask][z_mask, :]
+D_all = sol.y[iD, t_mask][z_mask, :]
+O_all = sol.y[iO, t_mask][z_mask, :]
+S_all = np.zeros_like(N_all)  # same shape [nz_plot, nt]
 
-# --- sediment placeholder (example: bottom flux time series, repeated over depth) ---
-# If you don't have sediment state yet, plot bottom O2 flux as a diagnostic placeholder.
-# J_bot_O2 is [mmol m^-2 d^-1]; we "paint" it over depth just for a placeholder panel.
-if only_last365:
-    # times in absolute model time for flux calculation
-    t_abs = sol.t[t_mask]
-else:
-    t_abs = sol.t
-
-O_bottom_ts = sol.y[iO, t_mask][-1, :]  # bottom cell O2 over time
+# --- sediment placeholder diagnostic (bottom O2 flux time series) ---
+# Bottom cell is ALWAYS the last depth cell in the FULL column, not the truncated plot.
+O_bottom_ts = sol.y[iO, t_mask][-1, :]  # bottom cell O2 over time [nt]
 J_bot_O2_ts = np.array([bottom_flux("O", ob) for ob in O_bottom_ts])  # [mmol m^-2 d^-1]
 
 fig, axs = plt.subplots(2, 3, figsize=(16, 9), sharex=True, sharey=True)
 
-im0 = axs[0, 0].contourf(t_plot, -z, N_all, levels=50)
+im0 = axs[0, 0].contourf(t_plot, -z_plot, N_all, levels=50)
 axs[0, 0].set_title("N [mmol N m$^{-3}$]")
 axs[0, 0].set_ylabel("Depth [m]")
 fig.colorbar(im0, ax=axs[0, 0])
 
-im1 = axs[0, 1].contourf(t_plot, -z, P_all, levels=50)
+im1 = axs[0, 1].contourf(t_plot, -z_plot, P_all, levels=50)
 axs[0, 1].set_title("P [mmol N m$^{-3}$]")
 fig.colorbar(im1, ax=axs[0, 1])
 
-im2 = axs[1, 0].contourf(t_plot, -z, Z_all, levels=50)
+im2 = axs[1, 0].contourf(t_plot, -z_plot, Z_all, levels=50)
 axs[1, 0].set_title("Z [mmol N m$^{-3}$]")
 fig.colorbar(im2, ax=axs[1, 0])
 
-im3 = axs[1, 1].contourf(t_plot, -z, D_all, levels=50)
+im3 = axs[1, 1].contourf(t_plot, -z_plot, D_all, levels=50)
 axs[1, 1].set_title("D [mmol N m$^{-3}$]")
 axs[1, 1].set_ylabel("Depth [m]")
 fig.colorbar(im3, ax=axs[1, 1])
 
-im4 = axs[0, 2].contourf(t_plot, -z, O_all, levels=50)
+im4 = axs[0, 2].contourf(t_plot, -z_plot, O_all, levels=50)
 axs[0, 2].set_title("O$_2$ [mmol O$_2$ m$^{-3}$]")
 fig.colorbar(im4, ax=axs[0, 2])
 
-im5 = axs[1, 2].contourf(t_plot, -z, S_all, levels=50)
+im5 = axs[1, 2].contourf(t_plot, -z_plot, S_all, levels=50)
 axs[1, 2].set_title("Sediment [placeholder]")
 fig.colorbar(im5, ax=axs[1, 2])
 
@@ -402,11 +418,9 @@ for ax in axs.flat:
 if only_last365:
     season_positions = [0, 80, 172, 264, 355]
     season_labels = ["Winter", "Spring", "Summer", "Autumn", "Winter"]
-    for ax in axs[1, :]:  # label only the bottom row to avoid clutter
+    for ax in axs[1, :]:  # label only bottom row
         ax.set_xticks(season_positions)
         ax.set_xticklabels(season_labels)
-
-    # remove xlabels entirely (so "Season" doesn't show up)
     for ax in axs.flat:
         ax.set_xlabel("")
 else:
@@ -416,34 +430,39 @@ else:
 plt.tight_layout()
 plt.show()
 
+
 # ============================================================
 # 12) PROFILE + LIMITATIONS (WITH SEASON LABEL)
 # ============================================================
-time_index = -172
+time_index = -100
 t_selected = sol.t[time_index]
 doy_sel = day_of_year(t_selected)
 season_sel = season_from_doy(doy_sel)
 year_sel = int(t_selected // 365) + 1
 
-N_sel = sol.y[iN, time_index]
-P_sel = sol.y[iP, time_index]
-Z_sel = sol.y[iZ, time_index]
-D_sel = sol.y[iD, time_index]
-O_sel = sol.y[iO, time_index]
+N_sel = sol.y[iN, time_index][z_mask]
+P_sel = sol.y[iP, time_index][z_mask]
+Z_sel = sol.y[iZ, time_index][z_mask]
+D_sel = sol.y[iD, time_index][z_mask]
+O_sel = sol.y[iO, time_index][z_mask]
 
 T_sel = N_sel + P_sel + Z_sel + D_sel
 
-kappa_interface, Lz, _ = getLIGHTandKAPPAS(t_selected, P=P_sel, D=D_sel)
+# getLIGHTandKAPPAS returns arrays for full depth; slice them
+kappa_interface_full, Lz_full, _ = getLIGHTandKAPPAS(t_selected, P=sol.y[iP, time_index], D=sol.y[iD, time_index])
+Lz = Lz_full[z_mask]
+
+# limits computed for plotted depth
 light_lim, nut_lim, graze_lim, oxyg_lim = get_limits(Lz, N_sel, P_sel, O_sel)
 
 fig, axs = plt.subplots(1, 2, figsize=(13, 5), sharey=True)
 
 # Left: profiles
-axs[0].plot(np.maximum(N_sel, 1e-8), -z, label="N", lw=2, color = 'darkblue')
-axs[0].plot(np.maximum(P_sel, 1e-8), -z, label="P", lw=2, color = 'green')
-axs[0].plot(np.maximum(Z_sel, 1e-8), -z, label="Z", lw=2, color = 'orange')
-axs[0].plot(np.maximum(D_sel, 1e-8), -z, label="D", lw=2, color = 'red')
-axs[0].plot(np.maximum(T_sel, 1e-8), -z, label="Total N", lw=2, ls="--", color = 'black')
+axs[0].plot(np.maximum(N_sel, 1e-8), -z_plot, label="N", lw=2, color='darkblue')
+axs[0].plot(np.maximum(P_sel, 1e-8), -z_plot, label="P", lw=2, color='green')
+axs[0].plot(np.maximum(Z_sel, 1e-8), -z_plot, label="Z", lw=2, color='orange')
+axs[0].plot(np.maximum(D_sel, 1e-8), -z_plot, label="D", lw=2, color='red')
+axs[0].plot(np.maximum(T_sel, 1e-8), -z_plot, label="Total N", lw=2, ls="--", color='black')
 
 axs[0].set_xscale("log")
 axs[0].set_xlabel("Concentration (log)")
@@ -454,10 +473,10 @@ axs[0].legend()
 axs[0].set_title(f"Profiles (Year {year_sel}, DOY {doy_sel:.0f} ~ {season_sel})")
 
 # Right: limitations
-axs[1].plot(light_lim, -z, label="Light", lw=2, color = 'orange')
-axs[1].plot(nut_lim,   -z, label="Nutrient", lw=2, color = 'darkblue')
-axs[1].plot(graze_lim, -z, label="Grazing", lw=2, ls="--", color = 'red')
-axs[1].plot(oxyg_lim,  -z, label="Oxygen", lw=2, ls="--", color = 'black')
+axs[1].plot(light_lim, -z_plot, label="Light", lw=2, color='orange')
+axs[1].plot(nut_lim,   -z_plot, label="Nutrient", lw=2, color='darkblue')
+axs[1].plot(graze_lim, -z_plot, label="Grazing", lw=2, ls="--", color='red')
+axs[1].plot(oxyg_lim,  -z_plot, label="Oxygen", lw=2, ls="--", color='black')
 
 axs[1].set_xlabel("Limitation (0–1)")
 axs[1].invert_yaxis()
@@ -469,7 +488,77 @@ plt.tight_layout()
 plt.show()
 
 # ============================================================
-# 13) SEASONAL PROFILES (KAPPA, LIGHT, O2)
+# 13) TOTAL NITROGEN + OXYGEN MASS (LAST YEAR)
+# ============================================================
+
+# --- select last year ---
+t_mask = sol.t >= (t_max - 365.0)
+t_plot = sol.t[t_mask] - (t_max - 365.0)   # 0..365
+
+# --- pull fields for last year (nz, nt) ---
+N_last = sol.y[iN, t_mask]
+P_last = sol.y[iP, t_mask]
+Z_last = sol.y[iZ, t_mask]
+D_last = sol.y[iD, t_mask]
+O_last = sol.y[iO, t_mask]
+
+# ------------------------------------------------------------
+# Depth integrated inventories
+# Units: mmol m^-2
+# ------------------------------------------------------------
+N_int = np.sum(N_last, axis=0) * dz
+P_int = np.sum(P_last, axis=0) * dz
+Z_int = np.sum(Z_last, axis=0) * dz
+D_int = np.sum(D_last, axis=0) * dz
+T_int = N_int + P_int + Z_int + D_int
+
+O_int = np.sum(O_last, axis=0) * dz
+
+# ============================================================
+# PLOTTING
+# ============================================================
+
+fig, axs = plt.subplots(2, 1, figsize=(12, 7), sharex=True)
+
+# ------------------------------------------------------------
+# Nitrogen pools
+# ------------------------------------------------------------
+axs[0].plot(t_plot, N_int, label="N", lw=2, color='darkblue')
+axs[0].plot(t_plot, P_int, label="P", lw=2, color='green')
+axs[0].plot(t_plot, Z_int, label="Z", lw=2, color='orange')
+axs[0].plot(t_plot, D_int, label="D", lw=2, color='red')
+
+axs[0].plot(t_plot, T_int, label="Total N (N+P+Z+D)", lw=2, ls="--", color='black')
+
+axs[0].set_yscale("log")
+axs[0].set_ylabel("Inventory [mmol N m$^{-2}$]")
+axs[0].set_title("Depth-integrated Nitrogen pools and Oxygen Inventory over the last year")
+axs[0].grid(True)
+axs[0].legend(ncol=3)
+
+# ------------------------------------------------------------
+# Oxygen inventory
+# ------------------------------------------------------------
+axs[1].plot(t_plot, O_int, lw=2, color='black')
+
+axs[1].set_ylabel("Inventory [mmol O$_2$ m$^{-2}$]")
+axs[1].grid(True)
+
+# ------------------------------------------------------------
+# Seasonal ticks
+# ------------------------------------------------------------
+season_positions = [0, 80, 172, 264, 355]
+season_labels = ["Winter", "Spring", "Summer", "Autumn", "Winter"]
+
+axs[1].set_xticks(season_positions)
+axs[1].set_xticklabels(season_labels)
+axs[1].set_xlabel("")
+
+plt.tight_layout()
+plt.show()
+
+# ============================================================
+# 14) SEASONAL PROFILES (KAPPA, LIGHT, O2)
 # ============================================================
 season_days = {"Winter": 0, "Spring": 90, "Summer": 172, "Autumn": 265}
 
@@ -479,9 +568,9 @@ gs = fig.add_gridspec(2, 3, height_ratios=[3, 1])
 # κ profiles
 ax1 = fig.add_subplot(gs[0, 0])
 for season, day in season_days.items():
-    kappa_prof, _, _ = getLIGHTandKAPPAS(day)
-    z_kappa = np.r_[z, z[-1] + dz]
-    ax1.plot(kappa_prof, z_kappa, label=season)
+    kappa_prof_full, _, _ = getLIGHTandKAPPAS(day)
+    kappa_prof = kappa_prof_full[z_kappa_mask]
+    ax1.plot(kappa_prof, z_kappa_plot, label=season)
 ax1.set_xlabel("κ [m$^2$ d$^{-1}$]")
 ax1.set_ylabel("Depth [m]")
 ax1.set_title("Seasonal κ profiles")
@@ -492,8 +581,9 @@ ax1.legend()
 # Light profiles
 ax2 = fig.add_subplot(gs[0, 1])
 for season, day in season_days.items():
-    _, L_profile, _ = getLIGHTandKAPPAS(day)
-    ax2.plot(L_profile, z, label=season)
+    _, L_profile_full, _ = getLIGHTandKAPPAS(day)
+    L_profile = L_profile_full[z_mask]
+    ax2.plot(L_profile, z_plot, label=season)
 ax2.set_xlabel("Light [µmol m$^{-2}$ s$^{-1}$]")
 ax2.set_ylabel("Depth [m]")
 ax2.set_title("Seasonal light profiles")
@@ -506,8 +596,11 @@ ax3 = fig.add_subplot(gs[0, 2])
 for season, day in season_days.items():
     t_target = t_max - 365.0 + day
     idx = np.argmin(np.abs(sol.t - t_target))
-    O_profile = sol.y[iO, idx]
-    ax3.plot(O_profile, z, label=season)
+    O_profile_full = sol.y[iO, idx]
+    O_profile = O_profile_full[z_mask]
+    ax3.plot(O_profile, z_plot, label=season)
+
+ax3.axvline(k_O, color="black", linestyle="--", linewidth=1, label=r"critical O$_2$ value")
 ax3.set_xlabel("O$_2$ [mmol m$^{-3}$]")
 ax3.set_ylabel("Depth [m]")
 ax3.set_title("Seasonal O$_2$ profiles (last year)")
@@ -519,7 +612,7 @@ ax3.legend()
 ax4 = fig.add_subplot(gs[1, :])
 days = np.arange(0, 365)
 L0_year = np.array([getLIGHTandKAPPAS(d)[2] for d in days])
-ax4.plot(days, L0_year, color = 'orange')
+ax4.plot(days, L0_year, color='orange')
 season_ticks(ax4)
 ax4.set_xlabel("Season")
 ax4.set_ylabel("Surface light L0 [µmol m$^{-2}$ s$^{-1}$]")
@@ -527,5 +620,4 @@ ax4.set_title("Seasonal surface light over year")
 ax4.grid(True)
 
 plt.tight_layout()
-
 plt.show()
