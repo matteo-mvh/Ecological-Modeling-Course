@@ -1,0 +1,2531 @@
+﻿time;Parameter;AverageValue;Layer
+2010-01-12 17:30:00;Ammoniak+ammonium-N;170.0;Bottom
+2010-01-12 17:30:00;Ammoniak+ammonium-N;170.0;Surface
+2010-01-12 17:30:00;Klorofyl a;1.8;Bottom
+2010-01-12 17:30:00;Klorofyl a;1.4;Surface
+2010-01-12 17:30:00;Nitrit+nitrat-N;530.0;Bottom
+2010-01-12 17:30:00;Nitrit+nitrat-N;580.0;Surface
+2010-01-12 17:30:00;Nitrogen,total N;949.2281617;Bottom
+2010-01-12 17:30:00;Nitrogen,total N;984.793177;Surface
+2010-01-12 17:30:00;Ortho-phosphat-P;27.0;Bottom
+2010-01-12 17:30:00;Ortho-phosphat-P;27.0;Surface
+2010-01-12 17:30:00;Phosphor, total-P;52.0;Bottom
+2010-01-12 17:30:00;Phosphor, total-P;44.0;Surface
+2010-02-09 12:36:00;Ammoniak+ammonium-N;180.0;Bottom
+2010-02-09 12:36:00;Ammoniak+ammonium-N;220.0;Surface
+2010-02-09 12:36:00;Klorofyl a;0.3;Bottom
+2010-02-09 12:36:00;Klorofyl a;1.4;Surface
+2010-02-09 12:36:00;Nitrit+nitrat-N;520.0;Bottom
+2010-02-09 12:36:00;Nitrit+nitrat-N;680.0;Surface
+2010-02-09 12:36:00;Nitrogen,total N;909.7862328;Bottom
+2010-02-09 12:36:00;Nitrogen,total N;1152.652459;Surface
+2010-02-09 12:36:00;Ortho-phosphat-P;36.0;Bottom
+2010-02-09 12:36:00;Ortho-phosphat-P;28.0;Surface
+2010-02-09 12:36:00;Phosphor, total-P;50.0;Bottom
+2010-02-09 12:36:00;Phosphor, total-P;43.0;Surface
+2010-03-04 12:00:00;Ammoniak+ammonium-N;240.0;Bottom
+2010-03-04 12:00:00;Ammoniak+ammonium-N;350.0;Surface
+2010-03-04 12:00:00;Klorofyl a;0.3;Bottom
+2010-03-04 12:00:00;Klorofyl a;1.5;Surface
+2010-03-04 12:00:00;Nitrit+nitrat-N;520.0;Bottom
+2010-03-04 12:00:00;Nitrit+nitrat-N;740.0;Surface
+2010-03-04 12:00:00;Nitrogen,total N;941.586234;Bottom
+2010-03-04 12:00:00;Nitrogen,total N;1217.815292;Surface
+2010-03-04 12:00:00;Ortho-phosphat-P;44.0;Bottom
+2010-03-04 12:00:00;Ortho-phosphat-P;35.0;Surface
+2010-03-04 12:00:00;Phosphor, total-P;63.0;Bottom
+2010-03-04 12:00:00;Phosphor, total-P;76.0;Surface
+2010-03-09 10:11:00;Ammoniak+ammonium-N;250.0;Bottom
+2010-03-09 10:11:00;Ammoniak+ammonium-N;430.0;Surface
+2010-03-09 10:11:00;Klorofyl a;0.3;Bottom
+2010-03-09 10:11:00;Klorofyl a;0.7;Surface
+2010-03-09 10:11:00;Nitrit+nitrat-N;470.0;Bottom
+2010-03-09 10:11:00;Nitrit+nitrat-N;820.0;Surface
+2010-03-09 10:11:00;Nitrogen,total N;954.9939499;Bottom
+2010-03-09 10:11:00;Nitrogen,total N;1417.48289;Surface
+2010-03-09 10:11:00;Ortho-phosphat-P;47.0;Bottom
+2010-03-09 10:11:00;Ortho-phosphat-P;36.0;Surface
+2010-03-09 10:11:00;Oxygen indhold;4.8;Bottom
+2010-03-09 10:11:00;Oxygen indhold;8.7;Surface
+2010-03-09 10:11:00;Phosphor, total-P;62.0;Bottom
+2010-03-09 10:11:00;Phosphor, total-P;60.0;Surface
+2010-03-16 09:55:00;Ammoniak+ammonium-N;270.0;Bottom
+2010-03-16 09:55:00;Ammoniak+ammonium-N;700.0;Surface
+2010-03-16 09:55:00;Klorofyl a;0.5;Bottom
+2010-03-16 09:55:00;Klorofyl a;3.5;Surface
+2010-03-16 09:55:00;Nitrit+nitrat-N;500.0;Bottom
+2010-03-16 09:55:00;Nitrit+nitrat-N;780.0;Surface
+2010-03-16 09:55:00;Nitrogen,total N;967.4736689;Bottom
+2010-03-16 09:55:00;Nitrogen,total N;1747.213256;Surface
+2010-03-16 09:55:00;Ortho-phosphat-P;50.0;Bottom
+2010-03-16 09:55:00;Ortho-phosphat-P;44.0;Surface
+2010-03-16 09:55:00;Oxygen indhold;4.2;Bottom
+2010-03-16 09:55:00;Oxygen indhold;5.6;Surface
+2010-03-16 09:55:00;Phosphor, total-P;67.0;Bottom
+2010-03-16 09:55:00;Phosphor, total-P;84.0;Surface
+2010-03-29 09:32:00;Ammoniak+ammonium-N;210.0;Bottom
+2010-03-29 09:32:00;Ammoniak+ammonium-N;250.0;Surface
+2010-03-29 09:32:00;Klorofyl a;16.0;Bottom
+2010-03-29 09:32:00;Klorofyl a;42.0;Surface
+2010-03-29 09:32:00;Nitrit+nitrat-N;460.0;Bottom
+2010-03-29 09:32:00;Nitrit+nitrat-N;430.0;Surface
+2010-03-29 09:32:00;Nitrogen,total N;880.4146706;Bottom
+2010-03-29 09:32:00;Nitrogen,total N;970.4663259;Surface
+2010-03-29 09:32:00;Ortho-phosphat-P;27.0;Bottom
+2010-03-29 09:32:00;Ortho-phosphat-P;7.2;Surface
+2010-03-29 09:32:00;Oxygen indhold;9.3;Bottom
+2010-03-29 09:32:00;Oxygen indhold;11.3;Surface
+2010-03-29 09:32:00;Phosphor, total-P;63.0;Bottom
+2010-03-29 09:32:00;Phosphor, total-P;82.0;Surface
+2010-04-06 09:35:00;Ammoniak+ammonium-N;260.0;Bottom
+2010-04-06 09:35:00;Ammoniak+ammonium-N;51.0;Surface
+2010-04-06 09:35:00;Klorofyl a;31.0;Bottom
+2010-04-06 09:35:00;Klorofyl a;18.0;Surface
+2010-04-06 09:35:00;Nitrit+nitrat-N;430.0;Bottom
+2010-04-06 09:35:00;Nitrit+nitrat-N;510.0;Surface
+2010-04-06 09:35:00;Nitrogen,total N;1086.901101;Bottom
+2010-04-06 09:35:00;Nitrogen,total N;904.0647962;Surface
+2010-04-06 09:35:00;Ortho-phosphat-P;3.4;Bottom
+2010-04-06 09:35:00;Ortho-phosphat-P;2.7;Surface
+2010-04-06 09:35:00;Oxygen indhold;9.1;Bottom
+2010-04-06 09:35:00;Oxygen indhold;11.9;Surface
+2010-04-06 09:35:00;Phosphor, total-P;38.0;Bottom
+2010-04-06 09:35:00;Phosphor, total-P;29.0;Surface
+2010-04-12 09:34:00;Ammoniak+ammonium-N;140.0;Bottom
+2010-04-12 09:34:00;Ammoniak+ammonium-N;130.0;Surface
+2010-04-12 09:34:00;Klorofyl a;1.0;Bottom
+2010-04-12 09:34:00;Klorofyl a;1.9;Surface
+2010-04-12 09:34:00;Nitrit+nitrat-N;510.0;Bottom
+2010-04-12 09:34:00;Nitrit+nitrat-N;520.0;Surface
+2010-04-12 09:34:00;Nitrogen,total N;922.4293485;Bottom
+2010-04-12 09:34:00;Nitrogen,total N;943.9788663;Surface
+2010-04-12 09:34:00;Ortho-phosphat-P;4.2;Bottom
+2010-04-12 09:34:00;Ortho-phosphat-P;3.3;Surface
+2010-04-12 09:34:00;Oxygen indhold;10.0;Bottom
+2010-04-12 09:34:00;Oxygen indhold;10.1;Surface
+2010-04-12 09:34:00;Phosphor, total-P;28.0;Bottom
+2010-04-12 09:34:00;Phosphor, total-P;31.0;Surface
+2010-05-04 09:37:00;Ammoniak+ammonium-N;40.0;Bottom
+2010-05-04 09:37:00;Ammoniak+ammonium-N;39.0;Surface
+2010-05-04 09:37:00;Klorofyl a;6.1;Bottom
+2010-05-04 09:37:00;Klorofyl a;5.9;Surface
+2010-05-04 09:37:00;Nitrit+nitrat-N;380.0;Bottom
+2010-05-04 09:37:00;Nitrit+nitrat-N;390.0;Surface
+2010-05-04 09:37:00;Nitrogen,total N;772.4663419;Bottom
+2010-05-04 09:37:00;Nitrogen,total N;755.1400667;Surface
+2010-05-04 09:37:00;Ortho-phosphat-P;1.7;Bottom
+2010-05-04 09:37:00;Ortho-phosphat-P;1.2;Surface
+2010-05-04 09:37:00;Oxygen indhold;10.6;Surface
+2010-05-04 09:37:00;Phosphor, total-P;25.0;Bottom
+2010-05-04 09:37:00;Phosphor, total-P;24.0;Surface
+2010-05-26 09:49:00;Ammoniak+ammonium-N;13.0;Bottom
+2010-05-26 09:49:00;Ammoniak+ammonium-N;15.0;Surface
+2010-05-26 09:49:00;Klorofyl a;3.4;Bottom
+2010-05-26 09:49:00;Klorofyl a;3.4;Surface
+2010-05-26 09:49:00;Nitrit+nitrat-N;250.0;Bottom
+2010-05-26 09:49:00;Nitrit+nitrat-N;250.0;Surface
+2010-05-26 09:49:00;Nitrogen,total N;614.0582322;Bottom
+2010-05-26 09:49:00;Nitrogen,total N;600.2803342;Surface
+2010-05-26 09:49:00;Ortho-phosphat-P;1.0;Bottom
+2010-05-26 09:49:00;Ortho-phosphat-P;1.0;Surface
+2010-05-26 09:49:00;Oxygen indhold;9.1;Surface
+2010-05-26 09:49:00;Phosphor, total-P;22.0;Bottom
+2010-05-26 09:49:00;Phosphor, total-P;23.0;Surface
+2010-06-07 09:29:00;Ammoniak+ammonium-N;130.0;Bottom
+2010-06-07 09:29:00;Ammoniak+ammonium-N;15.0;Surface
+2010-06-07 09:29:00;Klorofyl a;1.3;Bottom
+2010-06-07 09:29:00;Klorofyl a;12.0;Surface
+2010-06-07 09:29:00;Nitrit+nitrat-N;130.0;Bottom
+2010-06-07 09:29:00;Nitrit+nitrat-N;86.0;Surface
+2010-06-07 09:29:00;Nitrogen,total N;671.826677;Bottom
+2010-06-07 09:29:00;Nitrogen,total N;689.6061368;Surface
+2010-06-07 09:29:00;Ortho-phosphat-P;7.6;Bottom
+2010-06-07 09:29:00;Ortho-phosphat-P;1.0;Surface
+2010-06-07 09:29:00;Oxygen indhold;6.0;Bottom
+2010-06-07 09:29:00;Oxygen indhold;10.9;Surface
+2010-06-07 09:29:00;Phosphor, total-P;25.0;Bottom
+2010-06-07 09:29:00;Phosphor, total-P;31.0;Surface
+2010-06-22 10:11:00;Ammoniak+ammonium-N;22.0;Bottom
+2010-06-22 10:11:00;Ammoniak+ammonium-N;21.0;Surface
+2010-06-22 10:11:00;Klorofyl a;4.2;Bottom
+2010-06-22 10:11:00;Klorofyl a;3.9;Surface
+2010-06-22 10:11:00;Nitrit+nitrat-N;11.0;Bottom
+2010-06-22 10:11:00;Nitrit+nitrat-N;12.0;Surface
+2010-06-22 10:11:00;Nitrogen,total N;526.7429766;Bottom
+2010-06-22 10:11:00;Nitrogen,total N;554.9145377;Surface
+2010-06-22 10:11:00;Ortho-phosphat-P;1.4;Bottom
+2010-06-22 10:11:00;Ortho-phosphat-P;1.1;Surface
+2010-06-22 10:11:00;Phosphor, total-P;28.0;Bottom
+2010-06-22 10:11:00;Phosphor, total-P;26.0;Surface
+2010-07-05 09:40:00;Ammoniak+ammonium-N;190.0;Bottom
+2010-07-05 09:40:00;Ammoniak+ammonium-N;100.0;Surface
+2010-07-05 09:40:00;Klorofyl a;1.7;Bottom
+2010-07-05 09:40:00;Klorofyl a;5.5;Surface
+2010-07-05 09:40:00;Nitrit+nitrat-N;22.0;Bottom
+2010-07-05 09:40:00;Nitrit+nitrat-N;4.2;Surface
+2010-07-05 09:40:00;Nitrogen,total N;529.3421736;Bottom
+2010-07-05 09:40:00;Nitrogen,total N;479.4656933;Surface
+2010-07-05 09:40:00;Ortho-phosphat-P;58.0;Bottom
+2010-07-05 09:40:00;Ortho-phosphat-P;4.7;Surface
+2010-07-05 09:40:00;Oxygen indhold;2.6;Bottom
+2010-07-05 09:40:00;Oxygen indhold;11.1;Surface
+2010-07-05 09:40:00;Phosphor, total-P;83.0;Bottom
+2010-07-05 09:40:00;Phosphor, total-P;58.0;Surface
+2010-07-20 10:12:00;Ammoniak+ammonium-N;230.0;Bottom
+2010-07-20 10:12:00;Ammoniak+ammonium-N;3.0;Surface
+2010-07-20 10:12:00;Klorofyl a;1.6;Bottom
+2010-07-20 10:12:00;Klorofyl a;6.8;Surface
+2010-07-20 10:12:00;Nitrit+nitrat-N;19.0;Bottom
+2010-07-20 10:12:00;Nitrit+nitrat-N;1.5;Surface
+2010-07-20 10:12:00;Nitrogen,total N;556.4086971;Bottom
+2010-07-20 10:12:00;Nitrogen,total N;466.0899806;Surface
+2010-07-20 10:12:00;Ortho-phosphat-P;87.0;Bottom
+2010-07-20 10:12:00;Ortho-phosphat-P;31.0;Surface
+2010-07-20 10:12:00;Oxygen indhold;4.3;Bottom
+2010-07-20 10:12:00;Oxygen indhold;9.6;Surface
+2010-07-20 10:12:00;Phosphor, total-P;110.0;Bottom
+2010-07-20 10:12:00;Phosphor, total-P;84.0;Surface
+2010-08-04 10:13:00;Ammoniak+ammonium-N;160.0;Bottom
+2010-08-04 10:13:00;Ammoniak+ammonium-N;100.0;Surface
+2010-08-04 10:13:00;Klorofyl a;4.5;Bottom
+2010-08-04 10:13:00;Klorofyl a;6.8;Surface
+2010-08-04 10:13:00;Nitrit+nitrat-N;36.0;Bottom
+2010-08-04 10:13:00;Nitrit+nitrat-N;33.0;Surface
+2010-08-04 10:13:00;Nitrogen,total N;576.141296;Bottom
+2010-08-04 10:13:00;Nitrogen,total N;565.0387242;Surface
+2010-08-04 10:13:00;Ortho-phosphat-P;120.0;Bottom
+2010-08-04 10:13:00;Ortho-phosphat-P;110.0;Surface
+2010-08-04 10:13:00;Oxygen indhold;7.2;Bottom
+2010-08-04 10:13:00;Oxygen indhold;8.0;Surface
+2010-08-04 10:13:00;Phosphor, total-P;160.0;Bottom
+2010-08-04 10:13:00;Phosphor, total-P;160.0;Surface
+2010-08-16 10:25:00;Ammoniak+ammonium-N;38.0;Bottom
+2010-08-16 10:25:00;Ammoniak+ammonium-N;6.6;Surface
+2010-08-16 10:25:00;Klorofyl a;7.6;Bottom
+2010-08-16 10:25:00;Klorofyl a;7.9;Surface
+2010-08-16 10:25:00;Nitrit+nitrat-N;3.3;Bottom
+2010-08-16 10:25:00;Nitrit+nitrat-N;2.3;Surface
+2010-08-16 10:25:00;Nitrogen,total N;571.1433558;Bottom
+2010-08-16 10:25:00;Nitrogen,total N;622.9103972;Surface
+2010-08-16 10:25:00;Ortho-phosphat-P;88.0;Bottom
+2010-08-16 10:25:00;Ortho-phosphat-P;92.0;Surface
+2010-08-16 10:25:00;Oxygen indhold;7.1;Bottom
+2010-08-16 10:25:00;Oxygen indhold;7.5;Surface
+2010-08-16 10:25:00;Phosphor, total-P;140.0;Bottom
+2010-08-16 10:25:00;Phosphor, total-P;150.0;Surface
+2010-09-06 09:52:00;Ammoniak+ammonium-N;69.0;Bottom
+2010-09-06 09:52:00;Ammoniak+ammonium-N;26.0;Surface
+2010-09-06 09:52:00;Klorofyl a;7.5;Bottom
+2010-09-06 09:52:00;Klorofyl a;9.7;Surface
+2010-09-06 09:52:00;Nitrit+nitrat-N;20.0;Bottom
+2010-09-06 09:52:00;Nitrit+nitrat-N;3.4;Surface
+2010-09-06 09:52:00;Nitrogen,total N;544.1638146;Bottom
+2010-09-06 09:52:00;Nitrogen,total N;528.5547671;Surface
+2010-09-06 09:52:00;Ortho-phosphat-P;100.0;Bottom
+2010-09-06 09:52:00;Ortho-phosphat-P;3.5;Surface
+2010-09-06 09:52:00;Oxygen indhold;4.9;Bottom
+2010-09-06 09:52:00;Oxygen indhold;14.8;Surface
+2010-09-06 09:52:00;Phosphor, total-P;150.0;Bottom
+2010-09-06 09:52:00;Phosphor, total-P;86.0;Surface
+2010-09-28 09:53:00;Ammoniak+ammonium-N;92.0;Bottom
+2010-09-28 09:53:00;Ammoniak+ammonium-N;160.0;Surface
+2010-09-28 09:53:00;Klorofyl a;1.9;Bottom
+2010-09-28 09:53:00;Klorofyl a;1.1;Surface
+2010-09-28 09:53:00;Nitrit+nitrat-N;83.0;Bottom
+2010-09-28 09:53:00;Nitrit+nitrat-N;85.0;Surface
+2010-09-28 09:53:00;Nitrogen,total N;544.6444498;Bottom
+2010-09-28 09:53:00;Nitrogen,total N;512.9955127;Surface
+2010-09-28 09:53:00;Ortho-phosphat-P;67.0;Bottom
+2010-09-28 09:53:00;Ortho-phosphat-P;77.0;Surface
+2010-09-28 09:53:00;Oxygen indhold;9.3;Surface
+2010-09-28 09:53:00;Phosphor, total-P;95.0;Bottom
+2010-09-28 09:53:00;Phosphor, total-P;96.0;Surface
+2010-10-18 09:22:00;Ammoniak+ammonium-N;120.0;Bottom
+2010-10-18 09:22:00;Ammoniak+ammonium-N;68.0;Surface
+2010-10-18 09:22:00;Klorofyl a;0.6;Bottom
+2010-10-18 09:22:00;Klorofyl a;3.1;Surface
+2010-10-18 09:22:00;Nitrit+nitrat-N;21.0;Bottom
+2010-10-18 09:22:00;Nitrit+nitrat-N;25.0;Surface
+2010-10-18 09:22:00;Nitrogen,total N;459.8419743;Bottom
+2010-10-18 09:22:00;Nitrogen,total N;450.3996224;Surface
+2010-10-18 09:22:00;Ortho-phosphat-P;46.0;Bottom
+2010-10-18 09:22:00;Ortho-phosphat-P;33.0;Surface
+2010-10-18 09:22:00;Oxygen indhold;6.5;Bottom
+2010-10-18 09:22:00;Oxygen indhold;10.1;Surface
+2010-10-18 09:22:00;Phosphor, total-P;76.0;Bottom
+2010-10-18 09:22:00;Phosphor, total-P;65.0;Surface
+2010-11-25 13:18:00;Ammoniak+ammonium-N;120.0;Bottom
+2010-11-25 13:18:00;Ammoniak+ammonium-N;110.0;Surface
+2010-11-25 13:18:00;Klorofyl a;4.1;Bottom
+2010-11-25 13:18:00;Klorofyl a;3.9;Surface
+2010-11-25 13:18:00;Nitrit+nitrat-N;320.0;Bottom
+2010-11-25 13:18:00;Nitrit+nitrat-N;320.0;Surface
+2010-11-25 13:18:00;Nitrogen,total N;858.0978995;Bottom
+2010-11-25 13:18:00;Nitrogen,total N;873.0686355;Surface
+2010-11-25 13:18:00;Ortho-phosphat-P;28.0;Bottom
+2010-11-25 13:18:00;Ortho-phosphat-P;27.0;Surface
+2010-11-25 13:18:00;Oxygen indhold;11.0;Surface
+2010-11-25 13:18:00;Phosphor, total-P;56.0;Bottom
+2010-11-25 13:18:00;Phosphor, total-P;55.0;Surface
+2011-01-11 12:06:00;Ammoniak+ammonium-N;140.0;Bottom
+2011-01-11 12:06:00;Ammoniak+ammonium-N;190.0;Surface
+2011-01-11 12:06:00;Klorofyl a;1.2;Bottom
+2011-01-11 12:06:00;Klorofyl a;3.7;Surface
+2011-01-11 12:06:00;Nitrit+nitrat-N;340.0;Bottom
+2011-01-11 12:06:00;Nitrit+nitrat-N;1300.0;Surface
+2011-01-11 12:06:00;Nitrogen,total N;735.0895669;Bottom
+2011-01-11 12:06:00;Nitrogen,total N;1737.035818;Surface
+2011-01-11 12:06:00;Ortho-phosphat-P;31.0;Bottom
+2011-01-11 12:06:00;Ortho-phosphat-P;10.0;Surface
+2011-01-11 12:06:00;Oxygen indhold;11.6;Bottom
+2011-01-11 12:06:00;Oxygen indhold;11.6;Surface
+2011-01-11 12:06:00;Phosphor, total-P;48.0;Bottom
+2011-01-11 12:06:00;Phosphor, total-P;58.0;Surface
+2011-01-31 11:43:00;Ammoniak+ammonium-N;160.0;Bottom
+2011-01-31 11:43:00;Ammoniak+ammonium-N;370.0;Surface
+2011-01-31 11:43:00;Klorofyl a;1.5;Bottom
+2011-01-31 11:43:00;Klorofyl a;5.3;Surface
+2011-01-31 11:43:00;Nitrit+nitrat-N;340.0;Bottom
+2011-01-31 11:43:00;Nitrit+nitrat-N;280.0;Surface
+2011-01-31 11:43:00;Nitrogen,total N;701.9787868;Bottom
+2011-01-31 11:43:00;Nitrogen,total N;973.6436373;Surface
+2011-01-31 11:43:00;Ortho-phosphat-P;39.0;Bottom
+2011-01-31 11:43:00;Ortho-phosphat-P;36.0;Surface
+2011-01-31 11:43:00;Oxygen indhold;7.5;Bottom
+2011-01-31 11:43:00;Oxygen indhold;8.6;Surface
+2011-01-31 11:43:00;Phosphor, total-P;53.0;Bottom
+2011-01-31 11:43:00;Phosphor, total-P;69.0;Surface
+2011-03-08 12:09:00;Ammoniak+ammonium-N;77.0;Bottom
+2011-03-08 12:09:00;Ammoniak+ammonium-N;69.0;Surface
+2011-03-08 12:09:00;Klorofyl a;3.0;Bottom
+2011-03-08 12:09:00;Klorofyl a;3.7;Surface
+2011-03-08 12:09:00;Nitrit+nitrat-N;380.0;Bottom
+2011-03-08 12:09:00;Nitrit+nitrat-N;640.0;Surface
+2011-03-08 12:09:00;Nitrogen,total N;713.6336518;Bottom
+2011-03-08 12:09:00;Nitrogen,total N;1063.478989;Surface
+2011-03-08 12:09:00;Ortho-phosphat-P;4.4;Bottom
+2011-03-08 12:09:00;Ortho-phosphat-P;1.2;Surface
+2011-03-08 12:09:00;Oxygen indhold;10.4;Bottom
+2011-03-08 12:09:00;Oxygen indhold;14.2;Surface
+2011-03-08 12:09:00;Phosphor, total-P;27.0;Bottom
+2011-03-08 12:09:00;Phosphor, total-P;34.0;Surface
+2011-03-16 11:58:00;Ammoniak+ammonium-N;9.4;Bottom
+2011-03-16 11:58:00;Ammoniak+ammonium-N;10.0;Surface
+2011-03-16 11:58:00;Klorofyl a;9.7;Bottom
+2011-03-16 11:58:00;Klorofyl a;9.6;Surface
+2011-03-16 11:58:00;Nitrit+nitrat-N;520.0;Bottom
+2011-03-16 11:58:00;Nitrit+nitrat-N;600.0;Surface
+2011-03-16 11:58:00;Nitrogen,total N;901.692537;Bottom
+2011-03-16 11:58:00;Nitrogen,total N;955.7141125;Surface
+2011-03-16 11:58:00;Ortho-phosphat-P;1.7;Bottom
+2011-03-16 11:58:00;Ortho-phosphat-P;2.3;Surface
+2011-03-16 11:58:00;Oxygen indhold;14.6;Bottom
+2011-03-16 11:58:00;Oxygen indhold;14.6;Surface
+2011-03-16 11:58:00;Phosphor, total-P;38.0;Bottom
+2011-03-16 11:58:00;Phosphor, total-P;30.0;Surface
+2011-03-23 11:48:00;Ammoniak+ammonium-N;30.0;Bottom
+2011-03-23 11:48:00;Ammoniak+ammonium-N;26.0;Surface
+2011-03-23 11:48:00;Klorofyl a;3.9;Bottom
+2011-03-23 11:48:00;Klorofyl a;5.2;Surface
+2011-03-23 11:48:00;Nitrit+nitrat-N;280.0;Bottom
+2011-03-23 11:48:00;Nitrit+nitrat-N;350.0;Surface
+2011-03-23 11:48:00;Nitrogen,total N;578.7298554;Bottom
+2011-03-23 11:48:00;Nitrogen,total N;703.3644084;Surface
+2011-03-23 11:48:00;Ortho-phosphat-P;1.6;Bottom
+2011-03-23 11:48:00;Ortho-phosphat-P;1.6;Surface
+2011-03-23 11:48:00;Oxygen indhold;10.9;Bottom
+2011-03-23 11:48:00;Oxygen indhold;11.5;Surface
+2011-03-23 11:48:00;Phosphor, total-P;15.0;Bottom
+2011-03-23 11:48:00;Phosphor, total-P;16.0;Surface
+2011-04-07 12:50:00;Ammoniak+ammonium-N;48.0;Bottom
+2011-04-07 12:50:00;Ammoniak+ammonium-N;51.0;Surface
+2011-04-07 12:50:00;Klorofyl a;2.7;Bottom
+2011-04-07 12:50:00;Klorofyl a;2.8;Surface
+2011-04-07 12:50:00;Nitrit+nitrat-N;320.0;Bottom
+2011-04-07 12:50:00;Nitrit+nitrat-N;360.0;Surface
+2011-04-07 12:50:00;Nitrogen,total N;669.9268574;Bottom
+2011-04-07 12:50:00;Nitrogen,total N;647.2513098;Surface
+2011-04-07 12:50:00;Ortho-phosphat-P;1.5;Bottom
+2011-04-07 12:50:00;Ortho-phosphat-P;2.1;Surface
+2011-04-07 12:50:00;Oxygen indhold;10.8;Surface
+2011-04-07 12:50:00;Phosphor, total-P;23.0;Bottom
+2011-04-07 12:50:00;Phosphor, total-P;24.0;Surface
+2011-04-18 09:39:00;Ammoniak+ammonium-N;42.0;Bottom
+2011-04-18 09:39:00;Ammoniak+ammonium-N;40.0;Surface
+2011-04-18 09:39:00;Klorofyl a;8.9;Bottom
+2011-04-18 09:39:00;Klorofyl a;8.3;Surface
+2011-04-18 09:39:00;Nitrit+nitrat-N;300.0;Bottom
+2011-04-18 09:39:00;Nitrit+nitrat-N;300.0;Surface
+2011-04-18 09:39:00;Nitrogen,total N;724.4473367;Bottom
+2011-04-18 09:39:00;Nitrogen,total N;723.7000342;Surface
+2011-04-18 09:39:00;Ortho-phosphat-P;4.4;Bottom
+2011-04-18 09:39:00;Ortho-phosphat-P;4.2;Surface
+2011-04-18 09:39:00;Oxygen indhold;11.9;Bottom
+2011-04-18 09:39:00;Oxygen indhold;11.9;Surface
+2011-04-18 09:39:00;Phosphor, total-P;45.0;Bottom
+2011-04-18 09:39:00;Phosphor, total-P;41.0;Surface
+2011-05-02 09:17:00;Ammoniak+ammonium-N;45.0;Bottom
+2011-05-02 09:17:00;Ammoniak+ammonium-N;28.0;Surface
+2011-05-02 09:17:00;Klorofyl a;2.4;Bottom
+2011-05-02 09:17:00;Klorofyl a;2.6;Surface
+2011-05-02 09:17:00;Nitrit+nitrat-N;150.0;Bottom
+2011-05-02 09:17:00;Nitrit+nitrat-N;150.0;Surface
+2011-05-02 09:17:00;Nitrogen,total N;795.3569654;Bottom
+2011-05-02 09:17:00;Nitrogen,total N;764.0208847;Surface
+2011-05-02 09:17:00;Ortho-phosphat-P;2.2;Bottom
+2011-05-02 09:17:00;Ortho-phosphat-P;1.7;Surface
+2011-05-02 09:17:00;Oxygen indhold;11.0;Surface
+2011-05-02 09:17:00;Phosphor, total-P;31.0;Bottom
+2011-05-02 09:17:00;Phosphor, total-P;35.0;Surface
+2011-05-24 10:10:00;Ammoniak+ammonium-N;22.0;Bottom
+2011-05-24 10:10:00;Ammoniak+ammonium-N;15.0;Surface
+2011-05-24 10:10:00;Klorofyl a;2.1;Bottom
+2011-05-24 10:10:00;Klorofyl a;5.1;Surface
+2011-05-24 10:10:00;Nitrit+nitrat-N;8.3;Bottom
+2011-05-24 10:10:00;Nitrit+nitrat-N;7.0;Surface
+2011-05-24 10:10:00;Nitrogen,total N;440.188995;Bottom
+2011-05-24 10:10:00;Nitrogen,total N;516.2256619;Surface
+2011-05-24 10:10:00;Ortho-phosphat-P;4.8;Bottom
+2011-05-24 10:10:00;Ortho-phosphat-P;4.1;Surface
+2011-05-24 10:10:00;Oxygen indhold;8.6;Bottom
+2011-05-24 10:10:00;Oxygen indhold;8.6;Surface
+2011-05-24 10:10:00;Phosphor, total-P;26.0;Bottom
+2011-05-24 10:10:00;Phosphor, total-P;33.0;Surface
+2011-06-08 11:19:00;Ammoniak+ammonium-N;51.0;Bottom
+2011-06-08 11:19:00;Ammoniak+ammonium-N;10.0;Surface
+2011-06-08 11:19:00;Klorofyl a;6.3;Bottom
+2011-06-08 11:19:00;Klorofyl a;13.0;Surface
+2011-06-08 11:19:00;Nitrit+nitrat-N;8.1;Bottom
+2011-06-08 11:19:00;Nitrit+nitrat-N;5.8;Surface
+2011-06-08 11:19:00;Nitrogen,total N;569.4398931;Bottom
+2011-06-08 11:19:00;Nitrogen,total N;519.0950493;Surface
+2011-06-08 11:19:00;Ortho-phosphat-P;12.0;Bottom
+2011-06-08 11:19:00;Ortho-phosphat-P;1.9;Surface
+2011-06-08 11:19:00;Oxygen indhold;3.1;Bottom
+2011-06-08 11:19:00;Oxygen indhold;9.6;Surface
+2011-06-08 11:19:00;Phosphor, total-P;47.0;Bottom
+2011-06-08 11:19:00;Phosphor, total-P;37.0;Surface
+2011-06-20 09:58:00;Ammoniak+ammonium-N;250.0;Bottom
+2011-06-20 09:58:00;Ammoniak+ammonium-N;6.0;Surface
+2011-06-20 09:58:00;Klorofyl a;2.1;Bottom
+2011-06-20 09:58:00;Klorofyl a;13.0;Surface
+2011-06-20 09:58:00;Nitrit+nitrat-N;6.7;Bottom
+2011-06-20 09:58:00;Nitrit+nitrat-N;1.5;Surface
+2011-06-20 09:58:00;Nitrogen,total N;654.6687227;Bottom
+2011-06-20 09:58:00;Nitrogen,total N;556.126844;Surface
+2011-06-20 09:58:00;Ortho-phosphat-P;77.0;Bottom
+2011-06-20 09:58:00;Ortho-phosphat-P;3.1;Surface
+2011-06-20 09:58:00;Oxygen indhold;1.6;Bottom
+2011-06-20 09:58:00;Oxygen indhold;8.9;Surface
+2011-06-20 09:58:00;Phosphor, total-P;120.0;Bottom
+2011-06-20 09:58:00;Phosphor, total-P;62.0;Surface
+2011-07-05 09:45:00;Ammoniak+ammonium-N;14.0;Bottom
+2011-07-05 09:45:00;Ammoniak+ammonium-N;40.0;Surface
+2011-07-05 09:45:00;Klorofyl a;7.7;Bottom
+2011-07-05 09:45:00;Klorofyl a;6.8;Surface
+2011-07-05 09:45:00;Nitrit+nitrat-N;8.8;Bottom
+2011-07-05 09:45:00;Nitrit+nitrat-N;1.5;Surface
+2011-07-05 09:45:00;Nitrogen,total N;462.0586032;Bottom
+2011-07-05 09:45:00;Nitrogen,total N;410.9095671;Surface
+2011-07-05 09:45:00;Ortho-phosphat-P;60.0;Bottom
+2011-07-05 09:45:00;Ortho-phosphat-P;33.0;Surface
+2011-07-05 09:45:00;Oxygen indhold;3.72;Bottom
+2011-07-05 09:45:00;Oxygen indhold;9.61;Surface
+2011-07-05 09:45:00;Phosphor, total-P;110.0;Bottom
+2011-07-05 09:45:00;Phosphor, total-P;73.0;Surface
+2011-07-19 09:36:00;Ammoniak+ammonium-N;160.0;Bottom
+2011-07-19 09:36:00;Ammoniak+ammonium-N;5.5;Surface
+2011-07-19 09:36:00;Klorofyl a;2.4;Bottom
+2011-07-19 09:36:00;Klorofyl a;13.0;Surface
+2011-07-19 09:36:00;Nitrit+nitrat-N;6.9;Bottom
+2011-07-19 09:36:00;Nitrit+nitrat-N;7.5;Surface
+2011-07-19 09:36:00;Nitrogen,total N;496.662165;Bottom
+2011-07-19 09:36:00;Nitrogen,total N;478.4045477;Surface
+2011-07-19 09:36:00;Ortho-phosphat-P;98.0;Bottom
+2011-07-19 09:36:00;Ortho-phosphat-P;40.0;Surface
+2011-07-19 09:36:00;Oxygen indhold;3.1;Bottom
+2011-07-19 09:36:00;Oxygen indhold;9.7;Surface
+2011-07-19 09:36:00;Phosphor, total-P;130.0;Bottom
+2011-07-19 09:36:00;Phosphor, total-P;110.0;Surface
+2011-08-01 09:21:00;Ammoniak+ammonium-N;130.0;Bottom
+2011-08-01 09:21:00;Ammoniak+ammonium-N;8.3;Surface
+2011-08-01 09:21:00;Klorofyl a;5.6;Bottom
+2011-08-01 09:21:00;Klorofyl a;4.1;Surface
+2011-08-01 09:21:00;Nitrit+nitrat-N;1.5;Bottom
+2011-08-01 09:21:00;Nitrit+nitrat-N;1.5;Surface
+2011-08-01 09:21:00;Nitrogen,total N;600.3717857;Bottom
+2011-08-01 09:21:00;Nitrogen,total N;460.4085662;Surface
+2011-08-01 09:21:00;Ortho-phosphat-P;240.0;Bottom
+2011-08-01 09:21:00;Ortho-phosphat-P;45.0;Surface
+2011-08-01 09:21:00;Oxygen indhold;0.87;Bottom
+2011-08-01 09:21:00;Oxygen indhold;8.7;Surface
+2011-08-01 09:21:00;Phosphor, total-P;340.0;Bottom
+2011-08-01 09:21:00;Phosphor, total-P;88.0;Surface
+2011-08-15 09:37:00;Ammoniak+ammonium-N;430.0;Bottom
+2011-08-15 09:37:00;Ammoniak+ammonium-N;8.2;Surface
+2011-08-15 09:37:00;Klorofyl a;4.8;Bottom
+2011-08-15 09:37:00;Klorofyl a;32.0;Surface
+2011-08-15 09:37:00;Nitrit+nitrat-N;17.0;Bottom
+2011-08-15 09:37:00;Nitrit+nitrat-N;1.8;Surface
+2011-08-15 09:37:00;Nitrogen,total N;840.1029033;Bottom
+2011-08-15 09:37:00;Nitrogen,total N;726.3480027;Surface
+2011-08-15 09:37:00;Ortho-phosphat-P;310.0;Bottom
+2011-08-15 09:37:00;Ortho-phosphat-P;130.0;Surface
+2011-08-15 09:37:00;Oxygen indhold;4.4;Bottom
+2011-08-15 09:37:00;Oxygen indhold;10.3;Surface
+2011-08-15 09:37:00;Phosphor, total-P;360.0;Bottom
+2011-08-15 09:37:00;Phosphor, total-P;240.0;Surface
+2011-08-30 11:50:00;Ammoniak+ammonium-N;89.0;Bottom
+2011-08-30 11:50:00;Ammoniak+ammonium-N;91.0;Surface
+2011-08-30 11:50:00;Klorofyl a;17.0;Bottom
+2011-08-30 11:50:00;Klorofyl a;23.0;Surface
+2011-08-30 11:50:00;Nitrit+nitrat-N;6.7;Bottom
+2011-08-30 11:50:00;Nitrit+nitrat-N;10.0;Surface
+2011-08-30 11:50:00;Nitrogen,total N;669.9514732;Bottom
+2011-08-30 11:50:00;Nitrogen,total N;662.8572221;Surface
+2011-08-30 11:50:00;Ortho-phosphat-P;170.0;Bottom
+2011-08-30 11:50:00;Ortho-phosphat-P;180.0;Surface
+2011-08-30 11:50:00;Oxygen indhold;7.7;Bottom
+2011-08-30 11:50:00;Oxygen indhold;9.0;Surface
+2011-08-30 11:50:00;Phosphor, total-P;250.0;Bottom
+2011-08-30 11:50:00;Phosphor, total-P;250.0;Surface
+2011-09-21 08:36:00;Ammoniak+ammonium-N;110.0;Bottom
+2011-09-21 08:36:00;Ammoniak+ammonium-N;65.0;Surface
+2011-09-21 08:36:00;Klorofyl a;3.8;Bottom
+2011-09-21 08:36:00;Klorofyl a;5.4;Surface
+2011-09-21 08:36:00;Nitrit+nitrat-N;26.0;Bottom
+2011-09-21 08:36:00;Nitrit+nitrat-N;110.0;Surface
+2011-09-21 08:36:00;Nitrogen,total N;457.2339452;Bottom
+2011-09-21 08:36:00;Nitrogen,total N;614.974361;Surface
+2011-09-21 08:36:00;Ortho-phosphat-P;53.0;Bottom
+2011-09-21 08:36:00;Ortho-phosphat-P;61.0;Surface
+2011-09-21 08:36:00;Oxygen indhold;5.9;Bottom
+2011-09-21 08:36:00;Oxygen indhold;8.5;Surface
+2011-09-21 08:36:00;Phosphor, total-P;78.0;Bottom
+2011-09-21 08:36:00;Phosphor, total-P;100.0;Surface
+2011-10-03 09:41:00;Ammoniak+ammonium-N;14.0;Bottom
+2011-10-03 09:41:00;Ammoniak+ammonium-N;19.0;Surface
+2011-10-03 09:41:00;Klorofyl a;5.5;Bottom
+2011-10-03 09:41:00;Klorofyl a;12.0;Surface
+2011-10-03 09:41:00;Nitrit+nitrat-N;10.0;Bottom
+2011-10-03 09:41:00;Nitrit+nitrat-N;1.5;Surface
+2011-10-03 09:41:00;Nitrogen,total N;378.1636842;Bottom
+2011-10-03 09:41:00;Nitrogen,total N;487.6564347;Surface
+2011-10-03 09:41:00;Ortho-phosphat-P;49.0;Bottom
+2011-10-03 09:41:00;Ortho-phosphat-P;23.0;Surface
+2011-10-03 09:41:00;Oxygen indhold;2.4;Bottom
+2011-10-03 09:41:00;Oxygen indhold;9.5;Surface
+2011-10-03 09:41:00;Phosphor, total-P;91.0;Bottom
+2011-10-03 09:41:00;Phosphor, total-P;91.0;Surface
+2011-10-18 09:38:00;Ammoniak+ammonium-N;21.0;Bottom
+2011-10-18 09:38:00;Ammoniak+ammonium-N;22.0;Surface
+2011-10-18 09:38:00;Klorofyl a;5.0;Bottom
+2011-10-18 09:38:00;Klorofyl a;11.0;Surface
+2011-10-18 09:38:00;Nitrit+nitrat-N;18.0;Bottom
+2011-10-18 09:38:00;Nitrit+nitrat-N;25.0;Surface
+2011-10-18 09:38:00;Nitrogen,total N;423.3232009;Bottom
+2011-10-18 09:38:00;Nitrogen,total N;490.0809181;Surface
+2011-10-18 09:38:00;Ortho-phosphat-P;20.0;Bottom
+2011-10-18 09:38:00;Ortho-phosphat-P;24.0;Surface
+2011-10-18 09:38:00;Oxygen indhold;9.1;Surface
+2011-10-18 09:38:00;Phosphor, total-P;60.0;Bottom
+2011-10-18 09:38:00;Phosphor, total-P;72.0;Surface
+2011-10-31 09:33:00;Ammoniak+ammonium-N;66.0;Bottom
+2011-10-31 09:33:00;Ammoniak+ammonium-N;33.0;Surface
+2011-10-31 09:33:00;Klorofyl a;2.9;Bottom
+2011-10-31 09:33:00;Klorofyl a;10.0;Surface
+2011-10-31 09:33:00;Nitrit+nitrat-N;29.0;Bottom
+2011-10-31 09:33:00;Nitrit+nitrat-N;150.0;Surface
+2011-10-31 09:33:00;Nitrogen,total N;399.0349257;Bottom
+2011-10-31 09:33:00;Nitrogen,total N;655.6527533;Surface
+2011-10-31 09:33:00;Ortho-phosphat-P;14.0;Bottom
+2011-10-31 09:33:00;Ortho-phosphat-P;15.0;Surface
+2011-10-31 09:33:00;Oxygen indhold;7.6;Bottom
+2011-10-31 09:33:00;Oxygen indhold;9.7;Surface
+2011-10-31 09:33:00;Phosphor, total-P;43.0;Bottom
+2011-10-31 09:33:00;Phosphor, total-P;68.0;Surface
+2011-11-11 08:20:00;Ammoniak+ammonium-N;120.0;Bottom
+2011-11-11 08:20:00;Ammoniak+ammonium-N;110.0;Surface
+2011-11-11 08:20:00;Klorofyl a;4.0;Bottom
+2011-11-11 08:20:00;Klorofyl a;6.6;Surface
+2011-11-11 08:20:00;Nitrit+nitrat-N;160.0;Bottom
+2011-11-11 08:20:00;Nitrit+nitrat-N;250.0;Surface
+2011-11-11 08:20:00;Nitrogen,total N;645.3635182;Bottom
+2011-11-11 08:20:00;Nitrogen,total N;761.8489281;Surface
+2011-11-11 08:20:00;Ortho-phosphat-P;26.0;Bottom
+2011-11-11 08:20:00;Ortho-phosphat-P;25.0;Surface
+2011-11-11 08:20:00;Oxygen indhold;8.9;Bottom
+2011-11-11 08:20:00;Oxygen indhold;10.4;Surface
+2011-11-11 08:20:00;Phosphor, total-P;55.0;Bottom
+2011-11-11 08:20:00;Phosphor, total-P;66.0;Surface
+2011-11-29 09:31:00;Ammoniak+ammonium-N;160.0;Bottom
+2011-11-29 09:31:00;Ammoniak+ammonium-N;160.0;Surface
+2011-11-29 09:31:00;Klorofyl a;2.2;Bottom
+2011-11-29 09:31:00;Klorofyl a;1.6;Surface
+2011-11-29 09:31:00;Nitrit+nitrat-N;150.0;Bottom
+2011-11-29 09:31:00;Nitrit+nitrat-N;180.0;Surface
+2011-11-29 09:31:00;Nitrogen,total N;613.5284189;Bottom
+2011-11-29 09:31:00;Nitrogen,total N;626.0768551;Surface
+2011-11-29 09:31:00;Ortho-phosphat-P;22.0;Bottom
+2011-11-29 09:31:00;Ortho-phosphat-P;22.0;Surface
+2011-11-29 09:31:00;Oxygen indhold;10.3;Bottom
+2011-11-29 09:31:00;Oxygen indhold;10.4;Surface
+2011-11-29 09:31:00;Phosphor, total-P;43.0;Bottom
+2011-11-29 09:31:00;Phosphor, total-P;44.0;Surface
+2011-12-19 09:47:00;Ammoniak+ammonium-N;160.0;Bottom
+2011-12-19 09:47:00;Ammoniak+ammonium-N;170.0;Surface
+2011-12-19 09:47:00;Klorofyl a;0.5;Bottom
+2011-12-19 09:47:00;Klorofyl a;0.5;Surface
+2011-12-19 09:47:00;Nitrit+nitrat-N;260.0;Bottom
+2011-12-19 09:47:00;Nitrit+nitrat-N;420.0;Surface
+2011-12-19 09:47:00;Nitrogen,total N;673.1484179;Bottom
+2011-12-19 09:47:00;Nitrogen,total N;820.1349254;Surface
+2011-12-19 09:47:00;Ortho-phosphat-P;17.0;Bottom
+2011-12-19 09:47:00;Ortho-phosphat-P;16.0;Surface
+2011-12-19 09:47:00;Oxygen indhold;9.6;Bottom
+2011-12-19 09:47:00;Oxygen indhold;10.4;Surface
+2011-12-19 09:47:00;Phosphor, total-P;34.0;Bottom
+2011-12-19 09:47:00;Phosphor, total-P;35.0;Surface
+2012-01-05 09:43:00;Ammoniak+ammonium-N;160.0;Bottom
+2012-01-05 09:43:00;Ammoniak+ammonium-N;170.0;Surface
+2012-01-05 09:43:00;Klorofyl a;3.4;Bottom
+2012-01-05 09:43:00;Klorofyl a;5.2;Surface
+2012-01-05 09:43:00;Nitrit+nitrat-N;350.0;Bottom
+2012-01-05 09:43:00;Nitrit+nitrat-N;380.0;Surface
+2012-01-05 09:43:00;Nitrogen,total N;732.5223458;Bottom
+2012-01-05 09:43:00;Nitrogen,total N;729.6229875;Surface
+2012-01-05 09:43:00;Ortho-phosphat-P;10.0;Bottom
+2012-01-05 09:43:00;Ortho-phosphat-P;12.0;Surface
+2012-01-05 09:43:00;Oxygen indhold;12.0;Bottom
+2012-01-05 09:43:00;Oxygen indhold;12.5;Surface
+2012-01-05 09:43:00;Phosphor, total-P;30.0;Bottom
+2012-01-05 09:43:00;Phosphor, total-P;30.0;Surface
+2012-01-26 09:56:00;Ammoniak+ammonium-N;150.0;Bottom
+2012-01-26 09:56:00;Ammoniak+ammonium-N;150.0;Surface
+2012-01-26 09:56:00;Klorofyl a;2.8;Bottom
+2012-01-26 09:56:00;Klorofyl a;2.1;Surface
+2012-01-26 09:56:00;Nitrit+nitrat-N;650.0;Bottom
+2012-01-26 09:56:00;Nitrit+nitrat-N;660.0;Surface
+2012-01-26 09:56:00;Nitrogen,total N;1020.274207;Bottom
+2012-01-26 09:56:00;Nitrogen,total N;1026.98482;Surface
+2012-01-26 09:56:00;Ortho-phosphat-P;18.0;Bottom
+2012-01-26 09:56:00;Ortho-phosphat-P;17.0;Surface
+2012-01-26 09:56:00;Oxygen indhold;11.5;Bottom
+2012-01-26 09:56:00;Oxygen indhold;11.3;Surface
+2012-01-26 09:56:00;Phosphor, total-P;33.0;Bottom
+2012-01-26 09:56:00;Phosphor, total-P;33.0;Surface
+2012-02-29 09:14:00;Ammoniak+ammonium-N;17.0;Bottom
+2012-02-29 09:14:00;Ammoniak+ammonium-N;21.0;Surface
+2012-02-29 09:14:00;Klorofyl a;7.7;Bottom
+2012-02-29 09:14:00;Klorofyl a;8.4;Surface
+2012-02-29 09:14:00;Nitrit+nitrat-N;550.0;Bottom
+2012-02-29 09:14:00;Nitrit+nitrat-N;580.0;Surface
+2012-02-29 09:14:00;Nitrogen,total N;861.1671046;Bottom
+2012-02-29 09:14:00;Nitrogen,total N;890.9593585;Surface
+2012-02-29 09:14:00;Ortho-phosphat-P;1.1;Bottom
+2012-02-29 09:14:00;Ortho-phosphat-P;1.7;Surface
+2012-02-29 09:14:00;Oxygen indhold;11.6;Bottom
+2012-02-29 09:14:00;Oxygen indhold;11.9;Surface
+2012-02-29 09:14:00;Phosphor, total-P;18.0;Bottom
+2012-02-29 09:14:00;Phosphor, total-P;17.0;Surface
+2012-03-05 10:15:00;Ammoniak+ammonium-N;38.0;Bottom
+2012-03-05 10:15:00;Ammoniak+ammonium-N;37.0;Surface
+2012-03-05 10:15:00;Klorofyl a;3.1;Bottom
+2012-03-05 10:15:00;Klorofyl a;4.6;Surface
+2012-03-05 10:15:00;Nitrit+nitrat-N;650.0;Bottom
+2012-03-05 10:15:00;Nitrit+nitrat-N;690.0;Surface
+2012-03-05 10:15:00;Nitrogen,total N;871.451963;Bottom
+2012-03-05 10:15:00;Nitrogen,total N;940.151747;Surface
+2012-03-05 10:15:00;Ortho-phosphat-P;1.0;Bottom
+2012-03-05 10:15:00;Ortho-phosphat-P;1.6;Surface
+2012-03-05 10:15:00;Oxygen indhold;11.5;Bottom
+2012-03-05 10:15:00;Oxygen indhold;11.7;Surface
+2012-03-05 10:15:00;Phosphor, total-P;12.0;Bottom
+2012-03-05 10:15:00;Phosphor, total-P;14.0;Surface
+2012-03-13 11:59:00;Ammoniak+ammonium-N;5.4;Bottom
+2012-03-13 11:59:00;Ammoniak+ammonium-N;4.9;Surface
+2012-03-13 11:59:00;Klorofyl a;7.3;Bottom
+2012-03-13 11:59:00;Klorofyl a;6.7;Surface
+2012-03-13 11:59:00;Nitrit+nitrat-N;500.0;Bottom
+2012-03-13 11:59:00;Nitrit+nitrat-N;500.0;Surface
+2012-03-13 11:59:00;Nitrogen,total N;763.6485987;Bottom
+2012-03-13 11:59:00;Nitrogen,total N;787.7523335;Surface
+2012-03-13 11:59:00;Ortho-phosphat-P;1.0;Bottom
+2012-03-13 11:59:00;Ortho-phosphat-P;1.7;Surface
+2012-03-13 11:59:00;Oxygen indhold;10.5;Bottom
+2012-03-13 11:59:00;Oxygen indhold;11.2;Surface
+2012-03-13 11:59:00;Phosphor, total-P;15.0;Bottom
+2012-03-13 11:59:00;Phosphor, total-P;14.0;Surface
+2012-03-22 09:24:00;Ammoniak+ammonium-N;17.0;Bottom
+2012-03-22 09:24:00;Ammoniak+ammonium-N;20.0;Surface
+2012-03-22 09:24:00;Klorofyl a;4.2;Bottom
+2012-03-22 09:24:00;Klorofyl a;4.6;Surface
+2012-03-22 09:24:00;Nitrit+nitrat-N;480.0;Bottom
+2012-03-22 09:24:00;Nitrit+nitrat-N;500.0;Surface
+2012-03-22 09:24:00;Nitrogen,total N;721.4024459;Bottom
+2012-03-22 09:24:00;Nitrogen,total N;766.4182046;Surface
+2012-03-22 09:24:00;Ortho-phosphat-P;2.6;Bottom
+2012-03-22 09:24:00;Ortho-phosphat-P;2.5;Surface
+2012-03-22 09:24:00;Oxygen indhold;10.1;Bottom
+2012-03-22 09:24:00;Oxygen indhold;10.2;Surface
+2012-03-22 09:24:00;Phosphor, total-P;13.0;Bottom
+2012-03-22 09:24:00;Phosphor, total-P;15.0;Surface
+2012-04-16 09:56:00;Ammoniak+ammonium-N;29.0;Bottom
+2012-04-16 09:56:00;Ammoniak+ammonium-N;29.0;Surface
+2012-04-16 09:56:00;Klorofyl a;1.2;Bottom
+2012-04-16 09:56:00;Klorofyl a;2.0;Surface
+2012-04-16 09:56:00;Nitrit+nitrat-N;350.0;Bottom
+2012-04-16 09:56:00;Nitrit+nitrat-N;350.0;Surface
+2012-04-16 09:56:00;Nitrogen,total N;631.3188463;Bottom
+2012-04-16 09:56:00;Nitrogen,total N;650.4327197;Surface
+2012-04-16 09:56:00;Ortho-phosphat-P;2.6;Bottom
+2012-04-16 09:56:00;Ortho-phosphat-P;2.4;Surface
+2012-04-16 09:56:00;Oxygen indhold;10.0;Bottom
+2012-04-16 09:56:00;Oxygen indhold;10.3;Surface
+2012-04-16 09:56:00;Phosphor, total-P;18.0;Bottom
+2012-04-16 09:56:00;Phosphor, total-P;15.0;Surface
+2012-05-07 10:05:00;Ammoniak+ammonium-N;26.0;Bottom
+2012-05-07 10:05:00;Ammoniak+ammonium-N;23.0;Surface
+2012-05-07 10:05:00;Klorofyl a;3.0;Bottom
+2012-05-07 10:05:00;Klorofyl a;1.2;Surface
+2012-05-07 10:05:00;Nitrit+nitrat-N;180.0;Bottom
+2012-05-07 10:05:00;Nitrit+nitrat-N;240.0;Surface
+2012-05-07 10:05:00;Nitrogen,total N;498.5991181;Bottom
+2012-05-07 10:05:00;Nitrogen,total N;582.9969621;Surface
+2012-05-07 10:05:00;Ortho-phosphat-P;2.4;Bottom
+2012-05-07 10:05:00;Ortho-phosphat-P;1.1;Surface
+2012-05-07 10:05:00;Oxygen indhold;9.2;Bottom
+2012-05-07 10:05:00;Oxygen indhold;10.5;Surface
+2012-05-07 10:05:00;Phosphor, total-P;17.0;Bottom
+2012-05-07 10:05:00;Phosphor, total-P;14.0;Surface
+2012-05-21 09:39:00;Ammoniak+ammonium-N;30.0;Bottom
+2012-05-21 09:39:00;Ammoniak+ammonium-N;15.0;Surface
+2012-05-21 09:39:00;Klorofyl a;4.3;Bottom
+2012-05-21 09:39:00;Klorofyl a;5.9;Surface
+2012-05-21 09:39:00;Nitrit+nitrat-N;220.0;Bottom
+2012-05-21 09:39:00;Nitrit+nitrat-N;240.0;Surface
+2012-05-21 09:39:00;Nitrogen,total N;636.0112402;Bottom
+2012-05-21 09:39:00;Nitrogen,total N;613.6187455;Surface
+2012-05-21 09:39:00;Ortho-phosphat-P;1.8;Bottom
+2012-05-21 09:39:00;Ortho-phosphat-P;2.7;Surface
+2012-05-21 09:39:00;Oxygen indhold;10.0;Bottom
+2012-05-21 09:39:00;Oxygen indhold;11.1;Surface
+2012-05-21 09:39:00;Phosphor, total-P;31.0;Bottom
+2012-05-21 09:39:00;Phosphor, total-P;26.0;Surface
+2012-06-04 09:24:00;Ammoniak+ammonium-N;19.0;Bottom
+2012-06-04 09:24:00;Ammoniak+ammonium-N;7.9;Surface
+2012-06-04 09:24:00;Klorofyl a;14.0;Bottom
+2012-06-04 09:24:00;Klorofyl a;14.0;Surface
+2012-06-04 09:24:00;Nitrit+nitrat-N;66.0;Bottom
+2012-06-04 09:24:00;Nitrit+nitrat-N;73.0;Surface
+2012-06-04 09:24:00;Nitrogen,total N;543.2944487;Bottom
+2012-06-04 09:24:00;Nitrogen,total N;545.7874566;Surface
+2012-06-04 09:24:00;Ortho-phosphat-P;2.4;Bottom
+2012-06-04 09:24:00;Ortho-phosphat-P;3.0;Surface
+2012-06-04 09:24:00;Oxygen indhold;9.9;Bottom
+2012-06-04 09:24:00;Oxygen indhold;10.0;Surface
+2012-06-04 09:24:00;Phosphor, total-P;23.0;Bottom
+2012-06-04 09:24:00;Phosphor, total-P;24.0;Surface
+2012-06-11 12:15:00;Oxygen indhold;6.6;Bottom
+2012-06-18 09:48:00;Ammoniak+ammonium-N;68.0;Bottom
+2012-06-18 09:48:00;Ammoniak+ammonium-N;18.0;Surface
+2012-06-18 09:48:00;Klorofyl a;0.6;Bottom
+2012-06-18 09:48:00;Klorofyl a;8.2;Surface
+2012-06-18 09:48:00;Nitrit+nitrat-N;15.0;Bottom
+2012-06-18 09:48:00;Nitrit+nitrat-N;17.0;Surface
+2012-06-18 09:48:00;Nitrogen,total N;447.1378404;Bottom
+2012-06-18 09:48:00;Nitrogen,total N;511.9244025;Surface
+2012-06-18 09:48:00;Ortho-phosphat-P;2.9;Bottom
+2012-06-18 09:48:00;Ortho-phosphat-P;2.9;Surface
+2012-06-18 09:48:00;Oxygen indhold;9.0;Surface
+2012-06-18 09:48:00;Phosphor, total-P;30.0;Bottom
+2012-06-18 09:48:00;Phosphor, total-P;30.0;Surface
+2012-07-02 09:45:00;Ammoniak+ammonium-N;96.0;Bottom
+2012-07-02 09:45:00;Ammoniak+ammonium-N;19.0;Surface
+2012-07-02 09:45:00;Klorofyl a;2.6;Bottom
+2012-07-02 09:45:00;Klorofyl a;4.7;Surface
+2012-07-02 09:45:00;Nitrit+nitrat-N;16.0;Bottom
+2012-07-02 09:45:00;Nitrit+nitrat-N;7.7;Surface
+2012-07-02 09:45:00;Nitrogen,total N;449.5564763;Bottom
+2012-07-02 09:45:00;Nitrogen,total N;436.0047276;Surface
+2012-07-02 09:45:00;Ortho-phosphat-P;20.0;Bottom
+2012-07-02 09:45:00;Ortho-phosphat-P;8.6;Surface
+2012-07-02 09:45:00;Oxygen indhold;6.8;Bottom
+2012-07-02 09:45:00;Oxygen indhold;8.5;Surface
+2012-07-02 09:45:00;Phosphor, total-P;40.0;Bottom
+2012-07-02 09:45:00;Phosphor, total-P;30.0;Surface
+2012-07-10 10:00:00;Oxygen indhold;2.8;Bottom
+2012-07-10 10:00:00;Oxygen indhold;7.6;Surface
+2012-07-16 09:49:00;Ammoniak+ammonium-N;16.0;Bottom
+2012-07-16 09:49:00;Ammoniak+ammonium-N;7.2;Surface
+2012-07-16 09:49:00;Klorofyl a;14.0;Bottom
+2012-07-16 09:49:00;Klorofyl a;15.0;Surface
+2012-07-16 09:49:00;Nitrit+nitrat-N;2.9;Bottom
+2012-07-16 09:49:00;Nitrit+nitrat-N;1.9;Surface
+2012-07-16 09:49:00;Nitrogen,total N;534.8333687;Bottom
+2012-07-16 09:49:00;Nitrogen,total N;526.6115984;Surface
+2012-07-16 09:49:00;Ortho-phosphat-P;32.0;Bottom
+2012-07-16 09:49:00;Ortho-phosphat-P;23.0;Surface
+2012-07-16 09:49:00;Oxygen indhold;10.4;Surface
+2012-07-16 09:49:00;Phosphor, total-P;83.0;Bottom
+2012-07-16 09:49:00;Phosphor, total-P;84.0;Surface
+2012-07-30 09:45:00;Ammoniak+ammonium-N;81.0;Bottom
+2012-07-30 09:45:00;Ammoniak+ammonium-N;3.0;Surface
+2012-07-30 09:45:00;Klorofyl a;2.3;Bottom
+2012-07-30 09:45:00;Klorofyl a;13.0;Surface
+2012-07-30 09:45:00;Nitrit+nitrat-N;12.0;Bottom
+2012-07-30 09:45:00;Nitrit+nitrat-N;2.1;Surface
+2012-07-30 09:45:00;Nitrogen,total N;479.0987964;Bottom
+2012-07-30 09:45:00;Nitrogen,total N;495.9808211;Surface
+2012-07-30 09:45:00;Ortho-phosphat-P;74.0;Bottom
+2012-07-30 09:45:00;Ortho-phosphat-P;38.0;Surface
+2012-07-30 09:45:00;Oxygen indhold;3.9;Bottom
+2012-07-30 09:45:00;Oxygen indhold;8.8;Surface
+2012-07-30 09:45:00;Phosphor, total-P;95.0;Bottom
+2012-07-30 09:45:00;Phosphor, total-P;87.0;Surface
+2012-08-06 09:49:00;Ammoniak+ammonium-N;110.0;Bottom
+2012-08-06 09:49:00;Ammoniak+ammonium-N;17.0;Surface
+2012-08-06 09:49:00;Klorofyl a;2.1;Bottom
+2012-08-06 09:49:00;Klorofyl a;11.0;Surface
+2012-08-06 09:49:00;Nitrit+nitrat-N;22.0;Bottom
+2012-08-06 09:49:00;Nitrit+nitrat-N;3.6;Surface
+2012-08-06 09:49:00;Nitrogen,total N;378.0095494;Bottom
+2012-08-06 09:49:00;Nitrogen,total N;493.9936676;Surface
+2012-08-06 09:49:00;Ortho-phosphat-P;97.0;Bottom
+2012-08-06 09:49:00;Ortho-phosphat-P;58.0;Surface
+2012-08-06 09:49:00;Oxygen indhold;2.2;Bottom
+2012-08-06 09:49:00;Oxygen indhold;9.2;Surface
+2012-08-06 09:49:00;Phosphor, total-P;110.0;Bottom
+2012-08-06 09:49:00;Phosphor, total-P;100.0;Surface
+2012-08-23 10:29:00;Ammoniak+ammonium-N;280.0;Bottom
+2012-08-23 10:29:00;Ammoniak+ammonium-N;3.0;Surface
+2012-08-23 10:29:00;Klorofyl a;2.6;Bottom
+2012-08-23 10:29:00;Klorofyl a;9.5;Surface
+2012-08-23 10:29:00;Nitrit+nitrat-N;11.0;Bottom
+2012-08-23 10:29:00;Nitrit+nitrat-N;3.3;Surface
+2012-08-23 10:29:00;Nitrogen,total N;603.8507204;Bottom
+2012-08-23 10:29:00;Nitrogen,total N;495.3046082;Surface
+2012-08-23 10:29:00;Ortho-phosphat-P;160.0;Bottom
+2012-08-23 10:29:00;Ortho-phosphat-P;80.0;Surface
+2012-08-23 10:29:00;Oxygen indhold;2.7;Bottom
+2012-08-23 10:29:00;Oxygen indhold;9.6;Surface
+2012-08-23 10:29:00;Phosphor, total-P;210.0;Bottom
+2012-08-23 10:29:00;Phosphor, total-P;150.0;Surface
+2012-09-03 09:11:00;Ammoniak+ammonium-N;320.0;Bottom
+2012-09-03 09:11:00;Ammoniak+ammonium-N;5.8;Surface
+2012-09-03 09:11:00;Klorofyl a;2.5;Bottom
+2012-09-03 09:11:00;Klorofyl a;23.0;Surface
+2012-09-03 09:11:00;Nitrit+nitrat-N;6.3;Bottom
+2012-09-03 09:11:00;Nitrit+nitrat-N;5.6;Surface
+2012-09-03 09:11:00;Nitrogen,total N;616.4099433;Bottom
+2012-09-03 09:11:00;Nitrogen,total N;464.089209;Surface
+2012-09-03 09:11:00;Ortho-phosphat-P;170.0;Bottom
+2012-09-03 09:11:00;Ortho-phosphat-P;120.0;Surface
+2012-09-03 09:11:00;Oxygen indhold;2.2;Bottom
+2012-09-03 09:11:00;Oxygen indhold;8.5;Surface
+2012-09-03 09:11:00;Phosphor, total-P;200.0;Bottom
+2012-09-03 09:11:00;Phosphor, total-P;190.0;Surface
+2012-09-17 09:34:00;Ammoniak+ammonium-N;41.0;Bottom
+2012-09-17 09:34:00;Ammoniak+ammonium-N;21.0;Surface
+2012-09-17 09:34:00;Klorofyl a;5.9;Bottom
+2012-09-17 09:34:00;Klorofyl a;5.5;Surface
+2012-09-17 09:34:00;Nitrit+nitrat-N;10.0;Bottom
+2012-09-17 09:34:00;Nitrit+nitrat-N;29.0;Surface
+2012-09-17 09:34:00;Nitrogen,total N;423.2901716;Bottom
+2012-09-17 09:34:00;Nitrogen,total N;459.382931;Surface
+2012-09-17 09:34:00;Ortho-phosphat-P;65.0;Bottom
+2012-09-17 09:34:00;Ortho-phosphat-P;80.0;Surface
+2012-09-17 09:34:00;Oxygen indhold;7.1;Bottom
+2012-09-17 09:34:00;Oxygen indhold;8.0;Surface
+2012-09-17 09:34:00;Phosphor, total-P;89.0;Bottom
+2012-09-17 09:34:00;Phosphor, total-P;100.0;Surface
+2012-10-01 09:44:00;Ammoniak+ammonium-N;110.0;Bottom
+2012-10-01 09:44:00;Ammoniak+ammonium-N;110.0;Surface
+2012-10-01 09:44:00;Klorofyl a;2.6;Bottom
+2012-10-01 09:44:00;Klorofyl a;1.8;Surface
+2012-10-01 09:44:00;Nitrit+nitrat-N;26.0;Bottom
+2012-10-01 09:44:00;Nitrit+nitrat-N;72.0;Surface
+2012-10-01 09:44:00;Nitrogen,total N;449.4085201;Bottom
+2012-10-01 09:44:00;Nitrogen,total N;494.2801893;Surface
+2012-10-01 09:44:00;Ortho-phosphat-P;53.0;Bottom
+2012-10-01 09:44:00;Ortho-phosphat-P;58.0;Surface
+2012-10-01 09:44:00;Oxygen indhold;5.8;Bottom
+2012-10-01 09:44:00;Oxygen indhold;8.1;Surface
+2012-10-01 09:44:00;Phosphor, total-P;76.0;Bottom
+2012-10-01 09:44:00;Phosphor, total-P;77.0;Surface
+2012-10-16 09:40:00;Ammoniak+ammonium-N;180.0;Bottom
+2012-10-16 09:40:00;Ammoniak+ammonium-N;120.0;Surface
+2012-10-16 09:40:00;Klorofyl a;2.2;Bottom
+2012-10-16 09:40:00;Klorofyl a;4.2;Surface
+2012-10-16 09:40:00;Nitrit+nitrat-N;80.0;Bottom
+2012-10-16 09:40:00;Nitrit+nitrat-N;360.0;Surface
+2012-10-16 09:40:00;Nitrogen,total N;590.2527528;Bottom
+2012-10-16 09:40:00;Nitrogen,total N;897.5263162;Surface
+2012-10-16 09:40:00;Ortho-phosphat-P;49.0;Bottom
+2012-10-16 09:40:00;Ortho-phosphat-P;48.0;Surface
+2012-10-16 09:40:00;Oxygen indhold;6.5;Bottom
+2012-10-16 09:40:00;Oxygen indhold;9.3;Surface
+2012-10-16 09:40:00;Phosphor, total-P;76.0;Bottom
+2012-10-16 09:40:00;Phosphor, total-P;75.0;Surface
+2012-10-29 09:40:00;Ammoniak+ammonium-N;130.0;Bottom
+2012-10-29 09:40:00;Ammoniak+ammonium-N;190.0;Surface
+2012-10-29 09:40:00;Klorofyl a;3.5;Bottom
+2012-10-29 09:40:00;Klorofyl a;3.9;Surface
+2012-10-29 09:40:00;Nitrit+nitrat-N;130.0;Bottom
+2012-10-29 09:40:00;Nitrit+nitrat-N;310.0;Surface
+2012-10-29 09:40:00;Nitrogen,total N;585.8382636;Bottom
+2012-10-29 09:40:00;Nitrogen,total N;764.670751;Surface
+2012-10-29 09:40:00;Ortho-phosphat-P;36.0;Bottom
+2012-10-29 09:40:00;Ortho-phosphat-P;43.0;Surface
+2012-10-29 09:40:00;Oxygen indhold;8.6;Bottom
+2012-10-29 09:40:00;Oxygen indhold;8.9;Surface
+2012-10-29 09:40:00;Phosphor, total-P;57.0;Bottom
+2012-10-29 09:40:00;Phosphor, total-P;67.0;Surface
+2012-11-12 09:42:00;Ammoniak+ammonium-N;82.0;Bottom
+2012-11-12 09:42:00;Ammoniak+ammonium-N;95.0;Surface
+2012-11-12 09:42:00;Klorofyl a;3.2;Bottom
+2012-11-12 09:42:00;Klorofyl a;3.6;Surface
+2012-11-12 09:42:00;Nitrit+nitrat-N;120.0;Bottom
+2012-11-12 09:42:00;Nitrit+nitrat-N;270.0;Surface
+2012-11-12 09:42:00;Nitrogen,total N;908.7719645;Bottom
+2012-11-12 09:42:00;Nitrogen,total N;799.7292276;Surface
+2012-11-12 09:42:00;Ortho-phosphat-P;25.0;Bottom
+2012-11-12 09:42:00;Ortho-phosphat-P;31.0;Surface
+2012-11-12 09:42:00;Phosphor, total-P;40.0;Bottom
+2012-11-12 09:42:00;Phosphor, total-P;46.0;Surface
+2012-11-26 09:39:00;Ammoniak+ammonium-N;110.0;Bottom
+2012-11-26 09:39:00;Ammoniak+ammonium-N;100.0;Surface
+2012-11-26 09:39:00;Klorofyl a;1.8;Bottom
+2012-11-26 09:39:00;Klorofyl a;2.4;Surface
+2012-11-26 09:39:00;Nitrit+nitrat-N;260.0;Bottom
+2012-11-26 09:39:00;Nitrit+nitrat-N;300.0;Surface
+2012-11-26 09:39:00;Nitrogen,total N;657.8445425;Bottom
+2012-11-26 09:39:00;Nitrogen,total N;692.2081305;Surface
+2012-11-26 09:39:00;Ortho-phosphat-P;30.0;Bottom
+2012-11-26 09:39:00;Ortho-phosphat-P;28.0;Surface
+2012-11-26 09:39:00;Oxygen indhold;10.2;Bottom
+2012-11-26 09:39:00;Oxygen indhold;10.0;Surface
+2012-11-26 09:39:00;Phosphor, total-P;48.0;Bottom
+2012-11-26 09:39:00;Phosphor, total-P;43.0;Surface
+2012-12-20 11:27:00;Ammoniak+ammonium-N;130.0;Bottom
+2012-12-20 11:27:00;Ammoniak+ammonium-N;130.0;Surface
+2012-12-20 11:27:00;Klorofyl a;0.7;Bottom
+2012-12-20 11:27:00;Klorofyl a;1.3;Surface
+2012-12-20 11:27:00;Nitrit+nitrat-N;360.0;Bottom
+2012-12-20 11:27:00;Nitrit+nitrat-N;640.0;Surface
+2012-12-20 11:27:00;Nitrogen,total N;782.7757092;Bottom
+2012-12-20 11:27:00;Nitrogen,total N;1169.180744;Surface
+2012-12-20 11:27:00;Ortho-phosphat-P;31.0;Bottom
+2012-12-20 11:27:00;Ortho-phosphat-P;30.0;Surface
+2012-12-20 11:27:00;Oxygen indhold;8.4;Bottom
+2012-12-20 11:27:00;Oxygen indhold;12.3;Surface
+2012-12-20 11:27:00;Phosphor, total-P;43.0;Bottom
+2012-12-20 11:27:00;Phosphor, total-P;42.0;Surface
+2013-01-09 12:36:00;Ammoniak+ammonium-N;110.0;Bottom
+2013-01-09 12:36:00;Ammoniak+ammonium-N;110.0;Surface
+2013-01-09 12:36:00;Klorofyl a;0.4;Bottom
+2013-01-09 12:36:00;Klorofyl a;0.6;Surface
+2013-01-09 12:36:00;Nitrit+nitrat-N;400.0;Bottom
+2013-01-09 12:36:00;Nitrit+nitrat-N;550.0;Surface
+2013-01-09 12:36:00;Nitrogen,total N;729.9027769;Bottom
+2013-01-09 12:36:00;Nitrogen,total N;927.3997521;Surface
+2013-01-09 12:36:00;Ortho-phosphat-P;24.0;Bottom
+2013-01-09 12:36:00;Ortho-phosphat-P;21.0;Surface
+2013-01-09 12:36:00;Oxygen indhold;10.8;Bottom
+2013-01-09 12:36:00;Oxygen indhold;11.2;Surface
+2013-01-09 12:36:00;Phosphor, total-P;33.0;Bottom
+2013-01-09 12:36:00;Phosphor, total-P;35.0;Surface
+2013-02-06 13:39:00;Ammoniak+ammonium-N;84.0;Bottom
+2013-02-06 13:39:00;Ammoniak+ammonium-N;100.0;Surface
+2013-02-06 13:39:00;Klorofyl a;3.4;Bottom
+2013-02-06 13:39:00;Klorofyl a;4.4;Surface
+2013-02-06 13:39:00;Nitrit+nitrat-N;380.0;Bottom
+2013-02-06 13:39:00;Nitrit+nitrat-N;570.0;Surface
+2013-02-06 13:39:00;Nitrogen,total N;763.0582751;Bottom
+2013-02-06 13:39:00;Nitrogen,total N;1005.307773;Surface
+2013-02-06 13:39:00;Ortho-phosphat-P;19.0;Bottom
+2013-02-06 13:39:00;Ortho-phosphat-P;19.0;Surface
+2013-02-06 13:39:00;Oxygen indhold;14.1;Surface
+2013-02-06 13:39:00;Phosphor, total-P;36.0;Bottom
+2013-02-06 13:39:00;Phosphor, total-P;34.0;Surface
+2013-02-21 11:40:00;Ammoniak+ammonium-N;20.0;Bottom
+2013-02-21 11:40:00;Ammoniak+ammonium-N;4.0;Surface
+2013-02-21 11:40:00;Klorofyl a;1.8;Bottom
+2013-02-21 11:40:00;Klorofyl a;20.0;Surface
+2013-02-21 11:40:00;Nitrit+nitrat-N;500.0;Bottom
+2013-02-21 11:40:00;Nitrit+nitrat-N;670.0;Surface
+2013-02-21 11:40:00;Nitrogen,total N;801.594696;Bottom
+2013-02-21 11:40:00;Nitrogen,total N;1118.238642;Surface
+2013-02-21 11:40:00;Ortho-phosphat-P;7.0;Bottom
+2013-02-21 11:40:00;Ortho-phosphat-P;1.7;Surface
+2013-02-21 11:40:00;Oxygen indhold;11.1;Bottom
+2013-02-21 11:40:00;Oxygen indhold;12.9;Surface
+2013-02-21 11:40:00;Phosphor, total-P;31.0;Bottom
+2013-02-21 11:40:00;Phosphor, total-P;33.0;Surface
+2013-03-06 11:26:00;Ammoniak+ammonium-N;36.0;Bottom
+2013-03-06 11:26:00;Ammoniak+ammonium-N;7.8;Surface
+2013-03-06 11:26:00;Klorofyl a;19.0;Bottom
+2013-03-06 11:26:00;Klorofyl a;8.5;Surface
+2013-03-06 11:26:00;Nitrit+nitrat-N;380.0;Bottom
+2013-03-06 11:26:00;Nitrit+nitrat-N;660.0;Surface
+2013-03-06 11:26:00;Nitrogen,total N;779.5883296;Bottom
+2013-03-06 11:26:00;Nitrogen,total N;1026.842764;Surface
+2013-03-06 11:26:00;Ortho-phosphat-P;2.4;Bottom
+2013-03-06 11:26:00;Ortho-phosphat-P;2.0;Surface
+2013-03-06 11:26:00;Oxygen indhold;11.4;Bottom
+2013-03-06 11:26:00;Oxygen indhold;14.8;Surface
+2013-03-06 11:26:00;Phosphor, total-P;17.0;Bottom
+2013-03-06 11:26:00;Phosphor, total-P;14.0;Surface
+2013-03-14 11:09:00;Ammoniak+ammonium-N;18.0;Bottom
+2013-03-14 11:09:00;Ammoniak+ammonium-N;15.0;Surface
+2013-03-14 11:09:00;Klorofyl a;6.5;Bottom
+2013-03-14 11:09:00;Klorofyl a;5.7;Surface
+2013-03-14 11:09:00;Nitrit+nitrat-N;410.0;Bottom
+2013-03-14 11:09:00;Nitrit+nitrat-N;690.0;Surface
+2013-03-14 11:09:00;Nitrogen,total N;693.9694702;Bottom
+2013-03-14 11:09:00;Nitrogen,total N;1035.186025;Surface
+2013-03-14 11:09:00;Ortho-phosphat-P;2.2;Bottom
+2013-03-14 11:09:00;Ortho-phosphat-P;2.5;Surface
+2013-03-14 11:09:00;Oxygen indhold;11.4;Bottom
+2013-03-14 11:09:00;Oxygen indhold;12.7;Surface
+2013-03-14 11:09:00;Phosphor, total-P;17.0;Bottom
+2013-03-14 11:09:00;Phosphor, total-P;27.0;Surface
+2013-03-21 11:43:00;Ammoniak+ammonium-N;9.8;Bottom
+2013-03-21 11:43:00;Ammoniak+ammonium-N;9.8;Surface
+2013-03-21 11:43:00;Klorofyl a;6.9;Bottom
+2013-03-21 11:43:00;Klorofyl a;7.6;Surface
+2013-03-21 11:43:00;Nitrit+nitrat-N;560.0;Bottom
+2013-03-21 11:43:00;Nitrit+nitrat-N;580.0;Surface
+2013-03-21 11:43:00;Nitrogen,total N;947.6009573;Bottom
+2013-03-21 11:43:00;Nitrogen,total N;830.3789484;Surface
+2013-03-21 11:43:00;Ortho-phosphat-P;2.5;Bottom
+2013-03-21 11:43:00;Ortho-phosphat-P;2.3;Surface
+2013-03-21 11:43:00;Oxygen indhold;12.4;Surface
+2013-03-21 11:43:00;Phosphor, total-P;26.0;Bottom
+2013-03-21 11:43:00;Phosphor, total-P;29.0;Surface
+2013-04-11 09:28:00;Ammoniak+ammonium-N;28.0;Bottom
+2013-04-11 09:28:00;Ammoniak+ammonium-N;44.0;Surface
+2013-04-11 09:28:00;Klorofyl a;1.9;Bottom
+2013-04-11 09:28:00;Klorofyl a;2.0;Surface
+2013-04-11 09:28:00;Nitrit+nitrat-N;340.0;Bottom
+2013-04-11 09:28:00;Nitrit+nitrat-N;700.0;Surface
+2013-04-11 09:28:00;Nitrogen,total N;688.9269291;Bottom
+2013-04-11 09:28:00;Nitrogen,total N;1181.240037;Surface
+2013-04-11 09:28:00;Ortho-phosphat-P;2.8;Bottom
+2013-04-11 09:28:00;Ortho-phosphat-P;2.0;Surface
+2013-04-11 09:28:00;Oxygen indhold;12.4;Bottom
+2013-04-11 09:28:00;Oxygen indhold;11.2;Surface
+2013-04-11 09:28:00;Phosphor, total-P;13.0;Bottom
+2013-04-11 09:28:00;Phosphor, total-P;16.0;Surface
+2013-05-01 09:01:00;Ammoniak+ammonium-N;23.0;Bottom
+2013-05-01 09:01:00;Ammoniak+ammonium-N;23.0;Surface
+2013-05-01 09:01:00;Klorofyl a;3.3;Bottom
+2013-05-01 09:01:00;Klorofyl a;3.3;Surface
+2013-05-01 09:01:00;Nitrit+nitrat-N;230.0;Bottom
+2013-05-01 09:01:00;Nitrit+nitrat-N;230.0;Surface
+2013-05-01 09:01:00;Nitrogen,total N;774.1711162;Bottom
+2013-05-01 09:01:00;Nitrogen,total N;682.2769647;Surface
+2013-05-01 09:01:00;Ortho-phosphat-P;2.8;Bottom
+2013-05-01 09:01:00;Ortho-phosphat-P;2.7;Surface
+2013-05-01 09:01:00;Oxygen indhold;9.1;Surface
+2013-05-01 09:01:00;Phosphor, total-P;15.0;Bottom
+2013-05-01 09:01:00;Phosphor, total-P;17.0;Surface
+2013-05-22 10:15:00;Ammoniak+ammonium-N;9.3;Bottom
+2013-05-22 10:15:00;Ammoniak+ammonium-N;9.3;Surface
+2013-05-22 10:15:00;Klorofyl a;8.0;Bottom
+2013-05-22 10:15:00;Klorofyl a;7.2;Surface
+2013-05-22 10:15:00;Nitrit+nitrat-N;150.0;Bottom
+2013-05-22 10:15:00;Nitrit+nitrat-N;150.0;Surface
+2013-05-22 10:15:00;Nitrogen,total N;641.5130119;Bottom
+2013-05-22 10:15:00;Nitrogen,total N;611.5142435;Surface
+2013-05-22 10:15:00;Ortho-phosphat-P;2.4;Bottom
+2013-05-22 10:15:00;Ortho-phosphat-P;2.9;Surface
+2013-05-22 10:15:00;Oxygen indhold;9.2;Bottom
+2013-05-22 10:15:00;Oxygen indhold;9.2;Surface
+2013-05-22 10:15:00;Phosphor, total-P;38.0;Bottom
+2013-05-22 10:15:00;Phosphor, total-P;23.0;Surface
+2013-05-27 10:01:00;Oxygen indhold;8.4;Surface
+2013-06-03 09:55:00;Ammoniak+ammonium-N;18.0;Bottom
+2013-06-03 09:55:00;Ammoniak+ammonium-N;9.8;Surface
+2013-06-03 09:55:00;Klorofyl a;13.0;Bottom
+2013-06-03 09:55:00;Klorofyl a;10.0;Surface
+2013-06-03 09:55:00;Nitrit+nitrat-N;76.0;Bottom
+2013-06-03 09:55:00;Nitrit+nitrat-N;80.0;Surface
+2013-06-03 09:55:00;Nitrogen,total N;728.3247598;Bottom
+2013-06-03 09:55:00;Nitrogen,total N;785.3162457;Surface
+2013-06-03 09:55:00;Ortho-phosphat-P;2.2;Bottom
+2013-06-03 09:55:00;Ortho-phosphat-P;2.8;Surface
+2013-06-03 09:55:00;Oxygen indhold;8.1;Bottom
+2013-06-03 09:55:00;Oxygen indhold;8.1;Surface
+2013-06-03 09:55:00;Phosphor, total-P;38.0;Bottom
+2013-06-03 09:55:00;Phosphor, total-P;39.0;Surface
+2013-06-11 09:33:00;Oxygen indhold;6.2;Bottom
+2013-06-11 09:33:00;Oxygen indhold;9.7;Surface
+2013-06-18 09:41:00;Ammoniak+ammonium-N;120.0;Bottom
+2013-06-18 09:41:00;Ammoniak+ammonium-N;28.0;Surface
+2013-06-18 09:41:00;Klorofyl a;8.7;Bottom
+2013-06-18 09:41:00;Klorofyl a;14.0;Surface
+2013-06-18 09:41:00;Nitrit+nitrat-N;30.0;Bottom
+2013-06-18 09:41:00;Nitrit+nitrat-N;73.0;Surface
+2013-06-18 09:41:00;Nitrogen,total N;479.3922616;Bottom
+2013-06-18 09:41:00;Nitrogen,total N;549.6461445;Surface
+2013-06-18 09:41:00;Ortho-phosphat-P;6.8;Bottom
+2013-06-18 09:41:00;Ortho-phosphat-P;2.6;Surface
+2013-06-18 09:41:00;Oxygen indhold;9.9;Surface
+2013-06-18 09:41:00;Phosphor, total-P;31.0;Bottom
+2013-06-18 09:41:00;Phosphor, total-P;39.0;Surface
+2013-06-24 11:06:00;Oxygen indhold;3.9;Bottom
+2013-06-24 11:06:00;Oxygen indhold;9.4;Surface
+2013-07-01 10:06:00;Ammoniak+ammonium-N;36.0;Bottom
+2013-07-01 10:06:00;Ammoniak+ammonium-N;3.0;Surface
+2013-07-01 10:06:00;Klorofyl a;9.5;Bottom
+2013-07-01 10:06:00;Klorofyl a;7.8;Surface
+2013-07-01 10:06:00;Nitrit+nitrat-N;4.6;Bottom
+2013-07-01 10:06:00;Nitrit+nitrat-N;1.5;Surface
+2013-07-01 10:06:00;Nitrogen,total N;515.7934165;Bottom
+2013-07-01 10:06:00;Nitrogen,total N;483.271436;Surface
+2013-07-01 10:06:00;Ortho-phosphat-P;11.0;Bottom
+2013-07-01 10:06:00;Ortho-phosphat-P;5.0;Surface
+2013-07-01 10:06:00;Oxygen indhold;5.0;Bottom
+2013-07-01 10:06:00;Oxygen indhold;8.5;Surface
+2013-07-01 10:06:00;Phosphor, total-P;52.0;Bottom
+2013-07-01 10:06:00;Phosphor, total-P;44.0;Surface
+2013-07-09 09:57:00;Oxygen indhold;1.5;Bottom
+2013-07-09 09:57:00;Oxygen indhold;8.9;Surface
+2013-07-16 09:49:00;Ammoniak+ammonium-N;7.6;Bottom
+2013-07-16 09:49:00;Ammoniak+ammonium-N;8.1;Surface
+2013-07-16 09:49:00;Klorofyl a;9.0;Bottom
+2013-07-16 09:49:00;Klorofyl a;8.3;Surface
+2013-07-16 09:49:00;Nitrit+nitrat-N;1.9;Bottom
+2013-07-16 09:49:00;Nitrit+nitrat-N;3.0;Surface
+2013-07-16 09:49:00;Nitrogen,total N;526.7717113;Bottom
+2013-07-16 09:49:00;Nitrogen,total N;551.7663739;Surface
+2013-07-16 09:49:00;Ortho-phosphat-P;53.0;Bottom
+2013-07-16 09:49:00;Ortho-phosphat-P;53.0;Surface
+2013-07-16 09:49:00;Oxygen indhold;7.9;Surface
+2013-07-16 09:49:00;Phosphor, total-P;85.0;Bottom
+2013-07-16 09:49:00;Phosphor, total-P;90.0;Surface
+2013-07-23 10:19:00;Oxygen indhold;8.1;Surface
+2013-07-29 10:02:00;Ammoniak+ammonium-N;180.0;Bottom
+2013-07-29 10:02:00;Ammoniak+ammonium-N;5.5;Surface
+2013-07-29 10:02:00;Klorofyl a;3.0;Bottom
+2013-07-29 10:02:00;Klorofyl a;26.0;Surface
+2013-07-29 10:02:00;Nitrit+nitrat-N;8.9;Bottom
+2013-07-29 10:02:00;Nitrit+nitrat-N;1.5;Surface
+2013-07-29 10:02:00;Nitrogen,total N;559.4424083;Bottom
+2013-07-29 10:02:00;Nitrogen,total N;542.7144536;Surface
+2013-07-29 10:02:00;Ortho-phosphat-P;98.0;Bottom
+2013-07-29 10:02:00;Ortho-phosphat-P;28.0;Surface
+2013-07-29 10:02:00;Oxygen indhold;2.9;Bottom
+2013-07-29 10:02:00;Oxygen indhold;9.9;Surface
+2013-07-29 10:02:00;Phosphor, total-P;120.0;Bottom
+2013-07-29 10:02:00;Phosphor, total-P;100.0;Surface
+2013-08-06 09:52:00;Ammoniak+ammonium-N;160.0;Bottom
+2013-08-06 09:52:00;Ammoniak+ammonium-N;3.0;Surface
+2013-08-06 09:52:00;Klorofyl a;7.3;Bottom
+2013-08-06 09:52:00;Klorofyl a;21.0;Surface
+2013-08-06 09:52:00;Nitrit+nitrat-N;3.6;Bottom
+2013-08-06 09:52:00;Nitrit+nitrat-N;1.5;Surface
+2013-08-06 09:52:00;Nitrogen,total N;583.1879106;Bottom
+2013-08-06 09:52:00;Nitrogen,total N;516.7407876;Surface
+2013-08-06 09:52:00;Ortho-phosphat-P;170.0;Bottom
+2013-08-06 09:52:00;Ortho-phosphat-P;92.0;Surface
+2013-08-06 09:52:00;Oxygen indhold;1.8;Bottom
+2013-08-06 09:52:00;Oxygen indhold;11.2;Surface
+2013-08-06 09:52:00;Phosphor, total-P;210.0;Bottom
+2013-08-06 09:52:00;Phosphor, total-P;170.0;Surface
+2013-08-12 10:05:00;Oxygen indhold;0.4;Bottom
+2013-08-12 10:05:00;Oxygen indhold;7.7;Surface
+2013-08-28 12:02:00;Ammoniak+ammonium-N;190.0;Bottom
+2013-08-28 12:02:00;Ammoniak+ammonium-N;4.0;Surface
+2013-08-28 12:02:00;Klorofyl a;2.2;Bottom
+2013-08-28 12:02:00;Klorofyl a;6.1;Surface
+2013-08-28 12:02:00;Nitrit+nitrat-N;1.5;Bottom
+2013-08-28 12:02:00;Nitrit+nitrat-N;1.5;Surface
+2013-08-28 12:02:00;Nitrogen,total N;538.3714948;Bottom
+2013-08-28 12:02:00;Nitrogen,total N;550.042764;Surface
+2013-08-28 12:02:00;Ortho-phosphat-P;180.0;Bottom
+2013-08-28 12:02:00;Ortho-phosphat-P;140.0;Surface
+2013-08-28 12:02:00;Oxygen indhold;0.7;Bottom
+2013-08-28 12:02:00;Oxygen indhold;10.9;Surface
+2013-08-28 12:02:00;Phosphor, total-P;220.0;Bottom
+2013-08-28 12:02:00;Phosphor, total-P;190.0;Surface
+2013-09-03 09:58:00;Ammoniak+ammonium-N;180.0;Bottom
+2013-09-03 09:58:00;Ammoniak+ammonium-N;44.0;Surface
+2013-09-03 09:58:00;Klorofyl a;1.4;Bottom
+2013-09-03 09:58:00;Klorofyl a;12.0;Surface
+2013-09-03 09:58:00;Nitrit+nitrat-N;4.5;Bottom
+2013-09-03 09:58:00;Nitrit+nitrat-N;1.5;Surface
+2013-09-03 09:58:00;Nitrogen,total N;456.4745271;Bottom
+2013-09-03 09:58:00;Nitrogen,total N;426.0583898;Surface
+2013-09-03 09:58:00;Ortho-phosphat-P;220.0;Bottom
+2013-09-03 09:58:00;Ortho-phosphat-P;170.0;Surface
+2013-09-03 09:58:00;Oxygen indhold;7.3;Surface
+2013-09-03 09:58:00;Phosphor, total-P;240.0;Bottom
+2013-09-03 09:58:00;Phosphor, total-P;200.0;Surface
+2013-09-16 09:43:00;Ammoniak+ammonium-N;150.0;Bottom
+2013-09-16 09:43:00;Ammoniak+ammonium-N;74.0;Surface
+2013-09-16 09:43:00;Klorofyl a;1.2;Bottom
+2013-09-16 09:43:00;Klorofyl a;2.6;Surface
+2013-09-16 09:43:00;Nitrit+nitrat-N;9.9;Bottom
+2013-09-16 09:43:00;Nitrit+nitrat-N;4.6;Surface
+2013-09-16 09:43:00;Nitrogen,total N;526.6090904;Bottom
+2013-09-16 09:43:00;Nitrogen,total N;521.636827;Surface
+2013-09-16 09:43:00;Ortho-phosphat-P;110.0;Bottom
+2013-09-16 09:43:00;Ortho-phosphat-P;140.0;Surface
+2013-09-16 09:43:00;Oxygen indhold;6.7;Surface
+2013-09-16 09:43:00;Phosphor, total-P;140.0;Bottom
+2013-09-16 09:43:00;Phosphor, total-P;190.0;Surface
+2013-09-30 10:01:00;Ammoniak+ammonium-N;19.0;Bottom
+2013-09-30 10:01:00;Ammoniak+ammonium-N;8.0;Surface
+2013-09-30 10:01:00;Klorofyl a;16.0;Bottom
+2013-09-30 10:01:00;Klorofyl a;11.0;Surface
+2013-09-30 10:01:00;Nitrit+nitrat-N;1.7;Bottom
+2013-09-30 10:01:00;Nitrit+nitrat-N;1.5;Surface
+2013-09-30 10:01:00;Nitrogen,total N;636.3315263;Bottom
+2013-09-30 10:01:00;Nitrogen,total N;666.1824448;Surface
+2013-09-30 10:01:00;Ortho-phosphat-P;96.0;Bottom
+2013-09-30 10:01:00;Ortho-phosphat-P;85.0;Surface
+2013-09-30 10:01:00;Oxygen indhold;9.0;Surface
+2013-09-30 10:01:00;Phosphor, total-P;160.0;Bottom
+2013-09-30 10:01:00;Phosphor, total-P;150.0;Surface
+2013-10-17 09:35:00;Ammoniak+ammonium-N;92.0;Bottom
+2013-10-17 09:35:00;Ammoniak+ammonium-N;52.0;Surface
+2013-10-17 09:35:00;Klorofyl a;3.9;Bottom
+2013-10-17 09:35:00;Klorofyl a;4.5;Surface
+2013-10-17 09:35:00;Nitrit+nitrat-N;54.0;Bottom
+2013-10-17 09:35:00;Nitrit+nitrat-N;140.0;Surface
+2013-10-17 09:35:00;Nitrogen,total N;566.9525278;Bottom
+2013-10-17 09:35:00;Nitrogen,total N;595.7979506;Surface
+2013-10-17 09:35:00;Ortho-phosphat-P;66.0;Bottom
+2013-10-17 09:35:00;Ortho-phosphat-P;60.0;Surface
+2013-10-17 09:35:00;Oxygen indhold;8.1;Bottom
+2013-10-17 09:35:00;Oxygen indhold;9.5;Surface
+2013-10-17 09:35:00;Phosphor, total-P;100.0;Bottom
+2013-10-17 09:35:00;Phosphor, total-P;93.0;Surface
+2013-10-30 09:30:00;Ammoniak+ammonium-N;78.0;Bottom
+2013-10-30 09:30:00;Ammoniak+ammonium-N;88.0;Surface
+2013-10-30 09:30:00;Klorofyl a;6.5;Bottom
+2013-10-30 09:30:00;Klorofyl a;4.5;Surface
+2013-10-30 09:30:00;Nitrit+nitrat-N;68.0;Bottom
+2013-10-30 09:30:00;Nitrit+nitrat-N;94.0;Surface
+2013-10-30 09:30:00;Nitrogen,total N;552.4611042;Bottom
+2013-10-30 09:30:00;Nitrogen,total N;598.4959994;Surface
+2013-10-30 09:30:00;Ortho-phosphat-P;43.0;Bottom
+2013-10-30 09:30:00;Ortho-phosphat-P;47.0;Surface
+2013-10-30 09:30:00;Oxygen indhold;9.0;Surface
+2013-10-30 09:30:00;Phosphor, total-P;66.0;Bottom
+2013-10-30 09:30:00;Phosphor, total-P;73.0;Surface
+2013-11-11 09:39:00;Ammoniak+ammonium-N;100.0;Bottom
+2013-11-11 09:39:00;Ammoniak+ammonium-N;87.0;Surface
+2013-11-11 09:39:00;Klorofyl a;1.6;Bottom
+2013-11-11 09:39:00;Klorofyl a;3.0;Surface
+2013-11-11 09:39:00;Nitrit+nitrat-N;110.0;Bottom
+2013-11-11 09:39:00;Nitrit+nitrat-N;230.0;Surface
+2013-11-11 09:39:00;Nitrogen,total N;545.8293516;Bottom
+2013-11-11 09:39:00;Nitrogen,total N;719.3251583;Surface
+2013-11-11 09:39:00;Ortho-phosphat-P;38.0;Bottom
+2013-11-11 09:39:00;Ortho-phosphat-P;40.0;Surface
+2013-11-11 09:39:00;Oxygen indhold;7.0;Bottom
+2013-11-11 09:39:00;Oxygen indhold;9.2;Surface
+2013-11-11 09:39:00;Phosphor, total-P;54.0;Bottom
+2013-11-11 09:39:00;Phosphor, total-P;59.0;Surface
+2013-11-25 09:38:00;Ammoniak+ammonium-N;120.0;Bottom
+2013-11-25 09:38:00;Ammoniak+ammonium-N;110.0;Surface
+2013-11-25 09:38:00;Klorofyl a;1.0;Bottom
+2013-11-25 09:38:00;Klorofyl a;2.8;Surface
+2013-11-25 09:38:00;Nitrit+nitrat-N;240.0;Bottom
+2013-11-25 09:38:00;Nitrit+nitrat-N;280.0;Surface
+2013-11-25 09:38:00;Nitrogen,total N;675.5387928;Bottom
+2013-11-25 09:38:00;Nitrogen,total N;748.6111661;Surface
+2013-11-25 09:38:00;Ortho-phosphat-P;39.0;Bottom
+2013-11-25 09:38:00;Ortho-phosphat-P;33.0;Surface
+2013-11-25 09:38:00;Oxygen indhold;10.2;Surface
+2013-11-25 09:38:00;Phosphor, total-P;48.0;Bottom
+2013-11-25 09:38:00;Phosphor, total-P;47.0;Surface
+2013-12-16 09:59:00;Ammoniak+ammonium-N;100.0;Bottom
+2013-12-16 09:59:00;Ammoniak+ammonium-N;100.0;Surface
+2013-12-16 09:59:00;Klorofyl a;5.6;Bottom
+2013-12-16 09:59:00;Klorofyl a;2.7;Surface
+2013-12-16 09:59:00;Nitrit+nitrat-N;180.0;Bottom
+2013-12-16 09:59:00;Nitrit+nitrat-N;210.0;Surface
+2013-12-16 09:59:00;Nitrogen,total N;593.3559035;Bottom
+2013-12-16 09:59:00;Nitrogen,total N;611.6254425;Surface
+2013-12-16 09:59:00;Ortho-phosphat-P;17.0;Bottom
+2013-12-16 09:59:00;Ortho-phosphat-P;18.0;Surface
+2013-12-16 09:59:00;Oxygen indhold;10.0;Surface
+2013-12-16 09:59:00;Phosphor, total-P;35.0;Bottom
+2013-12-16 09:59:00;Phosphor, total-P;31.0;Surface
+2014-01-06 09:16:00;Ammoniak+ammonium-N;130.0;Bottom
+2014-01-06 09:16:00;Ammoniak+ammonium-N;150.0;Surface
+2014-01-06 09:16:00;Klorofyl a;1.1;Bottom
+2014-01-06 09:16:00;Klorofyl a;1.1;Surface
+2014-01-06 09:16:00;Nitrit+nitrat-N;260.0;Bottom
+2014-01-06 09:16:00;Nitrit+nitrat-N;430.0;Surface
+2014-01-06 09:16:00;Nitrogen,total N;632.8908751;Bottom
+2014-01-06 09:16:00;Nitrogen,total N;844.9718637;Surface
+2014-01-06 09:16:00;Ortho-phosphat-P;16.0;Bottom
+2014-01-06 09:16:00;Ortho-phosphat-P;17.0;Surface
+2014-01-06 09:16:00;Oxygen indhold;10.47;Surface
+2014-01-06 09:16:00;Phosphor, total-P;25.0;Bottom
+2014-01-06 09:16:00;Phosphor, total-P;28.0;Surface
+2014-02-05 09:41:00;Ammoniak+ammonium-N;130.0;Bottom
+2014-02-05 09:41:00;Ammoniak+ammonium-N;160.0;Surface
+2014-02-05 09:41:00;Klorofyl a;1.2;Bottom
+2014-02-05 09:41:00;Klorofyl a;0.7;Surface
+2014-02-05 09:41:00;Nitrit+nitrat-N;470.0;Bottom
+2014-02-05 09:41:00;Nitrit+nitrat-N;940.0;Surface
+2014-02-05 09:41:00;Nitrogen,total N;825.561369;Bottom
+2014-02-05 09:41:00;Nitrogen,total N;1465.486146;Surface
+2014-02-05 09:41:00;Ortho-phosphat-P;20.0;Bottom
+2014-02-05 09:41:00;Ortho-phosphat-P;21.0;Surface
+2014-02-05 09:41:00;Oxygen indhold;12.23;Surface
+2014-02-05 09:41:00;Phosphor, total-P;27.0;Bottom
+2014-02-05 09:41:00;Phosphor, total-P;31.0;Surface
+2014-02-25 09:28:00;Ammoniak+ammonium-N;92.0;Bottom
+2014-02-25 09:28:00;Ammoniak+ammonium-N;89.0;Surface
+2014-02-25 09:28:00;Klorofyl a;5.7;Bottom
+2014-02-25 09:28:00;Klorofyl a;3.9;Surface
+2014-02-25 09:28:00;Nitrit+nitrat-N;540.0;Bottom
+2014-02-25 09:28:00;Nitrit+nitrat-N;630.0;Surface
+2014-02-25 09:28:00;Nitrogen,total N;846.8030183;Bottom
+2014-02-25 09:28:00;Nitrogen,total N;1000.219979;Surface
+2014-02-25 09:28:00;Ortho-phosphat-P;7.8;Bottom
+2014-02-25 09:28:00;Ortho-phosphat-P;7.0;Surface
+2014-02-25 09:28:00;Oxygen indhold;11.25;Surface
+2014-02-25 09:28:00;Phosphor, total-P;24.0;Bottom
+2014-02-25 09:28:00;Phosphor, total-P;23.0;Surface
+2014-03-03 09:37:00;Ammoniak+ammonium-N;59.0;Bottom
+2014-03-03 09:37:00;Ammoniak+ammonium-N;5.1;Surface
+2014-03-03 09:37:00;Klorofyl a;3.7;Bottom
+2014-03-03 09:37:00;Klorofyl a;11.0;Surface
+2014-03-03 09:37:00;Nitrit+nitrat-N;540.0;Bottom
+2014-03-03 09:37:00;Nitrit+nitrat-N;680.0;Surface
+2014-03-03 09:37:00;Nitrogen,total N;880.3905373;Bottom
+2014-03-03 09:37:00;Nitrogen,total N;975.1246101;Surface
+2014-03-03 09:37:00;Ortho-phosphat-P;4.6;Bottom
+2014-03-03 09:37:00;Ortho-phosphat-P;1.8;Surface
+2014-03-03 09:37:00;Oxygen indhold;11.76;Surface
+2014-03-03 09:37:00;Phosphor, total-P;15.0;Bottom
+2014-03-03 09:37:00;Phosphor, total-P;21.0;Surface
+2014-03-18 11:49:00;Ammoniak+ammonium-N;7.5;Bottom
+2014-03-18 11:49:00;Ammoniak+ammonium-N;16.0;Surface
+2014-03-18 11:49:00;Klorofyl a;5.2;Bottom
+2014-03-18 11:49:00;Klorofyl a;4.5;Surface
+2014-03-18 11:49:00;Nitrit+nitrat-N;510.0;Bottom
+2014-03-18 11:49:00;Nitrit+nitrat-N;520.0;Surface
+2014-03-18 11:49:00;Nitrogen,total N;768.6033815;Bottom
+2014-03-18 11:49:00;Nitrogen,total N;799.3645681;Surface
+2014-03-18 11:49:00;Ortho-phosphat-P;1.0;Bottom
+2014-03-18 11:49:00;Ortho-phosphat-P;1.0;Surface
+2014-03-18 11:49:00;Oxygen indhold;10.335;Surface
+2014-03-18 11:49:00;Phosphor, total-P;19.0;Bottom
+2014-03-18 11:49:00;Phosphor, total-P;19.0;Surface
+2014-03-25 09:39:00;Ammoniak+ammonium-N;26.0;Bottom
+2014-03-25 09:39:00;Ammoniak+ammonium-N;17.0;Surface
+2014-03-25 09:39:00;Klorofyl a;2.5;Bottom
+2014-03-25 09:39:00;Klorofyl a;2.5;Surface
+2014-03-25 09:39:00;Nitrit+nitrat-N;470.0;Bottom
+2014-03-25 09:39:00;Nitrit+nitrat-N;500.0;Surface
+2014-03-25 09:39:00;Nitrogen,total N;822.9967107;Bottom
+2014-03-25 09:39:00;Nitrogen,total N;842.803292;Surface
+2014-03-25 09:39:00;Ortho-phosphat-P;1.0;Bottom
+2014-03-25 09:39:00;Ortho-phosphat-P;1.0;Surface
+2014-03-25 09:39:00;Oxygen indhold;10.305;Surface
+2014-03-25 09:39:00;Phosphor, total-P;12.0;Bottom
+2014-03-25 09:39:00;Phosphor, total-P;15.0;Surface
+2014-04-23 08:10:00;Ammoniak+ammonium-N;30.0;Bottom
+2014-04-23 08:10:00;Ammoniak+ammonium-N;20.0;Surface
+2014-04-23 08:10:00;Klorofyl a;5.1;Bottom
+2014-04-23 08:10:00;Klorofyl a;5.0;Surface
+2014-04-23 08:10:00;Nitrit+nitrat-N;360.0;Bottom
+2014-04-23 08:10:00;Nitrit+nitrat-N;440.0;Surface
+2014-04-23 08:10:00;Nitrogen,total N;751.1519859;Bottom
+2014-04-23 08:10:00;Nitrogen,total N;807.8932089;Surface
+2014-04-23 08:10:00;Ortho-phosphat-P;1.0;Bottom
+2014-04-23 08:10:00;Ortho-phosphat-P;1.0;Surface
+2014-04-23 08:10:00;Oxygen indhold;10.225000000000001;Surface
+2014-04-23 08:10:00;Phosphor, total-P;21.0;Bottom
+2014-04-23 08:10:00;Phosphor, total-P;26.0;Surface
+2014-05-05 11:09:00;Ammoniak+ammonium-N;31.0;Bottom
+2014-05-05 11:09:00;Ammoniak+ammonium-N;22.0;Surface
+2014-05-05 11:09:00;Klorofyl a;2.8;Bottom
+2014-05-05 11:09:00;Klorofyl a;5.7;Surface
+2014-05-05 11:09:00;Nitrit+nitrat-N;290.0;Bottom
+2014-05-05 11:09:00;Nitrit+nitrat-N;310.0;Surface
+2014-05-05 11:09:00;Nitrogen,total N;658.0991691;Bottom
+2014-05-05 11:09:00;Nitrogen,total N;707.5334298;Surface
+2014-05-05 11:09:00;Ortho-phosphat-P;1.6;Bottom
+2014-05-05 11:09:00;Ortho-phosphat-P;1.0;Surface
+2014-05-05 11:09:00;Oxygen indhold;10.055;Surface
+2014-05-05 11:09:00;Phosphor, total-P;13.0;Bottom
+2014-05-05 11:09:00;Phosphor, total-P;19.0;Surface
+2014-05-20 09:39:00;Ammoniak+ammonium-N;73.0;Bottom
+2014-05-20 09:39:00;Ammoniak+ammonium-N;3.8;Surface
+2014-05-20 09:39:00;Klorofyl a;6.0;Bottom
+2014-05-20 09:39:00;Klorofyl a;8.0;Surface
+2014-05-20 09:39:00;Nitrit+nitrat-N;110.0;Bottom
+2014-05-20 09:39:00;Nitrit+nitrat-N;170.0;Surface
+2014-05-20 09:39:00;Nitrogen,total N;856.170773;Bottom
+2014-05-20 09:39:00;Nitrogen,total N;608.5754615;Surface
+2014-05-20 09:39:00;Ortho-phosphat-P;2.0;Bottom
+2014-05-20 09:39:00;Ortho-phosphat-P;2.2;Surface
+2014-05-20 09:39:00;Oxygen indhold;11.73;Surface
+2014-05-20 09:39:00;Phosphor, total-P;55.0;Bottom
+2014-05-20 09:39:00;Phosphor, total-P;26.0;Surface
+2014-05-27 10:07:00;Oxygen indhold;8.365;Surface
+2014-06-02 09:59:00;Ammoniak+ammonium-N;89.0;Bottom
+2014-06-02 09:59:00;Ammoniak+ammonium-N;5.2;Surface
+2014-06-02 09:59:00;Klorofyl a;25.0;Bottom
+2014-06-02 09:59:00;Klorofyl a;11.0;Surface
+2014-06-02 09:59:00;Nitrit+nitrat-N;29.0;Bottom
+2014-06-02 09:59:00;Nitrit+nitrat-N;5.3;Surface
+2014-06-02 09:59:00;Nitrogen,total N;999.8224175;Bottom
+2014-06-02 09:59:00;Nitrogen,total N;628.9855249;Surface
+2014-06-02 09:59:00;Ortho-phosphat-P;3.6;Bottom
+2014-06-02 09:59:00;Ortho-phosphat-P;2.3;Surface
+2014-06-02 09:59:00;Oxygen indhold;2.875;Bottom
+2014-06-02 09:59:00;Oxygen indhold;10.93;Surface
+2014-06-02 09:59:00;Phosphor, total-P;60.0;Bottom
+2014-06-02 09:59:00;Phosphor, total-P;28.0;Surface
+2014-06-10 10:37:00;Oxygen indhold;0.41;Bottom
+2014-06-10 10:37:00;Oxygen indhold;10.95;Surface
+2014-06-16 09:37:00;Ammoniak+ammonium-N;110.0;Bottom
+2014-06-16 09:37:00;Ammoniak+ammonium-N;7.5;Surface
+2014-06-16 09:37:00;Klorofyl a;4.8;Bottom
+2014-06-16 09:37:00;Klorofyl a;19.0;Surface
+2014-06-16 09:37:00;Nitrit+nitrat-N;2.2;Bottom
+2014-06-16 09:37:00;Nitrit+nitrat-N;3.4;Surface
+2014-06-16 09:37:00;Nitrogen,total N;960.3343779;Bottom
+2014-06-16 09:37:00;Nitrogen,total N;859.0781544;Surface
+2014-06-16 09:37:00;Ortho-phosphat-P;150.0;Bottom
+2014-06-16 09:37:00;Ortho-phosphat-P;16.0;Surface
+2014-06-16 09:37:00;Oxygen indhold;1.085;Bottom
+2014-06-16 09:37:00;Oxygen indhold;8.989999999999998;Surface
+2014-06-16 09:37:00;Phosphor, total-P;230.0;Bottom
+2014-06-16 09:37:00;Phosphor, total-P;83.0;Surface
+2014-06-23 12:08:00;Oxygen indhold;8.45;Surface
+2014-06-30 09:57:00;Ammoniak+ammonium-N;5.1;Bottom
+2014-06-30 09:57:00;Ammoniak+ammonium-N;4.0;Surface
+2014-06-30 09:57:00;Klorofyl a;10.0;Bottom
+2014-06-30 09:57:00;Klorofyl a;18.0;Surface
+2014-06-30 09:57:00;Nitrit+nitrat-N;1.5;Bottom
+2014-06-30 09:57:00;Nitrit+nitrat-N;1.5;Surface
+2014-06-30 09:57:00;Nitrogen,total N;801.972281;Bottom
+2014-06-30 09:57:00;Nitrogen,total N;908.9612766;Surface
+2014-06-30 09:57:00;Ortho-phosphat-P;97.0;Bottom
+2014-06-30 09:57:00;Ortho-phosphat-P;56.0;Surface
+2014-06-30 09:57:00;Oxygen indhold;9.5;Surface
+2014-06-30 09:57:00;Phosphor, total-P;150.0;Bottom
+2014-06-30 09:57:00;Phosphor, total-P;140.0;Surface
+2014-07-07 10:04:00;Oxygen indhold;0.72;Bottom
+2014-07-07 10:04:00;Oxygen indhold;7.64;Surface
+2014-07-15 09:45:00;Ammoniak+ammonium-N;170.0;Bottom
+2014-07-15 09:45:00;Ammoniak+ammonium-N;30.0;Surface
+2014-07-15 09:45:00;Klorofyl a;2.5;Bottom
+2014-07-15 09:45:00;Klorofyl a;17.0;Surface
+2014-07-15 09:45:00;Nitrit+nitrat-N;1.9;Bottom
+2014-07-15 09:45:00;Nitrit+nitrat-N;11.0;Surface
+2014-07-15 09:45:00;Nitrogen,total N;756.9740539;Bottom
+2014-07-15 09:45:00;Nitrogen,total N;804.5399818;Surface
+2014-07-15 09:45:00;Ortho-phosphat-P;140.0;Bottom
+2014-07-15 09:45:00;Ortho-phosphat-P;120.0;Surface
+2014-07-15 09:45:00;Oxygen indhold;2.005;Bottom
+2014-07-15 09:45:00;Oxygen indhold;7.13;Surface
+2014-07-15 09:45:00;Phosphor, total-P;200.0;Bottom
+2014-07-15 09:45:00;Phosphor, total-P;180.0;Surface
+2014-07-22 09:27:00;Oxygen indhold;7.82;Surface
+2014-07-28 09:47:00;Ammoniak+ammonium-N;340.0;Bottom
+2014-07-28 09:47:00;Ammoniak+ammonium-N;8.8;Surface
+2014-07-28 09:47:00;Klorofyl a;1.8;Bottom
+2014-07-28 09:47:00;Klorofyl a;20.0;Surface
+2014-07-28 09:47:00;Nitrit+nitrat-N;2.9;Bottom
+2014-07-28 09:47:00;Nitrit+nitrat-N;7.0;Surface
+2014-07-28 09:47:00;Nitrogen,total N;1070.736837;Bottom
+2014-07-28 09:47:00;Nitrogen,total N;851.654509;Surface
+2014-07-28 09:47:00;Ortho-phosphat-P;140.0;Bottom
+2014-07-28 09:47:00;Ortho-phosphat-P;94.0;Surface
+2014-07-28 09:47:00;Oxygen indhold;0.01;Bottom
+2014-07-28 09:47:00;Oxygen indhold;10.52;Surface
+2014-07-28 09:47:00;Phosphor, total-P;190.0;Bottom
+2014-07-28 09:47:00;Phosphor, total-P;190.0;Surface
+2014-08-04 09:23:00;Ammoniak+ammonium-N;230.0;Bottom
+2014-08-04 09:23:00;Ammoniak+ammonium-N;47.0;Surface
+2014-08-04 09:23:00;Klorofyl a;12.0;Bottom
+2014-08-04 09:23:00;Klorofyl a;30.0;Surface
+2014-08-04 09:23:00;Nitrit+nitrat-N;1.5;Bottom
+2014-08-04 09:23:00;Nitrit+nitrat-N;1.5;Surface
+2014-08-04 09:23:00;Nitrogen,total N;2230.210234;Bottom
+2014-08-04 09:23:00;Nitrogen,total N;1035.87092;Surface
+2014-08-04 09:23:00;Ortho-phosphat-P;440.0;Bottom
+2014-08-04 09:23:00;Ortho-phosphat-P;180.0;Surface
+2014-08-04 09:23:00;Oxygen indhold;0.01;Bottom
+2014-08-04 09:23:00;Oxygen indhold;7.2;Surface
+2014-08-04 09:23:00;Phosphor, total-P;540.0;Bottom
+2014-08-04 09:23:00;Phosphor, total-P;270.0;Surface
+2014-08-11 08:58:00;Oxygen indhold;5.65;Surface
+2014-08-13 08:53:00;Oxygen indhold;8.06;Surface
+2014-08-20 10:42:00;Ammoniak+ammonium-N;3.8;Bottom
+2014-08-20 10:42:00;Ammoniak+ammonium-N;4.6;Surface
+2014-08-20 10:42:00;Klorofyl a;65.0;Bottom
+2014-08-20 10:42:00;Klorofyl a;46.0;Surface
+2014-08-20 10:42:00;Nitrit+nitrat-N;1.5;Bottom
+2014-08-20 10:42:00;Nitrit+nitrat-N;1.5;Surface
+2014-08-20 10:42:00;Nitrogen,total N;874.6270003;Bottom
+2014-08-20 10:42:00;Nitrogen,total N;858.6805405;Surface
+2014-08-20 10:42:00;Ortho-phosphat-P;74.0;Bottom
+2014-08-20 10:42:00;Ortho-phosphat-P;73.0;Surface
+2014-08-20 10:42:00;Oxygen indhold;9.01;Surface
+2014-08-20 10:42:00;Phosphor, total-P;180.0;Bottom
+2014-08-20 10:42:00;Phosphor, total-P;190.0;Surface
+2014-09-01 09:44:00;Ammoniak+ammonium-N;420.0;Bottom
+2014-09-01 09:44:00;Ammoniak+ammonium-N;12.0;Surface
+2014-09-01 09:44:00;Klorofyl a;6.7;Bottom
+2014-09-01 09:44:00;Klorofyl a;10.0;Surface
+2014-09-01 09:44:00;Nitrit+nitrat-N;1.5;Bottom
+2014-09-01 09:44:00;Nitrit+nitrat-N;1.5;Surface
+2014-09-01 09:44:00;Nitrogen,total N;1146.606667;Bottom
+2014-09-01 09:44:00;Nitrogen,total N;764.1938172;Surface
+2014-09-01 09:44:00;Ortho-phosphat-P;200.0;Bottom
+2014-09-01 09:44:00;Ortho-phosphat-P;75.0;Surface
+2014-09-01 09:44:00;Oxygen indhold;0.155;Bottom
+2014-09-01 09:44:00;Oxygen indhold;8.56;Surface
+2014-09-01 09:44:00;Phosphor, total-P;350.0;Bottom
+2014-09-01 09:44:00;Phosphor, total-P;180.0;Surface
+2014-09-09 10:07:00;Oxygen indhold;0.085;Bottom
+2014-09-09 10:07:00;Oxygen indhold;5.79;Surface
+2014-09-15 09:42:00;Ammoniak+ammonium-N;43.0;Bottom
+2014-09-15 09:42:00;Ammoniak+ammonium-N;39.0;Surface
+2014-09-15 09:42:00;Klorofyl a;16.0;Bottom
+2014-09-15 09:42:00;Klorofyl a;15.0;Surface
+2014-09-15 09:42:00;Nitrit+nitrat-N;19.0;Bottom
+2014-09-15 09:42:00;Nitrit+nitrat-N;19.0;Surface
+2014-09-15 09:42:00;Nitrogen,total N;767.7527406;Bottom
+2014-09-15 09:42:00;Nitrogen,total N;818.8996424;Surface
+2014-09-15 09:42:00;Ortho-phosphat-P;99.0;Bottom
+2014-09-15 09:42:00;Ortho-phosphat-P;100.0;Surface
+2014-09-15 09:42:00;Oxygen indhold;8.58;Surface
+2014-09-15 09:42:00;Phosphor, total-P;190.0;Bottom
+2014-09-15 09:42:00;Phosphor, total-P;190.0;Surface
+2014-09-29 09:48:00;Ammoniak+ammonium-N;200.0;Bottom
+2014-09-29 09:48:00;Ammoniak+ammonium-N;150.0;Surface
+2014-09-29 09:48:00;Klorofyl a;4.6;Bottom
+2014-09-29 09:48:00;Klorofyl a;8.1;Surface
+2014-09-29 09:48:00;Nitrit+nitrat-N;13.0;Bottom
+2014-09-29 09:48:00;Nitrit+nitrat-N;22.0;Surface
+2014-09-29 09:48:00;Nitrogen,total N;737.7892523;Bottom
+2014-09-29 09:48:00;Nitrogen,total N;789.7722712;Surface
+2014-09-29 09:48:00;Ortho-phosphat-P;80.0;Bottom
+2014-09-29 09:48:00;Ortho-phosphat-P;75.0;Surface
+2014-09-29 09:48:00;Oxygen indhold;6.5600000000000005;Bottom
+2014-09-29 09:48:00;Oxygen indhold;7.55;Surface
+2014-09-29 09:48:00;Phosphor, total-P;140.0;Bottom
+2014-09-29 09:48:00;Phosphor, total-P;150.0;Surface
+2014-10-14 09:47:00;Ammoniak+ammonium-N;3.6;Bottom
+2014-10-14 09:47:00;Ammoniak+ammonium-N;4.0;Surface
+2014-10-14 09:47:00;Klorofyl a;22.0;Bottom
+2014-10-14 09:47:00;Klorofyl a;21.0;Surface
+2014-10-14 09:47:00;Nitrit+nitrat-N;2.6;Bottom
+2014-10-14 09:47:00;Nitrit+nitrat-N;2.1;Surface
+2014-10-14 09:47:00;Nitrogen,total N;646.1019395;Bottom
+2014-10-14 09:47:00;Nitrogen,total N;658.3479966;Surface
+2014-10-14 09:47:00;Ortho-phosphat-P;17.0;Bottom
+2014-10-14 09:47:00;Ortho-phosphat-P;17.0;Surface
+2014-10-14 09:47:00;Oxygen indhold;6.734999999999999;Bottom
+2014-10-14 09:47:00;Oxygen indhold;9.6;Surface
+2014-10-14 09:47:00;Phosphor, total-P;93.0;Bottom
+2014-10-14 09:47:00;Phosphor, total-P;90.0;Surface
+2014-10-27 09:31:00;Ammoniak+ammonium-N;130.0;Bottom
+2014-10-27 09:31:00;Ammoniak+ammonium-N;120.0;Surface
+2014-10-27 09:31:00;Klorofyl a;2.2;Bottom
+2014-10-27 09:31:00;Klorofyl a;2.2;Surface
+2014-10-27 09:31:00;Nitrit+nitrat-N;72.0;Bottom
+2014-10-27 09:31:00;Nitrit+nitrat-N;99.0;Surface
+2014-10-27 09:31:00;Nitrogen,total N;639.8906871;Bottom
+2014-10-27 09:31:00;Nitrogen,total N;672.7917456;Surface
+2014-10-27 09:31:00;Ortho-phosphat-P;33.0;Bottom
+2014-10-27 09:31:00;Ortho-phosphat-P;30.0;Surface
+2014-10-27 09:31:00;Oxygen indhold;8.3;Surface
+2014-10-27 09:31:00;Phosphor, total-P;71.0;Bottom
+2014-10-27 09:31:00;Phosphor, total-P;67.0;Surface
+2014-11-10 09:21:00;Ammoniak+ammonium-N;230.0;Bottom
+2014-11-10 09:21:00;Ammoniak+ammonium-N;130.0;Surface
+2014-11-10 09:21:00;Klorofyl a;4.8;Bottom
+2014-11-10 09:21:00;Klorofyl a;12.0;Surface
+2014-11-10 09:21:00;Nitrit+nitrat-N;85.0;Bottom
+2014-11-10 09:21:00;Nitrit+nitrat-N;330.0;Surface
+2014-11-10 09:21:00;Nitrogen,total N;743.1458013;Bottom
+2014-11-10 09:21:00;Nitrogen,total N;902.2527776;Surface
+2014-11-10 09:21:00;Ortho-phosphat-P;38.0;Bottom
+2014-11-10 09:21:00;Ortho-phosphat-P;24.0;Surface
+2014-11-10 09:21:00;Oxygen indhold;9.719999999999999;Surface
+2014-11-10 09:21:00;Phosphor, total-P;71.0;Bottom
+2014-11-10 09:21:00;Phosphor, total-P;66.0;Surface
+2014-11-24 09:39:00;Ammoniak+ammonium-N;240.0;Bottom
+2014-11-24 09:39:00;Ammoniak+ammonium-N;250.0;Surface
+2014-11-24 09:39:00;Klorofyl a;2.8;Bottom
+2014-11-24 09:39:00;Klorofyl a;3.9;Surface
+2014-11-24 09:39:00;Nitrit+nitrat-N;170.0;Bottom
+2014-11-24 09:39:00;Nitrit+nitrat-N;420.0;Surface
+2014-11-24 09:39:00;Nitrogen,total N;781.4187077;Bottom
+2014-11-24 09:39:00;Nitrogen,total N;1060.942914;Surface
+2014-11-24 09:39:00;Ortho-phosphat-P;42.0;Bottom
+2014-11-24 09:39:00;Ortho-phosphat-P;39.0;Surface
+2014-11-24 09:39:00;Oxygen indhold;9.45;Surface
+2014-11-24 09:39:00;Phosphor, total-P;71.0;Bottom
+2014-11-24 09:39:00;Phosphor, total-P;74.0;Surface
+2014-12-16 09:19:00;Ammoniak+ammonium-N;180.0;Bottom
+2014-12-16 09:19:00;Ammoniak+ammonium-N;180.0;Surface
+2014-12-16 09:19:00;Klorofyl a;1.7;Bottom
+2014-12-16 09:19:00;Klorofyl a;0.4;Surface
+2014-12-16 09:19:00;Nitrit+nitrat-N;310.0;Bottom
+2014-12-16 09:19:00;Nitrit+nitrat-N;460.0;Surface
+2014-12-16 09:19:00;Nitrogen,total N;845.7516164;Bottom
+2014-12-16 09:19:00;Nitrogen,total N;1003.943629;Surface
+2014-12-16 09:19:00;Ortho-phosphat-P;46.0;Bottom
+2014-12-16 09:19:00;Ortho-phosphat-P;40.0;Surface
+2014-12-16 09:19:00;Oxygen indhold;9.84;Bottom
+2014-12-16 09:19:00;Oxygen indhold;10.635000000000002;Surface
+2014-12-16 09:19:00;Phosphor, total-P;71.0;Bottom
+2014-12-16 09:19:00;Phosphor, total-P;67.0;Surface
+2015-01-05 09:10:00;Ammoniak+ammonium-N;140.0;Bottom
+2015-01-05 09:10:00;Ammoniak+ammonium-N;140.0;Surface
+2015-01-05 09:10:00;Klorofyl a;1.4;Bottom
+2015-01-05 09:10:00;Klorofyl a;1.3;Surface
+2015-01-05 09:10:00;Nitrit+nitrat-N;480.0;Bottom
+2015-01-05 09:10:00;Nitrit+nitrat-N;480.0;Surface
+2015-01-05 09:10:00;Nitrogen,total N;877.1544319;Bottom
+2015-01-05 09:10:00;Nitrogen,total N;865.0222928;Surface
+2015-01-05 09:10:00;Ortho-phosphat-P;39.0;Bottom
+2015-01-05 09:10:00;Ortho-phosphat-P;39.0;Surface
+2015-01-05 09:10:00;Oxygen indhold;10.530000000000001;Surface
+2015-01-05 09:10:00;Phosphor, total-P;57.0;Bottom
+2015-01-05 09:10:00;Phosphor, total-P;56.0;Surface
+2015-02-03 09:27:00;Ammoniak+ammonium-N;86.0;Bottom
+2015-02-03 09:27:00;Ammoniak+ammonium-N;93.0;Surface
+2015-02-03 09:27:00;Klorofyl a;0.8;Bottom
+2015-02-03 09:27:00;Klorofyl a;4.8;Surface
+2015-02-03 09:27:00;Nitrit+nitrat-N;460.0;Bottom
+2015-02-03 09:27:00;Nitrit+nitrat-N;700.0;Surface
+2015-02-03 09:27:00;Nitrogen,total N;771.7358138;Bottom
+2015-02-03 09:27:00;Nitrogen,total N;1206.636;Surface
+2015-02-03 09:27:00;Ortho-phosphat-P;27.0;Bottom
+2015-02-03 09:27:00;Ortho-phosphat-P;23.0;Surface
+2015-02-03 09:27:00;Oxygen indhold;8.055;Bottom
+2015-02-03 09:27:00;Oxygen indhold;11.31;Surface
+2015-02-03 09:27:00;Phosphor, total-P;36.0;Bottom
+2015-02-03 09:27:00;Phosphor, total-P;39.0;Surface
+2015-02-18 09:40:00;Ammoniak+ammonium-N;81.0;Bottom
+2015-02-18 09:40:00;Ammoniak+ammonium-N;38.0;Surface
+2015-02-18 09:40:00;Klorofyl a;2.4;Bottom
+2015-02-18 09:40:00;Klorofyl a;4.4;Surface
+2015-02-18 09:40:00;Nitrit+nitrat-N;520.0;Bottom
+2015-02-18 09:40:00;Nitrit+nitrat-N;700.0;Surface
+2015-02-18 09:40:00;Nitrogen,total N;937.5393484;Bottom
+2015-02-18 09:40:00;Nitrogen,total N;1089.402546;Surface
+2015-02-18 09:40:00;Ortho-phosphat-P;21.0;Bottom
+2015-02-18 09:40:00;Ortho-phosphat-P;13.0;Surface
+2015-02-18 09:40:00;Oxygen indhold;11.475000000000001;Surface
+2015-02-18 09:40:00;Phosphor, total-P;42.0;Bottom
+2015-02-18 09:40:00;Phosphor, total-P;33.0;Surface
+2015-03-02 09:15:00;Ammoniak+ammonium-N;15.0;Bottom
+2015-03-02 09:15:00;Ammoniak+ammonium-N;3.2;Surface
+2015-03-02 09:15:00;Klorofyl a;11.0;Bottom
+2015-03-02 09:15:00;Klorofyl a;14.0;Surface
+2015-03-02 09:15:00;Nitrit+nitrat-N;610.0;Bottom
+2015-03-02 09:15:00;Nitrit+nitrat-N;650.0;Surface
+2015-03-02 09:15:00;Nitrogen,total N;773.3007121;Bottom
+2015-03-02 09:15:00;Nitrogen,total N;831.8525224;Surface
+2015-03-02 09:15:00;Ortho-phosphat-P;3.9;Bottom
+2015-03-02 09:15:00;Ortho-phosphat-P;2.1;Surface
+2015-03-02 09:15:00;Oxygen indhold;10.825;Surface
+2015-03-02 09:15:00;Phosphor, total-P;34.0;Bottom
+2015-03-02 09:15:00;Phosphor, total-P;32.0;Surface
+2015-03-11 09:27:00;Ammoniak+ammonium-N;6.8;Bottom
+2015-03-11 09:27:00;Ammoniak+ammonium-N;5.8;Surface
+2015-03-11 09:27:00;Klorofyl a;12.0;Bottom
+2015-03-11 09:27:00;Klorofyl a;9.4;Surface
+2015-03-11 09:27:00;Nitrit+nitrat-N;420.0;Bottom
+2015-03-11 09:27:00;Nitrit+nitrat-N;430.0;Surface
+2015-03-11 09:27:00;Nitrogen,total N;806.6268868;Bottom
+2015-03-11 09:27:00;Nitrogen,total N;927.1970059;Surface
+2015-03-11 09:27:00;Ortho-phosphat-P;2.4;Bottom
+2015-03-11 09:27:00;Ortho-phosphat-P;2.1;Surface
+2015-03-11 09:27:00;Oxygen indhold;11.455;Surface
+2015-03-11 09:27:00;Phosphor, total-P;23.0;Bottom
+2015-03-11 09:27:00;Phosphor, total-P;21.0;Surface
+2015-03-16 09:03:00;Ammoniak+ammonium-N;13.0;Bottom
+2015-03-16 09:03:00;Ammoniak+ammonium-N;13.0;Surface
+2015-03-16 09:03:00;Klorofyl a;2.7;Bottom
+2015-03-16 09:03:00;Klorofyl a;2.0;Surface
+2015-03-16 09:03:00;Nitrit+nitrat-N;590.0;Bottom
+2015-03-16 09:03:00;Nitrit+nitrat-N;580.0;Surface
+2015-03-16 09:03:00;Nitrogen,total N;1030.768794;Bottom
+2015-03-16 09:03:00;Nitrogen,total N;1037.698616;Surface
+2015-03-16 09:03:00;Ortho-phosphat-P;2.7;Bottom
+2015-03-16 09:03:00;Ortho-phosphat-P;1.9;Surface
+2015-03-16 09:03:00;Oxygen indhold;11.03;Surface
+2015-03-16 09:03:00;Phosphor, total-P;14.0;Bottom
+2015-03-16 09:03:00;Phosphor, total-P;15.0;Surface
+2015-04-07 10:28:00;Ammoniak+ammonium-N;24.0;Bottom
+2015-04-07 10:28:00;Ammoniak+ammonium-N;25.0;Surface
+2015-04-07 10:28:00;Klorofyl a;1.8;Bottom
+2015-04-07 10:28:00;Klorofyl a;1.3;Surface
+2015-04-07 10:28:00;Nitrit+nitrat-N;440.0;Bottom
+2015-04-07 10:28:00;Nitrit+nitrat-N;460.0;Surface
+2015-04-07 10:28:00;Nitrogen,total N;813.335596;Bottom
+2015-04-07 10:28:00;Nitrogen,total N;827.2395161;Surface
+2015-04-07 10:28:00;Ortho-phosphat-P;1.1;Bottom
+2015-04-07 10:28:00;Ortho-phosphat-P;1.0;Surface
+2015-04-07 10:28:00;Oxygen indhold;10.25;Surface
+2015-04-07 10:28:00;Phosphor, total-P;16.0;Bottom
+2015-04-07 10:28:00;Phosphor, total-P;16.0;Surface
+2015-05-05 09:25:00;Ammoniak+ammonium-N;22.0;Bottom
+2015-05-05 09:25:00;Ammoniak+ammonium-N;22.0;Surface
+2015-05-05 09:25:00;Klorofyl a;3.3;Bottom
+2015-05-05 09:25:00;Klorofyl a;1.9;Surface
+2015-05-05 09:25:00;Nitrit+nitrat-N;260.0;Bottom
+2015-05-05 09:25:00;Nitrit+nitrat-N;270.0;Surface
+2015-05-05 09:25:00;Nitrogen,total N;646.9510587;Bottom
+2015-05-05 09:25:00;Nitrogen,total N;684.826776;Surface
+2015-05-05 09:25:00;Ortho-phosphat-P;1.5;Bottom
+2015-05-05 09:25:00;Ortho-phosphat-P;1.8;Surface
+2015-05-05 09:25:00;Oxygen indhold;9.1;Surface
+2015-05-05 09:25:00;Phosphor, total-P;25.0;Bottom
+2015-05-05 09:25:00;Phosphor, total-P;25.0;Surface
+2015-05-19 09:08:00;Ammoniak+ammonium-N;11.0;Bottom
+2015-05-19 09:08:00;Ammoniak+ammonium-N;11.0;Surface
+2015-05-19 09:08:00;Klorofyl a;12.0;Bottom
+2015-05-19 09:08:00;Klorofyl a;11.0;Surface
+2015-05-19 09:08:00;Nitrit+nitrat-N;140.0;Bottom
+2015-05-19 09:08:00;Nitrit+nitrat-N;140.0;Surface
+2015-05-19 09:08:00;Nitrogen,total N;584.9814949;Bottom
+2015-05-19 09:08:00;Nitrogen,total N;527.0873019;Surface
+2015-05-19 09:08:00;Ortho-phosphat-P;2.2;Bottom
+2015-05-19 09:08:00;Ortho-phosphat-P;1.1;Surface
+2015-05-19 09:08:00;Oxygen indhold;8.965;Surface
+2015-05-19 09:08:00;Phosphor, total-P;25.0;Bottom
+2015-05-19 09:08:00;Phosphor, total-P;20.0;Surface
+2015-06-04 13:53:00;Ammoniak+ammonium-N;22.0;Bottom
+2015-06-04 13:53:00;Ammoniak+ammonium-N;19.0;Surface
+2015-06-04 13:53:00;Klorofyl a;4.5;Bottom
+2015-06-04 13:53:00;Klorofyl a;3.7;Surface
+2015-06-04 13:53:00;Nitrit+nitrat-N;91.0;Bottom
+2015-06-04 13:53:00;Nitrit+nitrat-N;97.0;Surface
+2015-06-04 13:53:00;Nitrogen,total N;547.9127619;Bottom
+2015-06-04 13:53:00;Nitrogen,total N;556.9826683;Surface
+2015-06-04 13:53:00;Ortho-phosphat-P;1.8;Bottom
+2015-06-04 13:53:00;Ortho-phosphat-P;2.2;Surface
+2015-06-04 13:53:00;Oxygen indhold;8.86;Surface
+2015-06-04 13:53:00;Phosphor, total-P;29.0;Bottom
+2015-06-04 13:53:00;Phosphor, total-P;25.0;Surface
+2015-06-15 10:45:00;Ammoniak+ammonium-N;9.2;Bottom
+2015-06-15 10:45:00;Ammoniak+ammonium-N;8.1;Surface
+2015-06-15 10:45:00;Klorofyl a;11.0;Bottom
+2015-06-15 10:45:00;Klorofyl a;10.0;Surface
+2015-06-15 10:45:00;Nitrit+nitrat-N;9.2;Bottom
+2015-06-15 10:45:00;Nitrit+nitrat-N;7.2;Surface
+2015-06-15 10:45:00;Nitrogen,total N;592.5832242;Bottom
+2015-06-15 10:45:00;Nitrogen,total N;591.5262036;Surface
+2015-06-15 10:45:00;Ortho-phosphat-P;2.0;Bottom
+2015-06-15 10:45:00;Ortho-phosphat-P;1.3;Surface
+2015-06-15 10:45:00;Oxygen indhold;8.370000000000001;Surface
+2015-06-15 10:45:00;Phosphor, total-P;42.0;Bottom
+2015-06-15 10:45:00;Phosphor, total-P;45.0;Surface
+2015-06-29 10:42:00;Ammoniak+ammonium-N;27.0;Bottom
+2015-06-29 10:42:00;Ammoniak+ammonium-N;5.5;Surface
+2015-06-29 10:42:00;Klorofyl a;6.4;Bottom
+2015-06-29 10:42:00;Klorofyl a;8.3;Surface
+2015-06-29 10:42:00;Nitrit+nitrat-N;9.8;Bottom
+2015-06-29 10:42:00;Nitrit+nitrat-N;8.1;Surface
+2015-06-29 10:42:00;Nitrogen,total N;1677.901419;Bottom
+2015-06-29 10:42:00;Nitrogen,total N;555.6045196;Surface
+2015-06-29 10:42:00;Ortho-phosphat-P;92.0;Bottom
+2015-06-29 10:42:00;Ortho-phosphat-P;2.5;Surface
+2015-06-29 10:42:00;Oxygen indhold;5.02;Bottom
+2015-06-29 10:42:00;Oxygen indhold;9.07;Surface
+2015-06-29 10:42:00;Phosphor, total-P;370.0;Bottom
+2015-06-29 10:42:00;Phosphor, total-P;46.0;Surface
+2015-07-14 10:30:00;Ammoniak+ammonium-N;33.0;Bottom
+2015-07-14 10:30:00;Ammoniak+ammonium-N;12.0;Surface
+2015-07-14 10:30:00;Klorofyl a;3.0;Bottom
+2015-07-14 10:30:00;Klorofyl a;2.8;Surface
+2015-07-14 10:30:00;Nitrit+nitrat-N;17.0;Bottom
+2015-07-14 10:30:00;Nitrit+nitrat-N;9.4;Surface
+2015-07-14 10:30:00;Nitrogen,total N;524.5473746;Bottom
+2015-07-14 10:30:00;Nitrogen,total N;558.0712866;Surface
+2015-07-14 10:30:00;Ortho-phosphat-P;14.0;Bottom
+2015-07-14 10:30:00;Ortho-phosphat-P;2.2;Surface
+2015-07-14 10:30:00;Oxygen indhold;4.38;Bottom
+2015-07-14 10:30:00;Oxygen indhold;8.135000000000002;Surface
+2015-07-14 10:30:00;Phosphor, total-P;70.0;Bottom
+2015-07-14 10:30:00;Phosphor, total-P;57.0;Surface
+2015-07-27 10:20:00;Ammoniak+ammonium-N;11.0;Bottom
+2015-07-27 10:20:00;Ammoniak+ammonium-N;18.0;Surface
+2015-07-27 10:20:00;Klorofyl a;8.0;Bottom
+2015-07-27 10:20:00;Klorofyl a;6.3;Surface
+2015-07-27 10:20:00;Nitrit+nitrat-N;6.1;Bottom
+2015-07-27 10:20:00;Nitrit+nitrat-N;72.0;Surface
+2015-07-27 10:20:00;Nitrogen,total N;492.8981226;Bottom
+2015-07-27 10:20:00;Nitrogen,total N;624.4335949;Surface
+2015-07-27 10:20:00;Ortho-phosphat-P;11.0;Bottom
+2015-07-27 10:20:00;Ortho-phosphat-P;16.0;Surface
+2015-07-27 10:20:00;Oxygen indhold;7.795;Surface
+2015-07-27 10:20:00;Phosphor, total-P;56.0;Bottom
+2015-07-27 10:20:00;Phosphor, total-P;64.0;Surface
+2015-08-11 09:59:00;Ammoniak+ammonium-N;120.0;Bottom
+2015-08-11 09:59:00;Ammoniak+ammonium-N;4.2;Surface
+2015-08-11 09:59:00;Klorofyl a;4.7;Bottom
+2015-08-11 09:59:00;Klorofyl a;6.4;Surface
+2015-08-11 09:59:00;Nitrit+nitrat-N;13.0;Bottom
+2015-08-11 09:59:00;Nitrit+nitrat-N;1.5;Surface
+2015-08-11 09:59:00;Nitrogen,total N;504.9352333;Bottom
+2015-08-11 09:59:00;Nitrogen,total N;459.1557794;Surface
+2015-08-11 09:59:00;Ortho-phosphat-P;59.0;Bottom
+2015-08-11 09:59:00;Ortho-phosphat-P;5.9;Surface
+2015-08-11 09:59:00;Oxygen indhold;1.44;Bottom
+2015-08-11 09:59:00;Oxygen indhold;9.17;Surface
+2015-08-11 09:59:00;Phosphor, total-P;85.0;Bottom
+2015-08-11 09:59:00;Phosphor, total-P;58.0;Surface
+2015-08-18 09:24:00;Ammoniak+ammonium-N;18.0;Bottom
+2015-08-18 09:24:00;Ammoniak+ammonium-N;19.0;Surface
+2015-08-18 09:24:00;Klorofyl a;7.2;Bottom
+2015-08-18 09:24:00;Klorofyl a;5.0;Surface
+2015-08-18 09:24:00;Nitrit+nitrat-N;4.3;Bottom
+2015-08-18 09:24:00;Nitrit+nitrat-N;8.6;Surface
+2015-08-18 09:24:00;Nitrogen,total N;536.070302;Bottom
+2015-08-18 09:24:00;Nitrogen,total N;576.7800432;Surface
+2015-08-18 09:24:00;Ortho-phosphat-P;20.0;Bottom
+2015-08-18 09:24:00;Ortho-phosphat-P;19.0;Surface
+2015-08-18 09:24:00;Oxygen indhold;7.535;Surface
+2015-08-18 09:24:00;Phosphor, total-P;85.0;Bottom
+2015-08-18 09:24:00;Phosphor, total-P;90.0;Surface
+2015-09-02 10:05:00;Ammoniak+ammonium-N;44.0;Bottom
+2015-09-02 10:05:00;Ammoniak+ammonium-N;38.0;Surface
+2015-09-02 10:05:00;Klorofyl a;11.0;Bottom
+2015-09-02 10:05:00;Klorofyl a;11.0;Surface
+2015-09-02 10:05:00;Nitrit+nitrat-N;24.0;Bottom
+2015-09-02 10:05:00;Nitrit+nitrat-N;18.0;Surface
+2015-09-02 10:05:00;Nitrogen,total N;507.9322157;Bottom
+2015-09-02 10:05:00;Nitrogen,total N;524.2319489;Surface
+2015-09-02 10:05:00;Ortho-phosphat-P;76.0;Bottom
+2015-09-02 10:05:00;Ortho-phosphat-P;74.0;Surface
+2015-09-02 10:05:00;Oxygen indhold;7.23;Surface
+2015-09-02 10:05:00;Phosphor, total-P;130.0;Bottom
+2015-09-02 10:05:00;Phosphor, total-P;130.0;Surface
+2015-09-14 10:31:00;Ammoniak+ammonium-N;26.0;Bottom
+2015-09-14 10:31:00;Ammoniak+ammonium-N;14.0;Surface
+2015-09-14 10:31:00;Klorofyl a;4.1;Bottom
+2015-09-14 10:31:00;Klorofyl a;14.0;Surface
+2015-09-14 10:31:00;Nitrit+nitrat-N;21.0;Bottom
+2015-09-14 10:31:00;Nitrit+nitrat-N;43.0;Surface
+2015-09-14 10:31:00;Nitrogen,total N;551.537522;Bottom
+2015-09-14 10:31:00;Nitrogen,total N;660.1402474;Surface
+2015-09-14 10:31:00;Ortho-phosphat-P;39.0;Bottom
+2015-09-14 10:31:00;Ortho-phosphat-P;25.0;Surface
+2015-09-14 10:31:00;Oxygen indhold;8.115;Surface
+2015-09-14 10:31:00;Phosphor, total-P;79.0;Bottom
+2015-09-14 10:31:00;Phosphor, total-P;92.0;Surface
+2015-09-29 08:52:00;Ammoniak+ammonium-N;35.0;Bottom
+2015-09-29 08:52:00;Ammoniak+ammonium-N;24.0;Surface
+2015-09-29 08:52:00;Klorofyl a;11.0;Bottom
+2015-09-29 08:52:00;Klorofyl a;9.1;Surface
+2015-09-29 08:52:00;Nitrit+nitrat-N;12.0;Bottom
+2015-09-29 08:52:00;Nitrit+nitrat-N;54.0;Surface
+2015-09-29 08:52:00;Nitrogen,total N;578.2631728;Bottom
+2015-09-29 08:52:00;Nitrogen,total N;615.4835022;Surface
+2015-09-29 08:52:00;Ortho-phosphat-P;39.0;Bottom
+2015-09-29 08:52:00;Ortho-phosphat-P;22.0;Surface
+2015-09-29 08:52:00;Oxygen indhold;3.425;Bottom
+2015-09-29 08:52:00;Oxygen indhold;10.785;Surface
+2015-09-29 08:52:00;Phosphor, total-P;90.0;Bottom
+2015-09-29 08:52:00;Phosphor, total-P;68.0;Surface
+2015-10-14 09:35:00;Ammoniak+ammonium-N;86.0;Bottom
+2015-10-14 09:35:00;Ammoniak+ammonium-N;86.0;Surface
+2015-10-14 09:35:00;Klorofyl a;5.5;Bottom
+2015-10-14 09:35:00;Klorofyl a;5.0;Surface
+2015-10-14 09:35:00;Nitrit+nitrat-N;110.0;Bottom
+2015-10-14 09:35:00;Nitrit+nitrat-N;110.0;Surface
+2015-10-14 09:35:00;Nitrogen,total N;637.4214035;Bottom
+2015-10-14 09:35:00;Nitrogen,total N;609.69009;Surface
+2015-10-14 09:35:00;Ortho-phosphat-P;32.0;Bottom
+2015-10-14 09:35:00;Ortho-phosphat-P;31.0;Surface
+2015-10-14 09:35:00;Oxygen indhold;8.47;Surface
+2015-10-14 09:35:00;Phosphor, total-P;62.0;Bottom
+2015-10-14 09:35:00;Phosphor, total-P;56.0;Surface
+2015-10-26 09:18:00;Ammoniak+ammonium-N;69.0;Bottom
+2015-10-26 09:18:00;Ammoniak+ammonium-N;44.0;Surface
+2015-10-26 09:18:00;Klorofyl a;2.4;Bottom
+2015-10-26 09:18:00;Klorofyl a;8.3;Surface
+2015-10-26 09:18:00;Nitrit+nitrat-N;72.0;Bottom
+2015-10-26 09:18:00;Nitrit+nitrat-N;75.0;Surface
+2015-10-26 09:18:00;Nitrogen,total N;778.7146321;Bottom
+2015-10-26 09:18:00;Nitrogen,total N;566.0912179;Surface
+2015-10-26 09:18:00;Ortho-phosphat-P;20.0;Bottom
+2015-10-26 09:18:00;Ortho-phosphat-P;18.0;Surface
+2015-10-26 09:18:00;Oxygen indhold;8.735;Surface
+2015-10-26 09:18:00;Phosphor, total-P;43.0;Bottom
+2015-10-26 09:18:00;Phosphor, total-P;53.0;Surface
+2015-11-18 09:31:00;Ammoniak+ammonium-N;120.0;Bottom
+2015-11-18 09:31:00;Ammoniak+ammonium-N;120.0;Surface
+2015-11-18 09:31:00;Klorofyl a;0.9;Bottom
+2015-11-18 09:31:00;Klorofyl a;2.7;Surface
+2015-11-18 09:31:00;Nitrit+nitrat-N;100.0;Bottom
+2015-11-18 09:31:00;Nitrit+nitrat-N;250.0;Surface
+2015-11-18 09:31:00;Nitrogen,total N;570.013095;Bottom
+2015-11-18 09:31:00;Nitrogen,total N;804.6289529;Surface
+2015-11-18 09:31:00;Ortho-phosphat-P;18.0;Bottom
+2015-11-18 09:31:00;Ortho-phosphat-P;18.0;Surface
+2015-11-18 09:31:00;Oxygen indhold;7.145;Bottom
+2015-11-18 09:31:00;Oxygen indhold;8.71;Surface
+2015-11-18 09:31:00;Phosphor, total-P;37.0;Bottom
+2015-11-18 09:31:00;Phosphor, total-P;42.0;Surface
+2015-11-30 09:24:00;Ammoniak+ammonium-N;140.0;Bottom
+2015-11-30 09:24:00;Ammoniak+ammonium-N;76.0;Surface
+2015-11-30 09:24:00;Klorofyl a;1.6;Bottom
+2015-11-30 09:24:00;Klorofyl a;1.7;Surface
+2015-11-30 09:24:00;Nitrit+nitrat-N;210.0;Bottom
+2015-11-30 09:24:00;Nitrit+nitrat-N;210.0;Surface
+2015-11-30 09:24:00;Nitrogen,total N;611.2006068;Bottom
+2015-11-30 09:24:00;Nitrogen,total N;640.3645182;Surface
+2015-11-30 09:24:00;Ortho-phosphat-P;21.0;Bottom
+2015-11-30 09:24:00;Ortho-phosphat-P;21.0;Surface
+2015-11-30 09:24:00;Oxygen indhold;9.18;Surface
+2015-11-30 09:24:00;Phosphor, total-P;43.0;Bottom
+2015-11-30 09:24:00;Phosphor, total-P;46.0;Surface
+2015-12-15 09:09:00;Ammoniak+ammonium-N;150.0;Bottom
+2015-12-15 09:09:00;Ammoniak+ammonium-N;150.0;Surface
+2015-12-15 09:09:00;Klorofyl a;0.4;Bottom
+2015-12-15 09:09:00;Klorofyl a;0.9;Surface
+2015-12-15 09:09:00;Nitrit+nitrat-N;340.0;Bottom
+2015-12-15 09:09:00;Nitrit+nitrat-N;370.0;Surface
+2015-12-15 09:09:00;Nitrogen,total N;762.9577218;Bottom
+2015-12-15 09:09:00;Nitrogen,total N;781.0513657;Surface
+2015-12-15 09:09:00;Ortho-phosphat-P;20.0;Bottom
+2015-12-15 09:09:00;Ortho-phosphat-P;20.0;Surface
+2015-12-15 09:09:00;Oxygen indhold;9.735;Surface
+2015-12-15 09:09:00;Phosphor, total-P;35.0;Bottom
+2015-12-15 09:09:00;Phosphor, total-P;35.0;Surface
+2016-01-05 10:03:00;Klorofyl a;3.38;Bottom
+2016-01-05 10:03:00;Klorofyl a;4.73;Surface
+2016-01-05 10:03:00;Nitrit+nitrat-N;546.0;Bottom
+2016-01-05 10:03:00;Nitrit+nitrat-N;534.0;Surface
+2016-01-05 10:03:00;Nitrogen,total N;1063.497545;Bottom
+2016-01-05 10:03:00;Nitrogen,total N;1117.868438;Surface
+2016-01-05 10:03:00;Ortho-phosphat-P;27.0;Bottom
+2016-01-05 10:03:00;Ortho-phosphat-P;22.0;Surface
+2016-01-05 10:03:00;Oxygen indhold;11.26;Surface
+2016-01-05 10:03:00;Phosphor, total-P;38.0;Bottom
+2016-01-05 10:03:00;Phosphor, total-P;45.0;Surface
+2016-02-04 13:01:00;Ammoniak+ammonium-N;170.0;Bottom
+2016-02-04 13:01:00;Ammoniak+ammonium-N;160.0;Surface
+2016-02-04 13:01:00;Klorofyl a;0.66;Bottom
+2016-02-04 13:01:00;Klorofyl a;0.78;Surface
+2016-02-04 13:01:00;Nitrit+nitrat-N;520.0;Bottom
+2016-02-04 13:01:00;Nitrit+nitrat-N;520.0;Surface
+2016-02-04 13:01:00;Nitrogen,total N;969.3450766;Bottom
+2016-02-04 13:01:00;Nitrogen,total N;912.7883201;Surface
+2016-02-04 13:01:00;Ortho-phosphat-P;22.0;Bottom
+2016-02-04 13:01:00;Ortho-phosphat-P;21.0;Surface
+2016-02-04 13:01:00;Oxygen indhold;10.52;Surface
+2016-02-04 13:01:00;Phosphor, total-P;39.0;Bottom
+2016-02-04 13:01:00;Phosphor, total-P;41.0;Surface
+2016-02-15 09:59:00;Ammoniak+ammonium-N;150.0;Bottom
+2016-02-15 09:59:00;Ammoniak+ammonium-N;190.0;Surface
+2016-02-15 09:59:00;Klorofyl a;0.92;Bottom
+2016-02-15 09:59:00;Klorofyl a;2.16;Surface
+2016-02-15 09:59:00;Nitrit+nitrat-N;1000.0;Bottom
+2016-02-15 09:59:00;Nitrit+nitrat-N;1000.0;Surface
+2016-02-15 09:59:00;Nitrogen,total N;1335.37382;Bottom
+2016-02-15 09:59:00;Nitrogen,total N;1332.146331;Surface
+2016-02-15 09:59:00;Ortho-phosphat-P;24.0;Bottom
+2016-02-15 09:59:00;Ortho-phosphat-P;21.0;Surface
+2016-02-15 09:59:00;Oxygen indhold;11.6;Surface
+2016-02-15 09:59:00;Phosphor, total-P;33.0;Bottom
+2016-02-15 09:59:00;Phosphor, total-P;34.0;Surface
+2016-02-29 09:30:00;Ammoniak+ammonium-N;64.0;Bottom
+2016-02-29 09:30:00;Ammoniak+ammonium-N;19.0;Surface
+2016-02-29 09:30:00;Klorofyl a;1.89;Bottom
+2016-02-29 09:30:00;Klorofyl a;11.7;Surface
+2016-02-29 09:30:00;Nitrit+nitrat-N;510.0;Bottom
+2016-02-29 09:30:00;Nitrit+nitrat-N;650.0;Surface
+2016-02-29 09:30:00;Nitrogen,total N;735.6890223;Bottom
+2016-02-29 09:30:00;Nitrogen,total N;938.6190197;Surface
+2016-02-29 09:30:00;Ortho-phosphat-P;17.0;Bottom
+2016-02-29 09:30:00;Ortho-phosphat-P;7.0;Surface
+2016-02-29 09:30:00;Oxygen indhold;11.82;Surface
+2016-02-29 09:30:00;Phosphor, total-P;28.0;Bottom
+2016-02-29 09:30:00;Phosphor, total-P;20.0;Surface
+2016-03-08 10:17:00;Ammoniak+ammonium-N;19.0;Bottom
+2016-03-08 10:17:00;Ammoniak+ammonium-N;8.0;Surface
+2016-03-08 10:17:00;Klorofyl a;7.29;Bottom
+2016-03-08 10:17:00;Klorofyl a;17.8;Surface
+2016-03-08 10:17:00;Nitrit+nitrat-N;310.0;Bottom
+2016-03-08 10:17:00;Nitrit+nitrat-N;570.0;Surface
+2016-03-08 10:17:00;Nitrogen,total N;671.0349608;Bottom
+2016-03-08 10:17:00;Nitrogen,total N;924.4805149;Surface
+2016-03-08 10:17:00;Ortho-phosphat-P;3.0;Bottom
+2016-03-08 10:17:00;Ortho-phosphat-P;2.0;Surface
+2016-03-08 10:17:00;Oxygen indhold;12.61;Surface
+2016-03-08 10:17:00;Phosphor, total-P;12.0;Bottom
+2016-03-08 10:17:00;Phosphor, total-P;22.0;Surface
+2016-03-16 09:34:00;Ammoniak+ammonium-N;28.0;Bottom
+2016-03-16 09:34:00;Ammoniak+ammonium-N;15.0;Surface
+2016-03-16 09:34:00;Klorofyl a;3.91;Bottom
+2016-03-16 09:34:00;Klorofyl a;6.6;Surface
+2016-03-16 09:34:00;Nitrit+nitrat-N;280.0;Bottom
+2016-03-16 09:34:00;Nitrit+nitrat-N;590.0;Surface
+2016-03-16 09:34:00;Nitrogen,total N;579.209175;Bottom
+2016-03-16 09:34:00;Nitrogen,total N;987.9504162;Surface
+2016-03-16 09:34:00;Ortho-phosphat-P;1.0;Bottom
+2016-03-16 09:34:00;Ortho-phosphat-P;2.0;Surface
+2016-03-16 09:34:00;Oxygen indhold;13.53;Surface
+2016-03-16 09:34:00;Phosphor, total-P;10.0;Bottom
+2016-03-16 09:34:00;Phosphor, total-P;8.0;Surface
+2016-04-04 10:27:00;Ammoniak+ammonium-N;61.0;Bottom
+2016-04-04 10:27:00;Ammoniak+ammonium-N;58.0;Surface
+2016-04-04 10:27:00;Klorofyl a;2.07;Bottom
+2016-04-04 10:27:00;Klorofyl a;2.43;Surface
+2016-04-04 10:27:00;Nitrit+nitrat-N;290.0;Bottom
+2016-04-04 10:27:00;Nitrit+nitrat-N;460.0;Surface
+2016-04-04 10:27:00;Nitrogen,total N;706.5896794;Bottom
+2016-04-04 10:27:00;Nitrogen,total N;905.1220046;Surface
+2016-04-04 10:27:00;Ortho-phosphat-P;1.0;Bottom
+2016-04-04 10:27:00;Ortho-phosphat-P;1.0;Surface
+2016-04-04 10:27:00;Oxygen indhold;10.31;Surface
+2016-04-04 10:27:00;Phosphor, total-P;17.0;Bottom
+2016-04-04 10:27:00;Phosphor, total-P;17.0;Surface
+2016-05-02 13:25:00;Ammoniak+ammonium-N;28.0;Bottom
+2016-05-02 13:25:00;Ammoniak+ammonium-N;20.0;Surface
+2016-05-02 13:25:00;Klorofyl a;3.09;Bottom
+2016-05-02 13:25:00;Klorofyl a;2.71;Surface
+2016-05-02 13:25:00;Nitrit+nitrat-N;230.0;Bottom
+2016-05-02 13:25:00;Nitrit+nitrat-N;300.0;Surface
+2016-05-02 13:25:00;Nitrogen,total N;587.6832799;Bottom
+2016-05-02 13:25:00;Nitrogen,total N;696.8025599;Surface
+2016-05-02 13:25:00;Ortho-phosphat-P;2.0;Bottom
+2016-05-02 13:25:00;Ortho-phosphat-P;1.0;Surface
+2016-05-02 13:25:00;Oxygen indhold;10.58;Surface
+2016-05-02 13:25:00;Phosphor, total-P;7.0;Bottom
+2016-05-02 13:25:00;Phosphor, total-P;10.0;Surface
+2016-05-18 09:31:00;Ammoniak+ammonium-N;20.0;Bottom
+2016-05-18 09:31:00;Ammoniak+ammonium-N;19.0;Surface
+2016-05-18 09:31:00;Klorofyl a;6.4;Bottom
+2016-05-18 09:31:00;Klorofyl a;5.9;Surface
+2016-05-18 09:31:00;Nitrit+nitrat-N;140.0;Bottom
+2016-05-18 09:31:00;Nitrit+nitrat-N;160.0;Surface
+2016-05-18 09:31:00;Nitrogen,total N;513.3524554;Bottom
+2016-05-18 09:31:00;Nitrogen,total N;572.8039809;Surface
+2016-05-18 09:31:00;Ortho-phosphat-P;1.0;Bottom
+2016-05-18 09:31:00;Ortho-phosphat-P;1.0;Surface
+2016-05-18 09:31:00;Oxygen indhold;9.27;Surface
+2016-05-18 09:31:00;Phosphor, total-P;9.0;Bottom
+2016-05-18 09:31:00;Phosphor, total-P;8.0;Surface
+2016-06-02 11:57:00;Ammoniak+ammonium-N;3.0;Bottom
+2016-06-02 11:57:00;Ammoniak+ammonium-N;3.0;Surface
+2016-06-02 11:57:00;Klorofyl a;6.85;Bottom
+2016-06-02 11:57:00;Klorofyl a;7.09;Surface
+2016-06-02 11:57:00;Nitrit+nitrat-N;14.0;Bottom
+2016-06-02 11:57:00;Nitrit+nitrat-N;1.0;Surface
+2016-06-02 11:57:00;Nitrogen,total N;2778.94611;Bottom
+2016-06-02 11:57:00;Nitrogen,total N;556.4538907;Surface
+2016-06-02 11:57:00;Ortho-phosphat-P;80.0;Bottom
+2016-06-02 11:57:00;Ortho-phosphat-P;1.0;Surface
+2016-06-02 11:57:00;Oxygen indhold;4.53;Bottom
+2016-06-02 11:57:00;Oxygen indhold;10.24;Surface
+2016-06-02 11:57:00;Phosphor, total-P;160.0;Bottom
+2016-06-02 11:57:00;Phosphor, total-P;20.0;Surface
+2016-06-14 08:12:00;Ammoniak+ammonium-N;36.0;Bottom
+2016-06-14 08:12:00;Ammoniak+ammonium-N;5.0;Surface
+2016-06-14 08:12:00;Klorofyl a;5.5;Bottom
+2016-06-14 08:12:00;Klorofyl a;4.7;Surface
+2016-06-14 08:12:00;Nitrit+nitrat-N;5.7;Bottom
+2016-06-14 08:12:00;Nitrit+nitrat-N;1.0;Surface
+2016-06-14 08:12:00;Nitrogen,total N;437.251117;Bottom
+2016-06-14 08:12:00;Nitrogen,total N;482.911293;Surface
+2016-06-14 08:12:00;Ortho-phosphat-P;14.0;Bottom
+2016-06-14 08:12:00;Ortho-phosphat-P;2.0;Surface
+2016-06-14 08:12:00;Oxygen indhold;6.0;Bottom
+2016-06-14 08:12:00;Oxygen indhold;8.27;Surface
+2016-06-14 08:12:00;Phosphor, total-P;43.0;Bottom
+2016-06-14 08:12:00;Phosphor, total-P;34.0;Surface
+2016-06-27 10:10:00;Ammoniak+ammonium-N;170.0;Bottom
+2016-06-27 10:10:00;Ammoniak+ammonium-N;10.0;Surface
+2016-06-27 10:10:00;Klorofyl a;2.1;Bottom
+2016-06-27 10:10:00;Klorofyl a;15.0;Surface
+2016-06-27 10:10:00;Nitrit+nitrat-N;15.0;Bottom
+2016-06-27 10:10:00;Nitrit+nitrat-N;4.4;Surface
+2016-06-27 10:10:00;Nitrogen,total N;629.1290173;Bottom
+2016-06-27 10:10:00;Nitrogen,total N;717.3989629;Surface
+2016-06-27 10:10:00;Ortho-phosphat-P;41.0;Bottom
+2016-06-27 10:10:00;Ortho-phosphat-P;16.0;Surface
+2016-06-27 10:10:00;Oxygen indhold;4.2;Bottom
+2016-06-27 10:10:00;Oxygen indhold;7.99;Surface
+2016-06-27 10:10:00;Phosphor, total-P;63.0;Bottom
+2016-06-27 10:10:00;Phosphor, total-P;47.0;Surface
+2016-07-11 10:14:00;Ammoniak+ammonium-N;25.0;Bottom
+2016-07-11 10:14:00;Ammoniak+ammonium-N;9.0;Surface
+2016-07-11 10:14:00;Klorofyl a;5.9;Bottom
+2016-07-11 10:14:00;Klorofyl a;8.5;Surface
+2016-07-11 10:14:00;Nitrit+nitrat-N;10.0;Bottom
+2016-07-11 10:14:00;Nitrit+nitrat-N;4.4;Surface
+2016-07-11 10:14:00;Nitrogen,total N;519.8055087;Bottom
+2016-07-11 10:14:00;Nitrogen,total N;509.7792075;Surface
+2016-07-11 10:14:00;Ortho-phosphat-P;27.0;Bottom
+2016-07-11 10:14:00;Ortho-phosphat-P;21.0;Surface
+2016-07-11 10:14:00;Oxygen indhold;6.41;Bottom
+2016-07-11 10:14:00;Oxygen indhold;7.64;Surface
+2016-07-11 10:14:00;Phosphor, total-P;51.0;Bottom
+2016-07-11 10:14:00;Phosphor, total-P;46.0;Surface
+2016-07-25 09:45:00;Ammoniak+ammonium-N;230.0;Bottom
+2016-07-25 09:45:00;Ammoniak+ammonium-N;3.0;Surface
+2016-07-25 09:45:00;Klorofyl a;2.7;Bottom
+2016-07-25 09:45:00;Klorofyl a;17.0;Surface
+2016-07-25 09:45:00;Nitrit+nitrat-N;13.0;Bottom
+2016-07-25 09:45:00;Nitrit+nitrat-N;1.8;Surface
+2016-07-25 09:45:00;Nitrogen,total N;540.5841628;Bottom
+2016-07-25 09:45:00;Nitrogen,total N;690.6869553;Surface
+2016-07-25 09:45:00;Ortho-phosphat-P;76.0;Bottom
+2016-07-25 09:45:00;Ortho-phosphat-P;3.0;Surface
+2016-07-25 09:45:00;Oxygen indhold;2.13;Bottom
+2016-07-25 09:45:00;Oxygen indhold;10.71;Surface
+2016-07-25 09:45:00;Phosphor, total-P;90.0;Bottom
+2016-07-25 09:45:00;Phosphor, total-P;31.0;Surface
+2016-08-09 10:02:00;Ammoniak+ammonium-N;35.0;Bottom
+2016-08-09 10:02:00;Ammoniak+ammonium-N;28.0;Surface
+2016-08-09 10:02:00;Klorofyl a;13.0;Bottom
+2016-08-09 10:02:00;Klorofyl a;14.0;Surface
+2016-08-09 10:02:00;Nitrit+nitrat-N;4.1;Bottom
+2016-08-09 10:02:00;Nitrit+nitrat-N;5.3;Surface
+2016-08-09 10:02:00;Nitrogen,total N;491.362637;Bottom
+2016-08-09 10:02:00;Nitrogen,total N;330.6282082;Surface
+2016-08-09 10:02:00;Ortho-phosphat-P;57.0;Bottom
+2016-08-09 10:02:00;Ortho-phosphat-P;51.0;Surface
+2016-08-09 10:02:00;Oxygen indhold;8.01;Surface
+2016-08-09 10:02:00;Phosphor, total-P;88.0;Bottom
+2016-08-09 10:02:00;Phosphor, total-P;87.0;Surface
+2016-08-24 09:43:00;Ammoniak+ammonium-N;170.0;Bottom
+2016-08-24 09:43:00;Ammoniak+ammonium-N;3.0;Surface
+2016-08-24 09:43:00;Klorofyl a;2.6;Bottom
+2016-08-24 09:43:00;Klorofyl a;14.0;Surface
+2016-08-24 09:43:00;Nitrit+nitrat-N;17.0;Bottom
+2016-08-24 09:43:00;Nitrit+nitrat-N;3.9;Surface
+2016-08-24 09:43:00;Nitrogen,total N;617.9550084;Bottom
+2016-08-24 09:43:00;Nitrogen,total N;518.8204176;Surface
+2016-08-24 09:43:00;Ortho-phosphat-P;75.0;Bottom
+2016-08-24 09:43:00;Ortho-phosphat-P;4.0;Surface
+2016-08-24 09:43:00;Oxygen indhold;1.41;Bottom
+2016-08-24 09:43:00;Oxygen indhold;12.2;Surface
+2016-08-24 09:43:00;Phosphor, total-P;110.0;Bottom
+2016-08-24 09:43:00;Phosphor, total-P;48.0;Surface
+2016-09-07 09:46:00;Ammoniak+ammonium-N;67.0;Bottom
+2016-09-07 09:46:00;Ammoniak+ammonium-N;3.0;Surface
+2016-09-07 09:46:00;Klorofyl a;2.5;Bottom
+2016-09-07 09:46:00;Klorofyl a;14.0;Surface
+2016-09-07 09:46:00;Nitrit+nitrat-N;8.3;Bottom
+2016-09-07 09:46:00;Nitrit+nitrat-N;2.2;Surface
+2016-09-07 09:46:00;Nitrogen,total N;283.2696639;Bottom
+2016-09-07 09:46:00;Nitrogen,total N;376.2028995;Surface
+2016-09-07 09:46:00;Ortho-phosphat-P;66.0;Bottom
+2016-09-07 09:46:00;Ortho-phosphat-P;44.0;Surface
+2016-09-07 09:46:00;Oxygen indhold;2.78;Bottom
+2016-09-07 09:46:00;Oxygen indhold;7.99;Surface
+2016-09-07 09:46:00;Phosphor, total-P;89.0;Bottom
+2016-09-07 09:46:00;Phosphor, total-P;74.0;Surface
+2016-09-20 09:38:00;Ammoniak+ammonium-N;310.0;Bottom
+2016-09-20 09:38:00;Ammoniak+ammonium-N;3.0;Surface
+2016-09-20 09:38:00;Klorofyl a;1.3;Bottom
+2016-09-20 09:38:00;Klorofyl a;46.0;Surface
+2016-09-20 09:38:00;Nitrit+nitrat-N;1.1;Bottom
+2016-09-20 09:38:00;Nitrit+nitrat-N;1.2;Surface
+2016-09-20 09:38:00;Nitrogen,total N;735.4876284;Bottom
+2016-09-20 09:38:00;Nitrogen,total N;622.2123036;Surface
+2016-09-20 09:38:00;Ortho-phosphat-P;250.0;Bottom
+2016-09-20 09:38:00;Ortho-phosphat-P;59.0;Surface
+2016-09-20 09:38:00;Oxygen indhold;0.28;Bottom
+2016-09-20 09:38:00;Oxygen indhold;10.25;Surface
+2016-09-20 09:38:00;Phosphor, total-P;340.0;Bottom
+2016-09-20 09:38:00;Phosphor, total-P;94.0;Surface
+2016-10-03 09:05:00;Ammoniak+ammonium-N;250.0;Bottom
+2016-10-03 09:05:00;Ammoniak+ammonium-N;3.0;Surface
+2016-10-03 09:05:00;Klorofyl a;8.8;Bottom
+2016-10-03 09:05:00;Klorofyl a;8.8;Surface
+2016-10-03 09:05:00;Nitrit+nitrat-N;51.0;Bottom
+2016-10-03 09:05:00;Nitrit+nitrat-N;4.2;Surface
+2016-10-03 09:05:00;Nitrogen,total N;667.9227359;Bottom
+2016-10-03 09:05:00;Nitrogen,total N;734.2067684;Surface
+2016-10-03 09:05:00;Ortho-phosphat-P;110.0;Bottom
+2016-10-03 09:05:00;Ortho-phosphat-P;34.0;Surface
+2016-10-03 09:05:00;Oxygen indhold;7.27;Surface
+2016-10-03 09:05:00;Phosphor, total-P;130.0;Bottom
+2016-10-03 09:05:00;Phosphor, total-P;130.0;Surface
+2016-10-17 09:59:00;Ammoniak+ammonium-N;38.0;Bottom
+2016-10-17 09:59:00;Ammoniak+ammonium-N;43.0;Surface
+2016-10-17 09:59:00;Klorofyl a;4.2;Bottom
+2016-10-17 09:59:00;Klorofyl a;56.0;Surface
+2016-10-17 09:59:00;Nitrit+nitrat-N;17.0;Bottom
+2016-10-17 09:59:00;Nitrit+nitrat-N;470.0;Surface
+2016-10-17 09:59:00;Nitrogen,total N;301.7200959;Bottom
+2016-10-17 09:59:00;Nitrogen,total N;696.9958089;Surface
+2016-10-17 09:59:00;Ortho-phosphat-P;57.0;Bottom
+2016-10-17 09:59:00;Ortho-phosphat-P;46.0;Surface
+2016-10-17 09:59:00;Oxygen indhold;9.01;Surface
+2016-10-17 09:59:00;Phosphor, total-P;71.0;Bottom
+2016-10-17 09:59:00;Phosphor, total-P;89.0;Surface
+2016-11-04 13:11:00;Ammoniak+ammonium-N;15.0;Bottom
+2016-11-04 13:11:00;Ammoniak+ammonium-N;41.0;Surface
+2016-11-04 13:11:00;Klorofyl a;1.2;Bottom
+2016-11-04 13:11:00;Klorofyl a;5.9;Surface
+2016-11-04 13:11:00;Nitrit+nitrat-N;35.0;Bottom
+2016-11-04 13:11:00;Nitrit+nitrat-N;190.0;Surface
+2016-11-04 13:11:00;Nitrogen,total N;417.5715127;Bottom
+2016-11-04 13:11:00;Nitrogen,total N;775.6509681;Surface
+2016-11-04 13:11:00;Ortho-phosphat-P;28.0;Bottom
+2016-11-04 13:11:00;Ortho-phosphat-P;28.0;Surface
+2016-11-04 13:11:00;Oxygen indhold;10.11;Surface
+2016-11-04 13:11:00;Phosphor, total-P;58.0;Bottom
+2016-11-04 13:11:00;Phosphor, total-P;60.0;Surface
+2016-12-09 10:53:00;Ammoniak+ammonium-N;38.0;Bottom
+2016-12-09 10:53:00;Ammoniak+ammonium-N;39.0;Surface
+2016-12-09 10:53:00;Klorofyl a;1.4;Bottom
+2016-12-09 10:53:00;Klorofyl a;4.1;Surface
+2016-12-09 10:53:00;Nitrit+nitrat-N;130.0;Bottom
+2016-12-09 10:53:00;Nitrit+nitrat-N;150.0;Surface
+2016-12-09 10:53:00;Nitrogen,total N;267.5755592;Bottom
+2016-12-09 10:53:00;Nitrogen,total N;293.0471096;Surface
+2016-12-09 10:53:00;Ortho-phosphat-P;10.0;Bottom
+2016-12-09 10:53:00;Ortho-phosphat-P;10.0;Surface
+2016-12-09 10:53:00;Oxygen indhold;10.42;Surface
+2016-12-09 10:53:00;Phosphor, total-P;24.0;Bottom
+2016-12-09 10:53:00;Phosphor, total-P;25.0;Surface
+2016-12-19 10:00:00;Ammoniak+ammonium-N;55.0;Bottom
+2016-12-19 10:00:00;Ammoniak+ammonium-N;77.0;Surface
+2016-12-19 10:00:00;Klorofyl a;0.99;Bottom
+2016-12-19 10:00:00;Klorofyl a;3.1;Surface
+2016-12-19 10:00:00;Nitrit+nitrat-N;43.0;Bottom
+2016-12-19 10:00:00;Nitrit+nitrat-N;240.0;Surface
+2016-12-19 10:00:00;Nitrogen,total N;219.6377275;Bottom
+2016-12-19 10:00:00;Nitrogen,total N;472.7039871;Surface
+2016-12-19 10:00:00;Ortho-phosphat-P;12.0;Bottom
+2016-12-19 10:00:00;Ortho-phosphat-P;16.0;Surface
+2016-12-19 10:00:00;Oxygen indhold;10.7;Surface
+2016-12-19 10:00:00;Phosphor, total-P;25.0;Bottom
+2016-12-19 10:00:00;Phosphor, total-P;29.0;Surface
+2017-01-02 10:08:00;Ammoniak+ammonium-N;48.0;Bottom
+2017-01-02 10:08:00;Ammoniak+ammonium-N;67.0;Surface
+2017-01-02 10:08:00;Klorofyl a;3.0;Bottom
+2017-01-02 10:08:00;Klorofyl a;3.0;Surface
+2017-01-02 10:08:00;Nitrit+nitrat-N;110.0;Bottom
+2017-01-02 10:08:00;Nitrit+nitrat-N;180.0;Surface
+2017-01-02 10:08:00;Nitrogen,total N;416.3033849;Bottom
+2017-01-02 10:08:00;Nitrogen,total N;483.1963385;Surface
+2017-01-02 10:08:00;Ortho-phosphat-P;10.0;Bottom
+2017-01-02 10:08:00;Ortho-phosphat-P;14.0;Surface
+2017-01-02 10:08:00;Oxygen indhold;10.44;Surface
+2017-01-02 10:08:00;Phosphor, total-P;26.0;Bottom
+2017-01-02 10:08:00;Phosphor, total-P;29.0;Surface
+2017-01-18 09:42:00;Ammoniak+ammonium-N;70.0;Bottom
+2017-01-18 09:42:00;Ammoniak+ammonium-N;84.0;Surface
+2017-01-18 09:42:00;Klorofyl a;0.911;Bottom
+2017-01-18 09:42:00;Klorofyl a;5.91;Surface
+2017-01-18 09:42:00;Nitrit+nitrat-N;170.0;Bottom
+2017-01-18 09:42:00;Nitrit+nitrat-N;250.0;Surface
+2017-01-18 09:42:00;Nitrogen,total N;480.5078042;Bottom
+2017-01-18 09:42:00;Nitrogen,total N;642.6154556;Surface
+2017-01-18 09:42:00;Ortho-phosphat-P;10.0;Bottom
+2017-01-18 09:42:00;Ortho-phosphat-P;11.0;Surface
+2017-01-18 09:42:00;Oxygen indhold;11.23;Surface
+2017-01-18 09:42:00;Phosphor, total-P;27.0;Bottom
+2017-01-18 09:42:00;Phosphor, total-P;29.0;Surface
+2017-02-08 10:55:00;Ammoniak+ammonium-N;55.0;Bottom
+2017-02-08 10:55:00;Ammoniak+ammonium-N;62.0;Surface
+2017-02-08 10:55:00;Klorofyl a;4.8;Bottom
+2017-02-08 10:55:00;Klorofyl a;3.5;Surface
+2017-02-08 10:55:00;Nitrit+nitrat-N;380.0;Bottom
+2017-02-08 10:55:00;Nitrit+nitrat-N;380.0;Surface
+2017-02-08 10:55:00;Nitrogen,total N;724.6799349;Bottom
+2017-02-08 10:55:00;Nitrogen,total N;744.1625544;Surface
+2017-02-08 10:55:00;Ortho-phosphat-P;7.0;Bottom
+2017-02-08 10:55:00;Ortho-phosphat-P;8.0;Surface
+2017-02-08 10:55:00;Oxygen indhold;11.61;Surface
+2017-02-08 10:55:00;Phosphor, total-P;33.0;Bottom
+2017-02-08 10:55:00;Phosphor, total-P;30.0;Surface
+2017-02-20 09:38:00;Ammoniak+ammonium-N;6.0;Bottom
+2017-02-20 09:38:00;Ammoniak+ammonium-N;7.0;Surface
+2017-02-20 09:38:00;Klorofyl a;11.8;Bottom
+2017-02-20 09:38:00;Klorofyl a;10.6;Surface
+2017-02-20 09:38:00;Nitrit+nitrat-N;210.0;Bottom
+2017-02-20 09:38:00;Nitrit+nitrat-N;230.0;Surface
+2017-02-20 09:38:00;Nitrogen,total N;518.2207228;Bottom
+2017-02-20 09:38:00;Nitrogen,total N;522.0825089;Surface
+2017-02-20 09:38:00;Ortho-phosphat-P;2.0;Bottom
+2017-02-20 09:38:00;Ortho-phosphat-P;3.0;Surface
+2017-02-20 09:38:00;Oxygen indhold;11.85;Surface
+2017-02-20 09:38:00;Phosphor, total-P;24.0;Bottom
+2017-02-20 09:38:00;Phosphor, total-P;19.0;Surface
+2017-03-06 09:56:00;Ammoniak+ammonium-N;17.0;Bottom
+2017-03-06 09:56:00;Ammoniak+ammonium-N;42.0;Surface
+2017-03-06 09:56:00;Klorofyl a;6.0;Bottom
+2017-03-06 09:56:00;Klorofyl a;6.07;Surface
+2017-03-06 09:56:00;Nitrit+nitrat-N;320.0;Bottom
+2017-03-06 09:56:00;Nitrit+nitrat-N;320.0;Surface
+2017-03-06 09:56:00;Nitrogen,total N;603.1077191;Bottom
+2017-03-06 09:56:00;Nitrogen,total N;597.016945;Surface
+2017-03-06 09:56:00;Ortho-phosphat-P;1.9;Bottom
+2017-03-06 09:56:00;Ortho-phosphat-P;2.0;Surface
+2017-03-06 09:56:00;Oxygen indhold;10.6;Surface
+2017-03-06 09:56:00;Phosphor, total-P;17.0;Bottom
+2017-03-06 09:56:00;Phosphor, total-P;21.0;Surface
+2017-03-21 09:34:00;Ammoniak+ammonium-N;14.0;Bottom
+2017-03-21 09:34:00;Ammoniak+ammonium-N;16.0;Surface
+2017-03-21 09:34:00;Klorofyl a;2.3;Bottom
+2017-03-21 09:34:00;Klorofyl a;2.3;Surface
+2017-03-21 09:34:00;Nitrit+nitrat-N;250.0;Bottom
+2017-03-21 09:34:00;Nitrit+nitrat-N;270.0;Surface
+2017-03-21 09:34:00;Nitrogen,total N;496.8922281;Bottom
+2017-03-21 09:34:00;Nitrogen,total N;516.5157768;Surface
+2017-03-21 09:34:00;Ortho-phosphat-P;1.0;Bottom
+2017-03-21 09:34:00;Ortho-phosphat-P;1.0;Surface
+2017-03-21 09:34:00;Oxygen indhold;10.58;Surface
+2017-03-21 09:34:00;Phosphor, total-P;10.0;Bottom
+2017-03-21 09:34:00;Phosphor, total-P;12.0;Surface
+2017-04-03 09:09:00;Ammoniak+ammonium-N;13.0;Bottom
+2017-04-03 09:09:00;Ammoniak+ammonium-N;17.0;Surface
+2017-04-03 09:09:00;Klorofyl a;2.66;Bottom
+2017-04-03 09:09:00;Klorofyl a;2.4;Surface
+2017-04-03 09:09:00;Nitrit+nitrat-N;170.0;Bottom
+2017-04-03 09:09:00;Nitrit+nitrat-N;260.0;Surface
+2017-04-03 09:09:00;Nitrogen,total N;428.591647;Bottom
+2017-04-03 09:09:00;Nitrogen,total N;541.1135649;Surface
+2017-04-03 09:09:00;Ortho-phosphat-P;1.9;Bottom
+2017-04-03 09:09:00;Ortho-phosphat-P;1.0;Surface
+2017-04-03 09:09:00;Oxygen indhold;10.53;Surface
+2017-04-03 09:09:00;Phosphor, total-P;12.0;Bottom
+2017-04-03 09:09:00;Phosphor, total-P;13.0;Surface
+2017-04-18 09:11:00;Ammoniak+ammonium-N;23.0;Bottom
+2017-04-18 09:11:00;Ammoniak+ammonium-N;16.0;Surface
+2017-04-18 09:11:00;Klorofyl a;1.94;Bottom
+2017-04-18 09:11:00;Klorofyl a;1.92;Surface
+2017-04-18 09:11:00;Nitrit+nitrat-N;180.0;Bottom
+2017-04-18 09:11:00;Nitrit+nitrat-N;230.0;Surface
+2017-04-18 09:11:00;Nitrogen,total N;493.6206249;Bottom
+2017-04-18 09:11:00;Nitrogen,total N;520.5305805;Surface
+2017-04-18 09:11:00;Ortho-phosphat-P;1.4;Bottom
+2017-04-18 09:11:00;Ortho-phosphat-P;1.5;Surface
+2017-04-18 09:11:00;Oxygen indhold;10.32;Surface
+2017-04-18 09:11:00;Phosphor, total-P;16.0;Bottom
+2017-04-18 09:11:00;Phosphor, total-P;16.0;Surface
+2017-05-03 09:11:00;Ammoniak+ammonium-N;39.0;Bottom
+2017-05-03 09:11:00;Ammoniak+ammonium-N;10.0;Surface
+2017-05-03 09:11:00;Klorofyl a;5.76;Bottom
+2017-05-03 09:11:00;Klorofyl a;5.42;Surface
+2017-05-03 09:11:00;Nitrit+nitrat-N;96.0;Bottom
+2017-05-03 09:11:00;Nitrit+nitrat-N;160.0;Surface
+2017-05-03 09:11:00;Nitrogen,total N;560.7475942;Bottom
+2017-05-03 09:11:00;Nitrogen,total N;601.1314392;Surface
+2017-05-03 09:11:00;Ortho-phosphat-P;1.4;Bottom
+2017-05-03 09:11:00;Ortho-phosphat-P;1.4;Surface
+2017-05-03 09:11:00;Oxygen indhold;10.53;Surface
+2017-05-03 09:11:00;Phosphor, total-P;59.0;Bottom
+2017-05-03 09:11:00;Phosphor, total-P;38.0;Surface
+2017-05-15 09:13:00;Ammoniak+ammonium-N;3.6;Bottom
+2017-05-15 09:13:00;Ammoniak+ammonium-N;13.0;Surface
+2017-05-15 09:13:00;Klorofyl a;15.25;Bottom
+2017-05-15 09:13:00;Klorofyl a;5.68;Surface
+2017-05-15 09:13:00;Nitrit+nitrat-N;1.5;Bottom
+2017-05-15 09:13:00;Nitrit+nitrat-N;39.0;Surface
+2017-05-15 09:13:00;Nitrogen,total N;425.2806911;Bottom
+2017-05-15 09:13:00;Nitrogen,total N;494.9939698;Surface
+2017-05-15 09:13:00;Ortho-phosphat-P;1.0;Bottom
+2017-05-15 09:13:00;Ortho-phosphat-P;1.2;Surface
+2017-05-15 09:13:00;Oxygen indhold;11.05;Surface
+2017-05-15 09:13:00;Phosphor, total-P;54.0;Bottom
+2017-05-15 09:13:00;Phosphor, total-P;23.0;Surface
+2017-06-06 09:40:00;Ammoniak+ammonium-N;110.0;Bottom
+2017-06-06 09:40:00;Ammoniak+ammonium-N;15.0;Surface
+2017-06-06 09:40:00;Klorofyl a;9.16;Bottom
+2017-06-06 09:40:00;Klorofyl a;9.52;Surface
+2017-06-06 09:40:00;Nitrit+nitrat-N;8.4;Bottom
+2017-06-06 09:40:00;Nitrit+nitrat-N;7.5;Surface
+2017-06-06 09:40:00;Nitrogen,total N;561.2911724;Bottom
+2017-06-06 09:40:00;Nitrogen,total N;538.6206757;Surface
+2017-06-06 09:40:00;Ortho-phosphat-P;15.0;Bottom
+2017-06-06 09:40:00;Ortho-phosphat-P;3.4;Surface
+2017-06-06 09:40:00;Oxygen indhold;5.75;Bottom
+2017-06-06 09:40:00;Oxygen indhold;8.23;Surface
+2017-06-06 09:40:00;Phosphor, total-P;49.0;Bottom
+2017-06-06 09:40:00;Phosphor, total-P;36.0;Surface
+2017-06-19 09:56:00;Ammoniak+ammonium-N;10.0;Bottom
+2017-06-19 09:56:00;Ammoniak+ammonium-N;4.3;Surface
+2017-06-19 09:56:00;Klorofyl a;26.0;Bottom
+2017-06-19 09:56:00;Klorofyl a;24.3;Surface
+2017-06-19 09:56:00;Nitrit+nitrat-N;1.5;Bottom
+2017-06-19 09:56:00;Nitrit+nitrat-N;1.5;Surface
+2017-06-19 09:56:00;Nitrogen,total N;773.0522165;Bottom
+2017-06-19 09:56:00;Nitrogen,total N;691.3427512;Surface
+2017-06-19 09:56:00;Ortho-phosphat-P;2.3;Bottom
+2017-06-19 09:56:00;Ortho-phosphat-P;2.2;Surface
+2017-06-19 09:56:00;Oxygen indhold;9.18;Surface
+2017-06-19 09:56:00;Phosphor, total-P;69.0;Bottom
+2017-06-19 09:56:00;Phosphor, total-P;59.0;Surface
+2017-07-03 10:00:00;Ammoniak+ammonium-N;72.0;Bottom
+2017-07-03 10:00:00;Ammoniak+ammonium-N;72.0;Surface
+2017-07-03 10:00:00;Klorofyl a;9.59;Bottom
+2017-07-03 10:00:00;Klorofyl a;9.88;Surface
+2017-07-03 10:00:00;Nitrit+nitrat-N;18.0;Bottom
+2017-07-03 10:00:00;Nitrit+nitrat-N;18.0;Surface
+2017-07-03 10:00:00;Nitrogen,total N;552.2603946;Bottom
+2017-07-03 10:00:00;Nitrogen,total N;552.9812048;Surface
+2017-07-03 10:00:00;Ortho-phosphat-P;12.0;Bottom
+2017-07-03 10:00:00;Ortho-phosphat-P;12.0;Surface
+2017-07-03 10:00:00;Oxygen indhold;7.66;Surface
+2017-07-03 10:00:00;Phosphor, total-P;52.0;Bottom
+2017-07-03 10:00:00;Phosphor, total-P;45.0;Surface
+2017-07-24 09:55:00;Ammoniak+ammonium-N;24.0;Bottom
+2017-07-24 09:55:00;Ammoniak+ammonium-N;8.9;Surface
+2017-07-24 09:55:00;Klorofyl a;4.65;Bottom
+2017-07-24 09:55:00;Klorofyl a;35.7;Surface
+2017-07-24 09:55:00;Nitrit+nitrat-N;4.6;Bottom
+2017-07-24 09:55:00;Nitrit+nitrat-N;1.5;Surface
+2017-07-24 09:55:00;Nitrogen,total N;516.03821;Bottom
+2017-07-24 09:55:00;Nitrogen,total N;715.0221133;Surface
+2017-07-24 09:55:00;Ortho-phosphat-P;21.0;Bottom
+2017-07-24 09:55:00;Ortho-phosphat-P;14.0;Surface
+2017-07-24 09:55:00;Oxygen indhold;5.87;Bottom
+2017-07-24 09:55:00;Oxygen indhold;9.13;Surface
+2017-07-24 09:55:00;Phosphor, total-P;57.0;Bottom
+2017-07-24 09:55:00;Phosphor, total-P;99.0;Surface
+2017-08-07 10:38:00;Ammoniak+ammonium-N;18.0;Bottom
+2017-08-07 10:38:00;Ammoniak+ammonium-N;9.8;Surface
+2017-08-07 10:38:00;Klorofyl a;11.1;Bottom
+2017-08-07 10:38:00;Klorofyl a;9.16;Surface
+2017-08-07 10:38:00;Nitrit+nitrat-N;3.0;Bottom
+2017-08-07 10:38:00;Nitrit+nitrat-N;2.1;Surface
+2017-08-07 10:38:00;Nitrogen,total N;453.4100518;Bottom
+2017-08-07 10:38:00;Nitrogen,total N;438.7797057;Surface
+2017-08-07 10:38:00;Ortho-phosphat-P;33.0;Bottom
+2017-08-07 10:38:00;Ortho-phosphat-P;32.0;Surface
+2017-08-07 10:38:00;Oxygen indhold;6.84;Surface
+2017-08-07 10:38:00;Phosphor, total-P;78.0;Bottom
+2017-08-07 10:38:00;Phosphor, total-P;73.0;Surface
+2017-08-16 09:22:00;Ammoniak+ammonium-N;15.0;Bottom
+2017-08-16 09:22:00;Ammoniak+ammonium-N;11.0;Surface
+2017-08-16 09:22:00;Klorofyl a;5.28;Bottom
+2017-08-16 09:22:00;Klorofyl a;37.2;Surface
+2017-08-16 09:22:00;Nitrit+nitrat-N;1.5;Bottom
+2017-08-16 09:22:00;Nitrit+nitrat-N;1.5;Surface
+2017-08-16 09:22:00;Nitrogen,total N;477.4118548;Bottom
+2017-08-16 09:22:00;Nitrogen,total N;644.2600498;Surface
+2017-08-16 09:22:00;Ortho-phosphat-P;27.0;Bottom
+2017-08-16 09:22:00;Ortho-phosphat-P;32.0;Surface
+2017-08-16 09:22:00;Oxygen indhold;5.21;Bottom
+2017-08-16 09:22:00;Oxygen indhold;8.74;Surface
+2017-08-16 09:22:00;Phosphor, total-P;62.0;Bottom
+2017-08-16 09:22:00;Phosphor, total-P;110.0;Surface
+2017-08-28 09:26:00;Ammoniak+ammonium-N;12.0;Bottom
+2017-08-28 09:26:00;Ammoniak+ammonium-N;7.1;Surface
+2017-08-28 09:26:00;Klorofyl a;14.75;Bottom
+2017-08-28 09:26:00;Klorofyl a;61.8;Surface
+2017-08-28 09:26:00;Nitrit+nitrat-N;1.5;Bottom
+2017-08-28 09:26:00;Nitrit+nitrat-N;1.5;Surface
+2017-08-28 09:26:00;Nitrogen,total N;533.0174064;Bottom
+2017-08-28 09:26:00;Nitrogen,total N;663.1393068;Surface
+2017-08-28 09:26:00;Ortho-phosphat-P;55.0;Bottom
+2017-08-28 09:26:00;Ortho-phosphat-P;20.0;Surface
+2017-08-28 09:26:00;Oxygen indhold;1.76;Bottom
+2017-08-28 09:26:00;Oxygen indhold;9.93;Surface
+2017-08-28 09:26:00;Phosphor, total-P;100.0;Bottom
+2017-08-28 09:26:00;Phosphor, total-P;110.0;Surface
+2017-09-12 09:19:00;Ammoniak+ammonium-N;38.0;Bottom
+2017-09-12 09:19:00;Ammoniak+ammonium-N;7.4;Surface
+2017-09-12 09:19:00;Klorofyl a;3.02;Bottom
+2017-09-12 09:19:00;Klorofyl a;35.5;Surface
+2017-09-12 09:19:00;Nitrit+nitrat-N;2.6;Bottom
+2017-09-12 09:19:00;Nitrit+nitrat-N;3.2;Surface
+2017-09-12 09:19:00;Nitrogen,total N;364.4894313;Bottom
+2017-09-12 09:19:00;Nitrogen,total N;720.9521687;Surface
+2017-09-12 09:19:00;Ortho-phosphat-P;37.0;Bottom
+2017-09-12 09:19:00;Ortho-phosphat-P;52.0;Surface
+2017-09-12 09:19:00;Oxygen indhold;2.97;Bottom
+2017-09-12 09:19:00;Oxygen indhold;6.93;Surface
+2017-09-12 09:19:00;Phosphor, total-P;72.0;Bottom
+2017-09-12 09:19:00;Phosphor, total-P;140.0;Surface
+2017-10-03 09:34:00;Ammoniak+ammonium-N;63.0;Bottom
+2017-10-03 09:34:00;Ammoniak+ammonium-N;65.0;Surface
+2017-10-03 09:34:00;Klorofyl a;12.755;Bottom
+2017-10-03 09:34:00;Klorofyl a;15.9;Surface
+2017-10-03 09:34:00;Nitrit+nitrat-N;8.0;Bottom
+2017-10-03 09:34:00;Nitrit+nitrat-N;45.0;Surface
+2017-10-03 09:34:00;Nitrogen,total N;472.27043;Bottom
+2017-10-03 09:34:00;Nitrogen,total N;557.6318557;Surface
+2017-10-03 09:34:00;Ortho-phosphat-P;30.0;Bottom
+2017-10-03 09:34:00;Ortho-phosphat-P;44.0;Surface
+2017-10-03 09:34:00;Oxygen indhold;3.76;Bottom
+2017-10-03 09:34:00;Oxygen indhold;7.29;Surface
+2017-10-03 09:34:00;Phosphor, total-P;67.0;Bottom
+2017-10-03 09:34:00;Phosphor, total-P;94.0;Surface
+2017-10-18 09:32:00;Ammoniak+ammonium-N;34.0;Bottom
+2017-10-18 09:32:00;Ammoniak+ammonium-N;28.0;Surface
+2017-10-18 09:32:00;Klorofyl a;14.35;Bottom
+2017-10-18 09:32:00;Klorofyl a;19.6;Surface
+2017-10-18 09:32:00;Nitrit+nitrat-N;49.0;Bottom
+2017-10-18 09:32:00;Nitrit+nitrat-N;72.0;Surface
+2017-10-18 09:32:00;Nitrogen,total N;521.3799303;Bottom
+2017-10-18 09:32:00;Nitrogen,total N;552.5566057;Surface
+2017-10-18 09:32:00;Ortho-phosphat-P;15.0;Bottom
+2017-10-18 09:32:00;Ortho-phosphat-P;16.0;Surface
+2017-10-18 09:32:00;Oxygen indhold;8.37;Surface
+2017-10-18 09:32:00;Phosphor, total-P;51.0;Bottom
+2017-10-18 09:32:00;Phosphor, total-P;57.0;Surface
+2017-10-30 09:30:00;Ammoniak+ammonium-N;92.0;Bottom
+2017-10-30 09:30:00;Ammoniak+ammonium-N;110.0;Surface
+2017-10-30 09:30:00;Klorofyl a;3.2;Bottom
+2017-10-30 09:30:00;Klorofyl a;4.7;Surface
+2017-10-30 09:30:00;Nitrit+nitrat-N;140.0;Bottom
+2017-10-30 09:30:00;Nitrit+nitrat-N;180.0;Surface
+2017-10-30 09:30:00;Nitrogen,total N;578.7672831;Bottom
+2017-10-30 09:30:00;Nitrogen,total N;722.7166548;Surface
+2017-10-30 09:30:00;Ortho-phosphat-P;23.0;Bottom
+2017-10-30 09:30:00;Ortho-phosphat-P;23.0;Surface
+2017-10-30 09:30:00;Oxygen indhold;8.49;Surface
+2017-10-30 09:30:00;Phosphor, total-P;50.0;Bottom
+2017-10-30 09:30:00;Phosphor, total-P;61.0;Surface
+2017-11-21 09:14:00;Ammoniak+ammonium-N;76.0;Bottom
+2017-11-21 09:14:00;Ammoniak+ammonium-N;92.0;Surface
+2017-11-21 09:14:00;Klorofyl a;2.42;Bottom
+2017-11-21 09:14:00;Klorofyl a;2.4;Surface
+2017-11-21 09:14:00;Nitrit+nitrat-N;170.0;Bottom
+2017-11-21 09:14:00;Nitrit+nitrat-N;240.0;Surface
+2017-11-21 09:14:00;Nitrogen,total N;556.1292877;Bottom
+2017-11-21 09:14:00;Nitrogen,total N;697.8953981;Surface
+2017-11-21 09:14:00;Ortho-phosphat-P;13.0;Bottom
+2017-11-21 09:14:00;Ortho-phosphat-P;16.0;Surface
+2017-11-21 09:14:00;Oxygen indhold;9.52;Surface
+2017-11-21 09:14:00;Phosphor, total-P;34.0;Bottom
+2017-11-21 09:14:00;Phosphor, total-P;39.0;Surface
+2017-12-06 10:15:00;Ammoniak+ammonium-N;94.0;Bottom
+2017-12-06 10:15:00;Ammoniak+ammonium-N;97.0;Surface
+2017-12-06 10:15:00;Klorofyl a;1.8;Bottom
+2017-12-06 10:15:00;Klorofyl a;1.4;Surface
+2017-12-06 10:15:00;Nitrit+nitrat-N;300.0;Bottom
+2017-12-06 10:15:00;Nitrit+nitrat-N;330.0;Surface
+2017-12-06 10:15:00;Nitrogen,total N;733.591053;Bottom
+2017-12-06 10:15:00;Nitrogen,total N;746.3703912;Surface
+2017-12-06 10:15:00;Ortho-phosphat-P;16.0;Bottom
+2017-12-06 10:15:00;Ortho-phosphat-P;17.0;Surface
+2017-12-06 10:15:00;Oxygen indhold;10.34;Surface
+2017-12-06 10:15:00;Phosphor, total-P;35.0;Bottom
+2017-12-06 10:15:00;Phosphor, total-P;34.0;Surface
+2017-12-19 09:33:00;Ammoniak+ammonium-N;88.0;Bottom
+2017-12-19 09:33:00;Ammoniak+ammonium-N;100.0;Surface
+2017-12-19 09:33:00;Klorofyl a;0.827;Bottom
+2017-12-19 09:33:00;Klorofyl a;1.97;Surface
+2017-12-19 09:33:00;Nitrit+nitrat-N;250.0;Bottom
+2017-12-19 09:33:00;Nitrit+nitrat-N;490.0;Surface
+2017-12-19 09:33:00;Nitrogen,total N;580.0;Bottom
+2017-12-19 09:33:00;Nitrogen,total N;890.0;Surface
+2017-12-19 09:33:00;Ortho-phosphat-P;16.0;Bottom
+2017-12-19 09:33:00;Ortho-phosphat-P;18.0;Surface
+2017-12-19 09:33:00;Oxygen indhold;11.09;Surface
+2017-12-19 09:33:00;Phosphor, total-P;28.0;Bottom
+2017-12-19 09:33:00;Phosphor, total-P;35.0;Surface

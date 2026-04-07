@@ -1,0 +1,1817 @@
+﻿Dato;Parameter;AverageValue;Layer
+2010-01-12;Oxygen indhold;4.91;Bottom
+2010-01-12;Oxygen indhold;12.095;Surface
+2010-01-12;Oxygenmætning;41.5;Bottom
+2010-01-12;Oxygenmætning;90.0;Surface
+2010-01-12;Salinitet;25.6;Bottom
+2010-01-12;Salinitet;15.05;Surface
+2010-01-12;Temperatur;1.35;Bottom
+2010-01-12;Temperatur;-0.55;Surface
+2010-02-09;Oxygen indhold;8.3;Bottom
+2010-02-09;Oxygen indhold;11.471428571428572;Surface
+2010-02-09;Oxygenmætning;69.5;Bottom
+2010-02-09;Oxygenmætning;86.42857142857143;Surface
+2010-02-09;Salinitet;26.665;Bottom
+2010-02-09;Salinitet;12.93142857142857;Surface
+2010-02-09;Temperatur;0.6625;Bottom
+2010-02-09;Temperatur;0.33571428571428574;Surface
+2010-03-04;Oxygen indhold;5.316666666666666;Bottom
+2010-03-04;Oxygen indhold;11.200000000000001;Surface
+2010-03-04;Oxygenmætning;45.166666666666664;Bottom
+2010-03-04;Oxygenmætning;82.42857142857143;Surface
+2010-03-04;Salinitet;26.64833333333333;Bottom
+2010-03-04;Salinitet;9.545714285714284;Surface
+2010-03-04;Temperatur;1.0650000000000002;Bottom
+2010-03-04;Temperatur;0.3385714285714286;Surface
+2010-03-16;Oxygen indhold;4.071428571428571;Bottom
+2010-03-16;Oxygen indhold;10.2875;Surface
+2010-03-16;Oxygenmætning;34.57142857142857;Bottom
+2010-03-16;Oxygenmætning;77.0;Surface
+2010-03-16;Salinitet;26.534285714285716;Bottom
+2010-03-16;Salinitet;9.35625;Surface
+2010-03-16;Temperatur;1.6528571428571428;Bottom
+2010-03-16;Temperatur;1.19375;Surface
+2010-03-29;Oxygen indhold;10.2;Bottom
+2010-03-29;Oxygen indhold;11.2;Surface
+2010-03-29;Oxygenmætning;87.375;Bottom
+2010-03-29;Oxygenmætning;97.0;Surface
+2010-03-29;Salinitet;26.32625;Bottom
+2010-03-29;Salinitet;25.96;Surface
+2010-03-29;Temperatur;1.565;Bottom
+2010-03-29;Temperatur;2.1275;Surface
+2010-04-06;Oxygen indhold;9.116666666666667;Bottom
+2010-04-06;Oxygen indhold;12.139999999999999;Surface
+2010-04-06;Oxygenmætning;78.83333333333333;Bottom
+2010-04-06;Oxygenmætning;109.4;Surface
+2010-04-06;Salinitet;25.878333333333334;Bottom
+2010-04-06;Salinitet;24.31;Surface
+2010-04-06;Temperatur;2.203333333333333;Bottom
+2010-04-06;Temperatur;4.16;Surface
+2010-04-12;Oxygen indhold;10.416666666666666;Bottom
+2010-04-12;Oxygen indhold;10.5;Surface
+2010-04-12;Oxygenmætning;100.66666666666667;Bottom
+2010-04-12;Oxygenmætning;102.0;Surface
+2010-04-12;Salinitet;24.14833333333333;Bottom
+2010-04-12;Salinitet;23.98;Surface
+2010-04-12;Temperatur;6.945;Bottom
+2010-04-12;Temperatur;7.145;Surface
+2010-05-04;Oxygen indhold;10.814285714285715;Bottom
+2010-05-04;Oxygen indhold;10.775;Surface
+2010-05-04;Oxygenmætning;108.85714285714286;Bottom
+2010-05-04;Oxygenmætning;108.75;Surface
+2010-05-04;Salinitet;22.534285714285716;Bottom
+2010-05-04;Salinitet;22.545;Surface
+2010-05-04;Temperatur;9.26;Bottom
+2010-05-04;Temperatur;9.2675;Surface
+2010-05-17;Oxygen indhold;10.28888888888889;Bottom
+2010-05-17;Oxygen indhold;10.2;Surface
+2010-05-17;Oxygenmætning;104.11111111111111;Bottom
+2010-05-17;Oxygenmætning;104.0;Surface
+2010-05-17;Salinitet;21.58888888888889;Bottom
+2010-05-17;Salinitet;21.53333333333333;Surface
+2010-05-17;Temperatur;10.01;Bottom
+2010-05-17;Temperatur;10.0;Surface
+2010-05-26;Oxygen indhold;9.3;Bottom
+2010-05-26;Oxygen indhold;9.3;Surface
+2010-05-26;Oxygenmætning;100.0;Bottom
+2010-05-26;Oxygenmætning;99.25;Surface
+2010-05-26;Salinitet;22.14125;Bottom
+2010-05-26;Salinitet;22.1425;Surface
+2010-05-26;Temperatur;12.0175;Bottom
+2010-05-26;Temperatur;12.032499999999999;Surface
+2010-05-31;Oxygen indhold;9.014285714285714;Bottom
+2010-05-31;Oxygen indhold;9.1;Surface
+2010-05-31;Oxygenmætning;97.0;Bottom
+2010-05-31;Oxygenmætning;99.0;Surface
+2010-05-31;Salinitet;21.25714285714286;Bottom
+2010-05-31;Salinitet;21.21;Surface
+2010-05-31;Temperatur;12.702857142857143;Bottom
+2010-05-31;Temperatur;12.743333333333334;Surface
+2010-06-07;Oxygen indhold;5.385714285714286;Bottom
+2010-06-07;Oxygen indhold;10.66;Surface
+2010-06-07;Oxygenmætning;60.714285714285715;Bottom
+2010-06-07;Oxygenmætning;123.8;Surface
+2010-06-07;Salinitet;22.974285714285713;Bottom
+2010-06-07;Salinitet;19.69;Surface
+2010-06-07;Temperatur;14.412857142857144;Bottom
+2010-06-07;Temperatur;16.736;Surface
+2010-06-22;Oxygen indhold;8.428571428571429;Bottom
+2010-06-22;Oxygen indhold;8.7;Surface
+2010-06-22;Oxygenmætning;97.42857142857143;Bottom
+2010-06-22;Oxygenmætning;100.5;Surface
+2010-06-22;Salinitet;22.138571428571428;Bottom
+2010-06-22;Salinitet;22.14;Surface
+2010-06-22;Temperatur;15.67;Bottom
+2010-06-22;Temperatur;15.67;Surface
+2010-06-28;Oxygen indhold;4.316666666666666;Bottom
+2010-06-28;Oxygen indhold;9.674999999999999;Surface
+2010-06-28;Oxygenmætning;50.5;Bottom
+2010-06-28;Oxygenmætning;115.5;Surface
+2010-06-28;Salinitet;23.68166666666667;Bottom
+2010-06-28;Salinitet;21.05;Surface
+2010-06-28;Temperatur;15.766666666666666;Bottom
+2010-06-28;Temperatur;17.56;Surface
+2010-07-05;Oxygen indhold;1.2428571428571427;Bottom
+2010-07-05;Oxygen indhold;10.58;Surface
+2010-07-05;Oxygenmætning;15.142857142857142;Bottom
+2010-07-05;Oxygenmætning;132.0;Surface
+2010-07-05;Salinitet;24.445714285714285;Bottom
+2010-07-05;Salinitet;22.42;Surface
+2010-07-05;Temperatur;16.255714285714284;Bottom
+2010-07-05;Temperatur;19.59;Surface
+2010-07-13;Oxygen indhold;3.566666666666667;Bottom
+2010-07-13;Oxygen indhold;8.0;Surface
+2010-07-13;Oxygenmætning;45.0;Bottom
+2010-07-13;Oxygenmætning;102.0;Surface
+2010-07-13;Salinitet;23.47888888888889;Bottom
+2010-07-13;Salinitet;22.7;Surface
+2010-07-13;Temperatur;19.281111111111112;Bottom
+2010-07-13;Temperatur;20.6;Surface
+2010-07-20;Oxygen indhold;2.4875;Bottom
+2010-07-20;Oxygen indhold;9.825000000000001;Surface
+2010-07-20;Oxygenmætning;31.25;Bottom
+2010-07-20;Oxygenmætning;123.25;Surface
+2010-07-20;Salinitet;26.142500000000002;Bottom
+2010-07-20;Salinitet;24.09;Surface
+2010-07-20;Temperatur;19.0525;Bottom
+2010-07-20;Temperatur;19.384999999999998;Surface
+2010-07-27;Oxygen indhold;5.628571428571428;Bottom
+2010-07-27;Oxygen indhold;7.8;Surface
+2010-07-27;Oxygenmætning;71.85714285714286;Bottom
+2010-07-27;Oxygenmætning;100.0;Surface
+2010-07-27;Salinitet;24.74857142857143;Bottom
+2010-07-27;Salinitet;24.57;Surface
+2010-07-27;Temperatur;20.164285714285715;Bottom
+2010-07-27;Temperatur;20.105;Surface
+2010-08-04;Oxygen indhold;7.414285714285714;Bottom
+2010-08-04;Oxygen indhold;8.0;Surface
+2010-08-04;Oxygenmætning;92.42857142857143;Bottom
+2010-08-04;Oxygenmætning;100.0;Surface
+2010-08-04;Salinitet;24.34;Bottom
+2010-08-04;Salinitet;24.27;Surface
+2010-08-04;Temperatur;18.944285714285716;Bottom
+2010-08-04;Temperatur;19.005;Surface
+2010-08-09;Oxygen indhold;9.875;Bottom
+2010-08-09;Oxygen indhold;11.2;Surface
+2010-08-09;Oxygenmætning;125.25;Bottom
+2010-08-09;Oxygenmætning;142.0;Surface
+2010-08-09;Salinitet;24.0025;Bottom
+2010-08-09;Salinitet;23.92;Surface
+2010-08-09;Temperatur;19.8675;Bottom
+2010-08-09;Temperatur;19.91;Surface
+2010-08-16;Oxygen indhold;7.099999999999999;Bottom
+2010-08-16;Oxygen indhold;7.1;Surface
+2010-08-16;Oxygenmætning;89.83333333333333;Bottom
+2010-08-16;Oxygenmætning;90.0;Surface
+2010-08-16;Salinitet;23.570000000000004;Bottom
+2010-08-16;Salinitet;23.56;Surface
+2010-08-16;Temperatur;19.75;Bottom
+2010-08-16;Temperatur;19.75;Surface
+2010-08-23;Oxygen indhold;2.988888888888889;Bottom
+2010-08-23;Oxygen indhold;8.879999999999999;Surface
+2010-08-23;Oxygenmætning;38.0;Bottom
+2010-08-23;Oxygenmætning;109.2;Surface
+2010-08-23;Salinitet;26.503333333333334;Bottom
+2010-08-23;Salinitet;24.204;Surface
+2010-08-23;Temperatur;18.967777777777776;Bottom
+2010-08-23;Temperatur;18.154000000000003;Surface
+2010-08-30;Oxygen indhold;8.3;Bottom
+2010-08-30;Oxygen indhold;8.6;Surface
+2010-08-30;Oxygenmætning;97.625;Bottom
+2010-08-30;Oxygenmætning;101.0;Surface
+2010-08-30;Salinitet;24.13375;Bottom
+2010-08-30;Salinitet;24.1025;Surface
+2010-08-30;Temperatur;15.89875;Bottom
+2010-08-30;Temperatur;15.93;Surface
+2010-09-06;Oxygen indhold;4.683333333333334;Bottom
+2010-09-06;Oxygen indhold;14.780000000000001;Surface
+2010-09-06;Oxygenmætning;55.5;Bottom
+2010-09-06;Oxygenmætning;168.2;Surface
+2010-09-06;Salinitet;23.846666666666668;Bottom
+2010-09-06;Salinitet;21.284;Surface
+2010-09-06;Temperatur;16.221666666666668;Bottom
+2010-09-06;Temperatur;15.189999999999998;Surface
+2010-09-14;Oxygen indhold;3.7125000000000004;Bottom
+2010-09-14;Oxygen indhold;8.1;Surface
+2010-09-14;Oxygenmætning;44.125;Bottom
+2010-09-14;Oxygenmætning;94.2;Surface
+2010-09-14;Salinitet;26.85625;Bottom
+2010-09-14;Salinitet;23.768;Surface
+2010-09-14;Temperatur;15.86;Bottom
+2010-09-14;Temperatur;15.594;Surface
+2010-09-28;Oxygen indhold;9.1;Bottom
+2010-09-28;Oxygen indhold;9.225;Surface
+2010-09-28;Oxygenmætning;99.0;Bottom
+2010-09-28;Oxygenmætning;100.25;Surface
+2010-09-28;Salinitet;24.86;Bottom
+2010-09-28;Salinitet;24.85;Surface
+2010-09-28;Temperatur;12.18;Bottom
+2010-09-28;Temperatur;12.18;Surface
+2010-10-11;Oxygen indhold;8.128571428571428;Bottom
+2010-10-11;Oxygen indhold;12.850000000000001;Surface
+2010-10-11;Oxygenmætning;88.57142857142857;Bottom
+2010-10-11;Oxygenmætning;139.25;Surface
+2010-10-11;Salinitet;25.252857142857145;Bottom
+2010-10-11;Salinitet;23.9625;Surface
+2010-10-11;Temperatur;12.105714285714285;Bottom
+2010-10-11;Temperatur;12.129999999999999;Surface
+2010-10-18;Oxygen indhold;6.3500000000000005;Bottom
+2010-10-18;Oxygen indhold;9.625;Surface
+2010-10-18;Oxygenmætning;68.5;Bottom
+2010-10-18;Oxygenmætning;100.25;Surface
+2010-10-18;Salinitet;26.665000000000003;Bottom
+2010-10-18;Salinitet;25.19;Surface
+2010-10-18;Temperatur;11.344999999999999;Bottom
+2010-10-18;Temperatur;9.97;Surface
+2010-11-25;Oxygen indhold;11.471428571428572;Bottom
+2010-11-25;Oxygen indhold;11.675;Surface
+2010-11-25;Oxygenmætning;97.71428571428571;Bottom
+2010-11-25;Oxygenmætning;99.5;Surface
+2010-11-25;Salinitet;23.09;Bottom
+2010-11-25;Salinitet;23.0775;Surface
+2010-11-25;Temperatur;2.22;Bottom
+2010-11-25;Temperatur;2.22;Surface
+2011-01-11;Oxygen indhold;11.557142857142859;Bottom
+2011-01-11;Oxygen indhold;12.950000000000001;Surface
+2011-01-11;Oxygenmætning;94.85714285714286;Bottom
+2011-01-11;Oxygenmætning;97.83333333333333;Surface
+2011-01-11;Salinitet;27.017142857142858;Bottom
+2011-01-11;Salinitet;13.716666666666667;Surface
+2011-01-11;Temperatur;-0.14714285714285716;Bottom
+2011-01-11;Temperatur;0.18000000000000002;Surface
+2011-01-31;Oxygen indhold;7.442857142857143;Bottom
+2011-01-31;Oxygen indhold;10.9;Surface
+2011-01-31;Oxygenmætning;62.57142857142857;Bottom
+2011-01-31;Oxygenmætning;82.66666666666667;Surface
+2011-01-31;Salinitet;28.07;Bottom
+2011-01-31;Salinitet;10.618333333333332;Surface
+2011-01-31;Temperatur;0.4114285714285714;Bottom
+2011-01-31;Temperatur;1.2866666666666668;Surface
+2011-03-08;Oxygen indhold;10.914285714285715;Bottom
+2011-03-08;Oxygen indhold;14.0;Surface
+2011-03-08;Oxygenmætning;89.14285714285714;Bottom
+2011-03-08;Oxygenmætning;113.0;Surface
+2011-03-08;Salinitet;25.08857142857143;Bottom
+2011-03-08;Salinitet;20.7775;Surface
+2011-03-08;Temperatur;0.11714285714285713;Bottom
+2011-03-08;Temperatur;0.7125;Surface
+2011-03-16;Oxygen indhold;14.280000000000001;Bottom
+2011-03-16;Oxygen indhold;14.0;Surface
+2011-03-16;Oxygenmætning;121.0;Bottom
+2011-03-16;Oxygenmætning;119.0;Surface
+2011-03-16;Salinitet;22.362000000000002;Bottom
+2011-03-16;Salinitet;21.994;Surface
+2011-03-16;Temperatur;2.28;Bottom
+2011-03-16;Temperatur;2.354;Surface
+2011-03-23;Oxygen indhold;11.3;Bottom
+2011-03-23;Oxygen indhold;11.459999999999999;Surface
+2011-03-23;Oxygenmætning;98.5;Bottom
+2011-03-23;Oxygenmætning;100.8;Surface
+2011-03-23;Salinitet;25.0625;Bottom
+2011-03-23;Salinitet;24.002000000000002;Surface
+2011-03-23;Temperatur;2.6875;Bottom
+2011-03-23;Temperatur;3.406;Surface
+2011-04-07;Oxygen indhold;10.6;Bottom
+2011-04-07;Oxygen indhold;10.8;Surface
+2011-04-07;Oxygenmætning;101.0;Bottom
+2011-04-07;Oxygenmætning;103.0;Surface
+2011-04-07;Salinitet;23.96;Bottom
+2011-04-07;Salinitet;23.97;Surface
+2011-04-07;Temperatur;6.43;Bottom
+2011-04-07;Temperatur;6.43;Surface
+2011-04-18;Oxygen indhold;11.242857142857144;Bottom
+2011-04-18;Oxygen indhold;11.6;Surface
+2011-04-18;Oxygenmætning;111.85714285714286;Bottom
+2011-04-18;Oxygenmætning;115.2;Surface
+2011-04-18;Salinitet;23.19;Bottom
+2011-04-18;Salinitet;22.926;Surface
+2011-04-18;Temperatur;8.534285714285714;Bottom
+2011-04-18;Temperatur;8.751999999999999;Surface
+2011-05-02;Oxygen indhold;9.92;Bottom
+2011-05-02;Oxygen indhold;10.7;Surface
+2011-05-02;Oxygenmætning;109.2;Bottom
+2011-05-02;Oxygenmætning;118.0;Surface
+2011-05-02;Salinitet;21.194;Bottom
+2011-05-02;Salinitet;20.6375;Surface
+2011-05-02;Temperatur;13.752;Bottom
+2011-05-02;Temperatur;13.785;Surface
+2011-05-24;Oxygen indhold;8.74;Bottom
+2011-05-24;Oxygen indhold;8.8;Surface
+2011-05-24;Oxygenmætning;97.0;Bottom
+2011-05-24;Oxygenmætning;98.0;Surface
+2011-05-24;Salinitet;24.175;Bottom
+2011-05-24;Salinitet;24.17;Surface
+2011-05-24;Temperatur;13.3;Bottom
+2011-05-24;Temperatur;13.288;Surface
+2011-06-08;Oxygen indhold;6.133333333333333;Bottom
+2011-06-08;Oxygen indhold;9.649999999999999;Surface
+2011-06-08;Oxygenmætning;73.16666666666667;Bottom
+2011-06-08;Oxygenmætning;118.5;Surface
+2011-06-08;Salinitet;24.093333333333334;Bottom
+2011-06-08;Salinitet;22.915;Surface
+2011-06-08;Temperatur;15.873333333333335;Bottom
+2011-06-08;Temperatur;18.545;Surface
+2011-06-14;Oxygen indhold;2.9875000000000003;Bottom
+2011-06-14;Oxygen indhold;8.75;Surface
+2011-06-14;Oxygenmætning;35.125;Bottom
+2011-06-14;Oxygenmætning;103.25;Surface
+2011-06-14;Salinitet;25.35375;Bottom
+2011-06-14;Salinitet;23.557499999999997;Surface
+2011-06-14;Temperatur;15.0925;Bottom
+2011-06-14;Temperatur;16.45;Surface
+2011-06-20;Oxygen indhold;4.788888888888889;Bottom
+2011-06-20;Oxygen indhold;8.9;Surface
+2011-06-20;Oxygenmætning;55.888888888888886;Bottom
+2011-06-20;Oxygenmætning;104.0;Surface
+2011-06-20;Salinitet;25.071111111111108;Bottom
+2011-06-20;Salinitet;23.834;Surface
+2011-06-20;Temperatur;15.57;Bottom
+2011-06-20;Temperatur;15.9;Surface
+2011-06-22;Oxygen indhold;5.542857142857143;Bottom
+2011-06-22;Oxygen indhold;9.1;Surface
+2011-06-22;Oxygenmætning;65.71428571428571;Bottom
+2011-06-22;Oxygenmætning;107.5;Surface
+2011-06-22;Salinitet;24.919999999999998;Bottom
+2011-06-22;Salinitet;24.2675;Surface
+2011-06-22;Temperatur;16.03;Bottom
+2011-06-22;Temperatur;16.37;Surface
+2011-06-27;Oxygen indhold;4.257142857142857;Bottom
+2011-06-27;Oxygen indhold;8.549999999999999;Surface
+2011-06-27;Oxygenmætning;50.285714285714285;Bottom
+2011-06-27;Oxygenmætning;102.0;Surface
+2011-06-27;Salinitet;25.020000000000003;Bottom
+2011-06-27;Salinitet;24.36;Surface
+2011-06-27;Temperatur;16.041428571428572;Bottom
+2011-06-27;Temperatur;16.718333333333334;Surface
+2011-07-05;Oxygen indhold;5.8125;Bottom
+2011-07-05;Oxygen indhold;9.4;Surface
+2011-07-05;Oxygenmætning;70.25;Bottom
+2011-07-05;Oxygenmætning;114.0;Surface
+2011-07-05;Salinitet;24.8125;Bottom
+2011-07-05;Salinitet;24.0875;Surface
+2011-07-05;Temperatur;16.97375;Bottom
+2011-07-05;Temperatur;17.5325;Surface
+2011-07-12;Oxygen indhold;1.2;Bottom
+2011-07-12;Oxygen indhold;10.2;Surface
+2011-07-12;Oxygenmætning;14.571428571428571;Bottom
+2011-07-12;Oxygenmætning;124.5;Surface
+2011-07-12;Salinitet;27.79;Bottom
+2011-07-12;Salinitet;23.836666666666662;Surface
+2011-07-12;Temperatur;16.935714285714287;Bottom
+2011-07-12;Temperatur;18.161666666666665;Surface
+2011-07-19;Oxygen indhold;5.2625;Bottom
+2011-07-19;Oxygen indhold;9.7;Surface
+2011-07-19;Oxygenmætning;63.875;Bottom
+2011-07-19;Oxygenmætning;116.5;Surface
+2011-07-19;Salinitet;25.855;Bottom
+2011-07-19;Salinitet;24.09;Surface
+2011-07-19;Temperatur;17.27375;Bottom
+2011-07-19;Temperatur;17.22;Surface
+2011-07-25;Oxygen indhold;3.2666666666666666;Bottom
+2011-07-25;Oxygen indhold;9.5;Surface
+2011-07-25;Oxygenmætning;39.888888888888886;Bottom
+2011-07-25;Oxygenmætning;114.5;Surface
+2011-07-25;Salinitet;25.42;Bottom
+2011-07-25;Salinitet;22.822499999999998;Surface
+2011-07-25;Temperatur;17.72888888888889;Bottom
+2011-07-25;Temperatur;17.82;Surface
+2011-08-01;Oxygen indhold;1.2428571428571427;Bottom
+2011-08-01;Oxygen indhold;8.625;Surface
+2011-08-01;Oxygenmætning;15.428571428571429;Bottom
+2011-08-01;Oxygenmætning;111.0;Surface
+2011-08-01;Salinitet;24.892857142857142;Bottom
+2011-08-01;Salinitet;23.2325;Surface
+2011-08-01;Temperatur;18.684285714285714;Bottom
+2011-08-01;Temperatur;20.877499999999998;Surface
+2011-08-03;Oxygen indhold;4.16;Bottom
+2011-08-03;Oxygen indhold;9.2;Surface
+2011-08-03;Oxygenmætning;53.6;Bottom
+2011-08-03;Oxygenmætning;120.4;Surface
+2011-08-03;Salinitet;23.686;Bottom
+2011-08-03;Salinitet;21.868000000000002;Surface
+2011-08-03;Temperatur;20.562;Bottom
+2011-08-03;Temperatur;22.218;Surface
+2011-08-08;Oxygen indhold;1.9100000000000001;Bottom
+2011-08-08;Oxygen indhold;6.6;Surface
+2011-08-08;Oxygenmætning;23.6;Bottom
+2011-08-08;Oxygenmætning;82.0;Surface
+2011-08-08;Salinitet;26.851999999999997;Bottom
+2011-08-08;Salinitet;24.1675;Surface
+2011-08-08;Temperatur;18.419;Bottom
+2011-08-08;Temperatur;18.435;Surface
+2011-08-15;Oxygen indhold;5.028571428571429;Bottom
+2011-08-15;Oxygen indhold;10.4;Surface
+2011-08-15;Oxygenmætning;61.142857142857146;Bottom
+2011-08-15;Oxygenmætning;124.75;Surface
+2011-08-15;Salinitet;24.857142857142858;Bottom
+2011-08-15;Salinitet;22.735;Surface
+2011-08-15;Temperatur;17.462857142857143;Bottom
+2011-08-15;Temperatur;17.49;Surface
+2011-08-22;Oxygen indhold;0.7571428571428571;Bottom
+2011-08-22;Oxygen indhold;10.0;Surface
+2011-08-22;Oxygenmætning;9.285714285714286;Bottom
+2011-08-22;Oxygenmætning;122.0;Surface
+2011-08-22;Salinitet;26.631428571428568;Bottom
+2011-08-22;Salinitet;24.76;Surface
+2011-08-22;Temperatur;17.65714285714286;Bottom
+2011-08-22;Temperatur;17.6875;Surface
+2011-08-30;Oxygen indhold;8.372727272727273;Bottom
+2011-08-30;Oxygen indhold;8.6;Surface
+2011-08-30;Oxygenmætning;100.54545454545455;Bottom
+2011-08-30;Oxygenmætning;103.0;Surface
+2011-08-30;Salinitet;25.916363636363634;Bottom
+2011-08-30;Salinitet;25.83;Surface
+2011-08-30;Temperatur;16.518181818181816;Bottom
+2011-08-30;Temperatur;16.52;Surface
+2011-09-05;Oxygen indhold;7.7749999999999995;Bottom
+2011-09-05;Oxygen indhold;9.4;Surface
+2011-09-05;Oxygenmætning;93.75;Bottom
+2011-09-05;Oxygenmætning;114.0;Surface
+2011-09-05;Salinitet;25.54875;Bottom
+2011-09-05;Salinitet;25.264000000000003;Surface
+2011-09-05;Temperatur;16.8275;Bottom
+2011-09-05;Temperatur;17.212;Surface
+2011-09-21;Oxygen indhold;6.8;Bottom
+2011-09-21;Oxygen indhold;8.5;Surface
+2011-09-21;Oxygenmætning;78.9;Bottom
+2011-09-21;Oxygenmætning;96.25;Surface
+2011-09-21;Salinitet;27.621;Bottom
+2011-09-21;Salinitet;25.072499999999998;Surface
+2011-09-21;Temperatur;14.351000000000003;Bottom
+2011-09-21;Temperatur;14.022499999999999;Surface
+2011-09-27;Oxygen indhold;3.757142857142857;Bottom
+2011-09-27;Oxygen indhold;12.625;Surface
+2011-09-27;Oxygenmætning;43.42857142857143;Bottom
+2011-09-27;Oxygenmætning;144.75;Surface
+2011-09-27;Salinitet;27.55857142857143;Bottom
+2011-09-27;Salinitet;26.07;Surface
+2011-09-27;Temperatur;14.321428571428571;Bottom
+2011-09-27;Temperatur;14.105;Surface
+2011-10-03;Oxygen indhold;0.4571428571428572;Bottom
+2011-10-03;Oxygen indhold;9.5;Surface
+2011-10-03;Oxygenmætning;5.285714285714286;Bottom
+2011-10-03;Oxygenmætning;111.25;Surface
+2011-10-03;Salinitet;28.101428571428574;Bottom
+2011-10-03;Salinitet;26.627499999999998;Surface
+2011-10-03;Temperatur;14.334285714285715;Bottom
+2011-10-03;Temperatur;15.21;Surface
+2011-10-18;Oxygen indhold;8.81111111111111;Bottom
+2011-10-18;Oxygen indhold;9.5;Surface
+2011-10-18;Oxygenmætning;94.66666666666667;Bottom
+2011-10-18;Oxygenmætning;101.0;Surface
+2011-10-18;Salinitet;26.48888888888889;Bottom
+2011-10-18;Salinitet;26.04;Surface
+2011-10-18;Temperatur;11.028888888888888;Bottom
+2011-10-18;Temperatur;10.772499999999999;Surface
+2011-10-31;Oxygen indhold;7.633333333333334;Bottom
+2011-10-31;Oxygen indhold;9.6;Surface
+2011-10-31;Oxygenmætning;78.88888888888889;Bottom
+2011-10-31;Oxygenmætning;98.0;Surface
+2011-10-31;Salinitet;27.512222222222224;Bottom
+2011-10-31;Salinitet;24.73;Surface
+2011-10-31;Temperatur;9.173333333333334;Bottom
+2011-10-31;Temperatur;9.23;Surface
+2011-11-11;Oxygen indhold;8.383333333333333;Bottom
+2011-11-11;Oxygen indhold;10.3;Surface
+2011-11-11;Oxygenmætning;84.66666666666667;Bottom
+2011-11-11;Oxygenmætning;102.0;Surface
+2011-11-11;Salinitet;25.253333333333334;Bottom
+2011-11-11;Salinitet;23.8875;Surface
+2011-11-11;Temperatur;8.755;Bottom
+2011-11-11;Temperatur;8.2025;Surface
+2011-11-15;Oxygen indhold;7.3428571428571425;Bottom
+2011-11-15;Oxygen indhold;10.9;Surface
+2011-11-15;Oxygenmætning;75.85714285714286;Bottom
+2011-11-15;Oxygenmætning;103.75;Surface
+2011-11-15;Salinitet;27.81714285714286;Bottom
+2011-11-15;Salinitet;23.15;Surface
+2011-11-15;Temperatur;8.95;Bottom
+2011-11-15;Temperatur;6.7625;Surface
+2011-11-29;Oxygen indhold;10.1;Bottom
+2011-11-29;Oxygen indhold;10.1;Surface
+2011-11-29;Oxygenmætning;100.0;Bottom
+2011-11-29;Oxygenmætning;100.0;Surface
+2011-11-29;Salinitet;26.561;Bottom
+2011-11-29;Salinitet;26.545;Surface
+2011-11-29;Temperatur;7.31;Bottom
+2011-11-29;Temperatur;7.3149999999999995;Surface
+2011-12-19;Oxygen indhold;9.775;Bottom
+2011-12-19;Oxygen indhold;10.6;Surface
+2011-12-19;Oxygenmætning;89.5;Bottom
+2011-12-19;Oxygenmætning;93.0;Surface
+2011-12-19;Salinitet;26.745;Bottom
+2011-12-19;Salinitet;25.032;Surface
+2011-12-19;Temperatur;4.12625;Bottom
+2011-12-19;Temperatur;2.974;Surface
+2012-01-05;Oxygen indhold;12.114285714285714;Bottom
+2012-01-05;Oxygen indhold;12.125;Surface
+2012-01-05;Oxygenmætning;111.07142857142857;Bottom
+2012-01-05;Oxygenmætning;111.25;Surface
+2012-01-05;Salinitet;27.2;Bottom
+2012-01-05;Salinitet;27.192500000000003;Surface
+2012-01-05;Temperatur;4.08;Bottom
+2012-01-05;Temperatur;4.08;Surface
+2012-01-26;Oxygen indhold;11.6;Bottom
+2012-01-26;Oxygen indhold;11.6;Surface
+2012-01-26;Oxygenmætning;98.0;Bottom
+2012-01-26;Oxygenmætning;98.0;Surface
+2012-01-26;Salinitet;24.252;Bottom
+2012-01-26;Salinitet;24.2525;Surface
+2012-01-26;Temperatur;1.45;Bottom
+2012-01-26;Temperatur;1.4475;Surface
+2012-02-29;Oxygen indhold;11.712499999999999;Bottom
+2012-02-29;Oxygen indhold;11.639999999999999;Surface
+2012-02-29;Oxygenmætning;104.0;Bottom
+2012-02-29;Oxygenmætning;103.0;Surface
+2012-02-29;Salinitet;25.8275;Bottom
+2012-02-29;Salinitet;25.518;Surface
+2012-02-29;Temperatur;2.99375;Bottom
+2012-02-29;Temperatur;3.052;Surface
+2012-03-05;Oxygen indhold;11.583333333333334;Bottom
+2012-03-05;Oxygen indhold;11.633333333333333;Surface
+2012-03-05;Oxygenmætning;102.83333333333333;Bottom
+2012-03-05;Oxygenmætning;103.33333333333333;Surface
+2012-03-05;Salinitet;24.05666666666667;Bottom
+2012-03-05;Salinitet;23.816666666666666;Surface
+2012-03-05;Temperatur;3.606666666666667;Bottom
+2012-03-05;Temperatur;3.66;Surface
+2012-03-13;Oxygen indhold;11.1;Bottom
+2012-03-13;Oxygen indhold;10.95;Surface
+2012-03-13;Oxygenmætning;103.0;Bottom
+2012-03-13;Oxygenmætning;101.25;Surface
+2012-03-13;Salinitet;25.649999999999995;Bottom
+2012-03-13;Salinitet;25.64;Surface
+2012-03-13;Temperatur;4.863333333333333;Bottom
+2012-03-13;Temperatur;4.875;Surface
+2012-03-22;Oxygen indhold;10.5;Bottom
+2012-03-22;Oxygen indhold;10.559999999999999;Surface
+2012-03-22;Oxygenmætning;99.42857142857143;Bottom
+2012-03-22;Oxygenmætning;99.8;Surface
+2012-03-22;Salinitet;25.780857142857144;Bottom
+2012-03-22;Salinitet;25.1894;Surface
+2012-03-22;Temperatur;5.776000000000001;Bottom
+2012-03-22;Temperatur;6.0216;Surface
+2012-04-16;Oxygen indhold;10.3875;Bottom
+2012-04-16;Oxygen indhold;10.5;Surface
+2012-04-16;Oxygenmætning;100.875;Bottom
+2012-04-16;Oxygenmætning;102.0;Surface
+2012-04-16;Salinitet;26.115;Bottom
+2012-04-16;Salinitet;25.927500000000002;Surface
+2012-04-16;Temperatur;6.61875;Bottom
+2012-04-16;Temperatur;6.64;Surface
+2012-05-07;Oxygen indhold;9.785714285714286;Bottom
+2012-05-07;Oxygen indhold;10.375;Surface
+2012-05-07;Oxygenmætning;100.42857142857143;Bottom
+2012-05-07;Oxygenmætning;107.5;Surface
+2012-05-07;Salinitet;25.735714285714288;Bottom
+2012-05-07;Salinitet;25.2075;Surface
+2012-05-07;Temperatur;9.294285714285715;Bottom
+2012-05-07;Temperatur;9.657499999999999;Surface
+2012-05-21;Oxygen indhold;9.9;Bottom
+2012-05-21;Oxygen indhold;10.8;Surface
+2012-05-21;Oxygenmætning;106.16666666666667;Bottom
+2012-05-21;Oxygenmætning;117.0;Surface
+2012-05-21;Salinitet;24.05666666666667;Bottom
+2012-05-21;Salinitet;23.4975;Surface
+2012-05-21;Temperatur;11.538333333333334;Bottom
+2012-05-21;Temperatur;12.4625;Surface
+2012-06-04;Oxygen indhold;9.666666666666666;Bottom
+2012-06-04;Oxygen indhold;10.0;Surface
+2012-06-04;Oxygenmætning;108.0;Bottom
+2012-06-04;Oxygenmætning;111.0;Surface
+2012-06-04;Salinitet;24.14111111111111;Bottom
+2012-06-04;Salinitet;23.865000000000002;Surface
+2012-06-04;Temperatur;13.53111111111111;Bottom
+2012-06-04;Temperatur;13.4025;Surface
+2012-06-11;Oxygen indhold;6.8875;Bottom
+2012-06-11;Oxygen indhold;10.0;Surface
+2012-06-11;Oxygenmætning;78.25;Bottom
+2012-06-11;Oxygenmætning;111.25;Surface
+2012-06-11;Salinitet;27.045;Bottom
+2012-06-11;Salinitet;23.8625;Surface
+2012-06-11;Temperatur;13.4225;Bottom
+2012-06-11;Temperatur;13.46;Surface
+2012-06-18;Oxygen indhold;7.7124999999999995;Bottom
+2012-06-18;Oxygen indhold;9.1;Surface
+2012-06-18;Oxygenmætning;88.125;Bottom
+2012-06-18;Oxygenmætning;104.0;Surface
+2012-06-18;Salinitet;26.68625;Bottom
+2012-06-18;Salinitet;26.2225;Surface
+2012-06-18;Temperatur;13.76875;Bottom
+2012-06-18;Temperatur;14.0375;Surface
+2012-07-02;Oxygen indhold;7.0375;Bottom
+2012-07-02;Oxygen indhold;8.5;Surface
+2012-07-02;Oxygenmætning;83.75;Bottom
+2012-07-02;Oxygenmætning;102.0;Surface
+2012-07-02;Salinitet;26.275;Bottom
+2012-07-02;Salinitet;25.5825;Surface
+2012-07-02;Temperatur;16.03625;Bottom
+2012-07-02;Temperatur;16.535;Surface
+2012-07-10;Oxygen indhold;3.0666666666666664;Bottom
+2012-07-10;Oxygen indhold;7.925000000000001;Surface
+2012-07-10;Oxygenmætning;37.166666666666664;Bottom
+2012-07-10;Oxygenmætning;99.75;Surface
+2012-07-10;Salinitet;27.034999999999997;Bottom
+2012-07-10;Salinitet;24.41;Surface
+2012-07-10;Temperatur;16.768333333333334;Bottom
+2012-07-10;Temperatur;19.2;Surface
+2012-07-16;Oxygen indhold;8.76;Bottom
+2012-07-16;Oxygen indhold;10.3;Surface
+2012-07-16;Oxygenmætning;105.4;Bottom
+2012-07-16;Oxygenmætning;124.0;Surface
+2012-07-16;Salinitet;26.505000000000003;Bottom
+2012-07-16;Salinitet;26.3175;Surface
+2012-07-16;Temperatur;16.622;Bottom
+2012-07-16;Temperatur;16.505000000000003;Surface
+2012-07-24;Oxygen indhold;7.4875;Bottom
+2012-07-24;Oxygen indhold;8.3;Surface
+2012-07-24;Oxygenmætning;91.25;Bottom
+2012-07-24;Oxygenmætning;101.2;Surface
+2012-07-24;Salinitet;25.93125;Bottom
+2012-07-24;Salinitet;25.71;Surface
+2012-07-24;Temperatur;17.37;Bottom
+2012-07-24;Temperatur;17.414;Surface
+2012-07-30;Oxygen indhold;4.2375;Bottom
+2012-07-30;Oxygen indhold;8.95;Surface
+2012-07-30;Oxygenmætning;52.5;Bottom
+2012-07-30;Oxygenmætning;111.0;Surface
+2012-07-30;Salinitet;26.0375;Bottom
+2012-07-30;Salinitet;24.535;Surface
+2012-07-30;Temperatur;17.96625;Bottom
+2012-07-30;Temperatur;18.5975;Surface
+2012-08-06;Oxygen indhold;1.5;Bottom
+2012-08-06;Oxygen indhold;9.3;Surface
+2012-08-06;Oxygenmætning;19.0;Bottom
+2012-08-06;Oxygenmætning;115.75;Surface
+2012-08-06;Salinitet;27.861428571428572;Bottom
+2012-08-06;Salinitet;25.04;Surface
+2012-08-06;Temperatur;18.078571428571426;Bottom
+2012-08-06;Temperatur;18.405;Surface
+2012-08-13;Oxygen indhold;5.3999999999999995;Bottom
+2012-08-13;Oxygen indhold;12.5;Surface
+2012-08-13;Oxygenmætning;67.5;Bottom
+2012-08-13;Oxygenmætning;152.25;Surface
+2012-08-13;Salinitet;27.435;Bottom
+2012-08-13;Salinitet;22.35;Surface
+2012-08-13;Temperatur;17.849999999999998;Bottom
+2012-08-13;Temperatur;18.247500000000002;Surface
+2012-08-23;Oxygen indhold;2.5518888888888887;Bottom
+2012-08-23;Oxygen indhold;9.37125;Surface
+2012-08-23;Oxygenmætning;31.99777777777778;Bottom
+2012-08-23;Oxygenmætning;116.62;Surface
+2012-08-23;Salinitet;28.09777777777778;Bottom
+2012-08-23;Salinitet;25.2775;Surface
+2012-08-23;Temperatur;18.076666666666668;Bottom
+2012-08-23;Temperatur;18.6425;Surface
+2012-08-28;Oxygen indhold;5.485714285714286;Bottom
+2012-08-28;Oxygen indhold;9.2;Surface
+2012-08-28;Oxygenmætning;67.42857142857143;Bottom
+2012-08-28;Oxygenmætning;111.0;Surface
+2012-08-28;Salinitet;26.87857142857143;Bottom
+2012-08-28;Salinitet;25.974;Surface
+2012-08-28;Temperatur;17.44;Bottom
+2012-08-28;Temperatur;16.964000000000002;Surface
+2012-09-03;Oxygen indhold;1.8444444444444446;Bottom
+2012-09-03;Oxygen indhold;8.674999999999999;Surface
+2012-09-03;Oxygenmætning;22.88888888888889;Bottom
+2012-09-03;Oxygenmætning;104.75;Surface
+2012-09-03;Salinitet;27.491111111111113;Bottom
+2012-09-03;Salinitet;25.845;Surface
+2012-09-03;Temperatur;17.614444444444445;Bottom
+2012-09-03;Temperatur;16.96;Surface
+2012-09-12;Oxygen indhold;6.963636363636365;Bottom
+2012-09-12;Oxygen indhold;8.525;Surface
+2012-09-12;Oxygenmætning;83.0;Bottom
+2012-09-12;Oxygenmætning;101.25;Surface
+2012-09-12;Salinitet;26.771818181818183;Bottom
+2012-09-12;Salinitet;26.24;Surface
+2012-09-12;Temperatur;15.889090909090909;Bottom
+2012-09-12;Temperatur;15.86;Surface
+2012-09-17;Oxygen indhold;7.385338;Bottom
+2012-09-17;Oxygen indhold;8.060027999999999;Surface
+2012-09-17;Oxygenmætning;86.43685200000002;Bottom
+2012-09-17;Oxygenmætning;93.941016;Surface
+2012-09-17;Salinitet;26.880000000000003;Bottom
+2012-09-17;Salinitet;26.422000000000004;Surface
+2012-09-17;Temperatur;15.103;Bottom
+2012-09-17;Temperatur;14.86;Surface
+2012-10-01;Oxygen indhold;6.470000000000001;Bottom
+2012-10-01;Oxygen indhold;8.075;Surface
+2012-10-01;Oxygenmætning;72.7;Bottom
+2012-10-01;Oxygenmætning;90.0;Surface
+2012-10-01;Salinitet;27.95;Bottom
+2012-10-01;Salinitet;26.9375;Surface
+2012-10-01;Temperatur;12.724;Bottom
+2012-10-01;Temperatur;12.6625;Surface
+2012-10-08;Oxygen indhold;8.588888888888889;Bottom
+2012-10-08;Oxygen indhold;8.775;Surface
+2012-10-08;Oxygenmætning;94.22222222222223;Bottom
+2012-10-08;Oxygenmætning;96.0;Surface
+2012-10-08;Salinitet;28.031111111111112;Bottom
+2012-10-08;Salinitet;27.91;Surface
+2012-10-08;Temperatur;11.585555555555555;Bottom
+2012-10-08;Temperatur;11.4875;Surface
+2012-10-16;Oxygen indhold;6.825;Bottom
+2012-10-16;Oxygen indhold;9.925;Surface
+2012-10-16;Oxygenmætning;73.25;Bottom
+2012-10-16;Oxygenmætning;99.5;Surface
+2012-10-16;Salinitet;27.22;Bottom
+2012-10-16;Salinitet;22.7675;Surface
+2012-10-16;Temperatur;10.79625;Bottom
+2012-10-16;Temperatur;8.98;Surface
+2012-10-29;Oxygen indhold;8.477777777777778;Bottom
+2012-10-29;Oxygen indhold;9.1;Surface
+2012-10-29;Oxygenmætning;86.11111111111111;Bottom
+2012-10-29;Oxygenmætning;90.0;Surface
+2012-10-29;Salinitet;26.262222222222224;Bottom
+2012-10-29;Salinitet;24.4325;Surface
+2012-10-29;Temperatur;8.454444444444444;Bottom
+2012-10-29;Temperatur;7.74;Surface
+2012-11-12;Oxygen indhold;9.47;Bottom
+2012-11-12;Oxygen indhold;10.3;Surface
+2012-11-12;Oxygenmætning;93.1;Bottom
+2012-11-12;Oxygenmætning;100.0;Surface
+2012-11-12;Salinitet;26.933;Bottom
+2012-11-12;Salinitet;25.32;Surface
+2012-11-12;Temperatur;7.071000000000001;Bottom
+2012-11-12;Temperatur;6.99;Surface
+2012-11-26;Oxygen indhold;10.188888888888888;Bottom
+2012-11-26;Oxygen indhold;10.2;Surface
+2012-11-26;Oxygenmætning;96.88888888888889;Bottom
+2012-11-26;Oxygenmætning;97.0;Surface
+2012-11-26;Salinitet;25.657777777777778;Bottom
+2012-11-26;Salinitet;25.2725;Surface
+2012-11-26;Temperatur;6.072222222222222;Bottom
+2012-11-26;Temperatur;6.04;Surface
+2012-12-20;Oxygen indhold;10.65;Bottom
+2012-12-20;Oxygen indhold;12.45;Surface
+2012-12-20;Oxygenmætning;88.25;Bottom
+2012-12-20;Oxygenmætning;99.25;Surface
+2012-12-20;Salinitet;24.6325;Bottom
+2012-12-20;Salinitet;22.177500000000002;Surface
+2012-12-20;Temperatur;0.85625;Bottom
+2012-12-20;Temperatur;0.017499999999999998;Surface
+2013-01-09;Oxygen indhold;10.942857142857141;Bottom
+2013-01-09;Oxygen indhold;11.3;Surface
+2013-01-09;Oxygenmætning;95.57142857142857;Bottom
+2013-01-09;Oxygenmætning;100.0;Surface
+2013-01-09;Salinitet;24.562857142857144;Bottom
+2013-01-09;Salinitet;22.502499999999998;Surface
+2013-01-09;Temperatur;2.932857142857143;Bottom
+2013-01-09;Temperatur;3.8049999999999997;Surface
+2013-02-06;Oxygen indhold;13.784615384615385;Bottom
+2013-02-06;Oxygen indhold;13.924999999999999;Surface
+2013-02-06;Oxygenmætning;113.15384615384616;Bottom
+2013-02-06;Oxygenmætning;111.25;Surface
+2013-02-06;Salinitet;25.51846153846154;Bottom
+2013-02-06;Salinitet;20.545;Surface
+2013-02-06;Temperatur;0.23769230769230767;Bottom
+2013-02-06;Temperatur;0.40750000000000003;Surface
+2013-02-21;Oxygen indhold;11.616666666666667;Bottom
+2013-02-21;Oxygen indhold;13.02;Surface
+2013-02-21;Oxygenmætning;93.33333333333333;Bottom
+2013-02-21;Oxygenmætning;102.0;Surface
+2013-02-21;Salinitet;23.61;Bottom
+2013-02-21;Salinitet;21.42;Surface
+2013-02-21;Temperatur;0.011666666666666678;Bottom
+2013-02-21;Temperatur;-0.45;Surface
+2013-03-06;Oxygen indhold;12.450000000000001;Bottom
+2013-03-06;Oxygen indhold;14.850000000000001;Surface
+2013-03-06;Oxygenmætning;102.66666666666667;Bottom
+2013-03-06;Oxygenmætning;120.0;Surface
+2013-03-06;Salinitet;24.304999999999996;Bottom
+2013-03-06;Salinitet;19.335;Surface
+2013-03-06;Temperatur;0.7316666666666668;Bottom
+2013-03-06;Temperatur;1.23;Surface
+2013-03-14;Oxygen indhold;12.471428571428572;Bottom
+2013-03-14;Oxygen indhold;13.7;Surface
+2013-03-14;Oxygenmætning;100.0;Bottom
+2013-03-14;Oxygenmætning;105.5;Surface
+2013-03-14;Salinitet;22.945714285714285;Bottom
+2013-03-14;Salinitet;19.27;Surface
+2013-03-14;Temperatur;-0.0014285714285714338;Bottom
+2013-03-14;Temperatur;-0.46;Surface
+2013-03-21;Oxygen indhold;13.35;Bottom
+2013-03-21;Oxygen indhold;13.45;Surface
+2013-03-21;Oxygenmætning;102.75;Bottom
+2013-03-21;Oxygenmætning;103.5;Surface
+2013-03-21;Salinitet;21.0325;Bottom
+2013-03-21;Salinitet;21.0225;Surface
+2013-03-21;Temperatur;-0.985;Bottom
+2013-03-21;Temperatur;-0.9824999999999999;Surface
+2013-04-11;Oxygen indhold;12.25;Bottom
+2013-04-11;Oxygen indhold;11.62;Surface
+2013-04-11;Oxygenmætning;107.5;Bottom
+2013-04-11;Oxygenmætning;100.0;Surface
+2013-04-11;Salinitet;21.2075;Bottom
+2013-04-11;Salinitet;17.163999999999998;Surface
+2013-04-11;Temperatur;3.855;Bottom
+2013-04-11;Temperatur;4.248;Surface
+2013-05-01;Oxygen indhold;10.3125;Bottom
+2013-05-01;Oxygen indhold;10.375;Surface
+2013-05-01;Oxygenmætning;100.5;Bottom
+2013-05-01;Oxygenmætning;101.0;Surface
+2013-05-01;Salinitet;21.6025;Bottom
+2013-05-01;Salinitet;21.58;Surface
+2013-05-01;Temperatur;8.0175;Bottom
+2013-05-01;Temperatur;8.01;Surface
+2013-05-22;Oxygen indhold;9.357142857142858;Bottom
+2013-05-22;Oxygen indhold;9.4;Surface
+2013-05-22;Oxygenmætning;108.0;Bottom
+2013-05-22;Oxygenmætning;109.0;Surface
+2013-05-22;Salinitet;20.94142857142857;Bottom
+2013-05-22;Salinitet;20.926666666666666;Surface
+2013-05-22;Temperatur;16.082857142857144;Bottom
+2013-05-22;Temperatur;16.12;Surface
+2013-05-27;Oxygen indhold;9.1;Bottom
+2013-05-27;Oxygen indhold;8.925;Surface
+2013-05-27;Oxygenmætning;103.0;Bottom
+2013-05-27;Oxygenmætning;101.0;Surface
+2013-05-27;Salinitet;20.37;Bottom
+2013-05-27;Salinitet;20.36;Surface
+2013-05-27;Temperatur;15.18;Bottom
+2013-05-27;Temperatur;15.19;Surface
+2013-06-03;Oxygen indhold;8.685714285714285;Bottom
+2013-06-03;Oxygen indhold;9.3;Surface
+2013-06-03;Oxygenmætning;100.0;Bottom
+2013-06-03;Oxygenmætning;107.0;Surface
+2013-06-03;Salinitet;21.194285714285712;Bottom
+2013-06-03;Salinitet;20.305;Surface
+2013-06-03;Temperatur;15.814285714285715;Bottom
+2013-06-03;Temperatur;16.09;Surface
+2013-06-11;Oxygen indhold;6.185714285714285;Bottom
+2013-06-11;Oxygen indhold;9.8;Surface
+2013-06-11;Oxygenmætning;73.28571428571429;Bottom
+2013-06-11;Oxygenmætning;117.0;Surface
+2013-06-11;Salinitet;22.185714285714287;Bottom
+2013-06-11;Salinitet;20.63;Surface
+2013-06-11;Temperatur;17.055714285714284;Bottom
+2013-06-11;Temperatur;17.7325;Surface
+2013-06-18;Oxygen indhold;6.871428571428572;Bottom
+2013-06-18;Oxygen indhold;9.8;Surface
+2013-06-18;Oxygenmætning;80.42857142857143;Bottom
+2013-06-18;Oxygenmætning;114.0;Surface
+2013-06-18;Salinitet;23.59857142857143;Bottom
+2013-06-18;Salinitet;22.482;Surface
+2013-06-18;Temperatur;16.084285714285713;Bottom
+2013-06-18;Temperatur;15.918000000000001;Surface
+2013-06-24;Oxygen indhold;6.4750000000000005;Bottom
+2013-06-24;Oxygen indhold;9.5;Surface
+2013-06-24;Oxygenmætning;76.25;Bottom
+2013-06-24;Oxygenmætning;112.0;Surface
+2013-06-24;Salinitet;24.05625;Bottom
+2013-06-24;Salinitet;22.615000000000002;Surface
+2013-06-24;Temperatur;16.26375;Bottom
+2013-06-24;Temperatur;16.62;Surface
+2013-07-01;Oxygen indhold;5.816666666666666;Bottom
+2013-07-01;Oxygen indhold;8.7;Surface
+2013-07-01;Oxygenmætning;68.0;Bottom
+2013-07-01;Oxygenmætning;100.0;Surface
+2013-07-01;Salinitet;24.346666666666668;Bottom
+2013-07-01;Salinitet;22.9875;Surface
+2013-07-01;Temperatur;15.808333333333332;Bottom
+2013-07-01;Temperatur;15.43;Surface
+2013-07-09;Oxygen indhold;4.025714285714286;Bottom
+2013-07-09;Oxygen indhold;8.915;Surface
+2013-07-09;Oxygenmætning;48.714285714285715;Bottom
+2013-07-09;Oxygenmætning;110.0;Surface
+2013-07-09;Salinitet;24.282857142857146;Bottom
+2013-07-09;Salinitet;23.3525;Surface
+2013-07-09;Temperatur;17.274285714285714;Bottom
+2013-07-09;Temperatur;18.575;Surface
+2013-07-16;Oxygen indhold;7.852857142857142;Bottom
+2013-07-16;Oxygen indhold;7.8925;Surface
+2013-07-16;Oxygenmætning;94.85714285714286;Bottom
+2013-07-16;Oxygenmætning;95.5;Surface
+2013-07-16;Salinitet;23.368571428571432;Bottom
+2013-07-16;Salinitet;23.3675;Surface
+2013-07-16;Temperatur;17.648571428571426;Bottom
+2013-07-16;Temperatur;17.6575;Surface
+2013-07-23;Oxygen indhold;6.385714285714286;Bottom
+2013-07-23;Oxygen indhold;7.87;Surface
+2013-07-23;Oxygenmætning;80.71428571428571;Bottom
+2013-07-23;Oxygenmætning;100.0;Surface
+2013-07-23;Salinitet;23.224285714285713;Bottom
+2013-07-23;Salinitet;22.795;Surface
+2013-07-23;Temperatur;19.995714285714286;Bottom
+2013-07-23;Temperatur;20.295;Surface
+2013-07-29;Oxygen indhold;2.87125;Bottom
+2013-07-29;Oxygen indhold;9.96;Surface
+2013-07-29;Oxygenmætning;36.625;Bottom
+2013-07-29;Oxygenmætning;130.0;Surface
+2013-07-29;Salinitet;27.0225;Bottom
+2013-07-29;Salinitet;22.302500000000002;Surface
+2013-07-29;Temperatur;19.115000000000002;Bottom
+2013-07-29;Temperatur;21.98;Surface
+2013-08-06;Oxygen indhold;5.93875;Bottom
+2013-08-06;Oxygen indhold;11.1425;Surface
+2013-08-06;Oxygenmætning;76.625;Bottom
+2013-08-06;Oxygenmætning;144.0;Surface
+2013-08-06;Salinitet;25.79625;Bottom
+2013-08-06;Salinitet;24.89;Surface
+2013-08-06;Temperatur;20.247500000000002;Bottom
+2013-08-06;Temperatur;20.6725;Surface
+2013-08-12;Oxygen indhold;1.8355555555555556;Bottom
+2013-08-12;Oxygen indhold;7.49;Surface
+2013-08-12;Oxygenmætning;23.22222222222222;Bottom
+2013-08-12;Oxygenmætning;93.0;Surface
+2013-08-12;Salinitet;26.308888888888887;Bottom
+2013-08-12;Salinitet;25.01;Surface
+2013-08-12;Temperatur;19.383333333333333;Bottom
+2013-08-12;Temperatur;18.4;Surface
+2013-08-28;Oxygen indhold;2.8016666666666663;Bottom
+2013-08-28;Oxygen indhold;10.717500000000001;Surface
+2013-08-28;Oxygenmætning;34.833333333333336;Bottom
+2013-08-28;Oxygenmætning;133.75;Surface
+2013-08-28;Salinitet;26.641666666666666;Bottom
+2013-08-28;Salinitet;23.515;Surface
+2013-08-28;Temperatur;18.271666666666665;Bottom
+2013-08-28;Temperatur;19.17;Surface
+2013-09-03;Oxygen indhold;4.666666666666667;Bottom
+2013-09-03;Oxygen indhold;7.41;Surface
+2013-09-03;Oxygenmætning;56.77777777777778;Bottom
+2013-09-03;Oxygenmætning;89.75;Surface
+2013-09-03;Salinitet;27.06222222222222;Bottom
+2013-09-03;Salinitet;26.2575;Surface
+2013-09-03;Temperatur;17.093333333333334;Bottom
+2013-09-03;Temperatur;16.74;Surface
+2013-09-16;Oxygen indhold;4.845555555555555;Bottom
+2013-09-16;Oxygen indhold;6.7325;Surface
+2013-09-16;Oxygenmætning;57.44444444444444;Bottom
+2013-09-16;Oxygenmætning;79.0;Surface
+2013-09-16;Salinitet;26.03222222222222;Bottom
+2013-09-16;Salinitet;25.1525;Surface
+2013-09-16;Temperatur;16.0;Bottom
+2013-09-16;Temperatur;15.68;Surface
+2013-09-30;Oxygen indhold;8.842;Bottom
+2013-09-30;Oxygen indhold;9.0825;Surface
+2013-09-30;Oxygenmætning;98.2;Bottom
+2013-09-30;Oxygenmætning;101.0;Surface
+2013-09-30;Salinitet;24.878;Bottom
+2013-09-30;Salinitet;24.8125;Surface
+2013-09-30;Temperatur;13.035999999999998;Bottom
+2013-09-30;Temperatur;12.985;Surface
+2013-10-17;Oxygen indhold;8.120000000000001;Bottom
+2013-10-17;Oxygen indhold;9.5125;Surface
+2013-10-17;Oxygenmætning;87.28571428571429;Bottom
+2013-10-17;Oxygenmætning;100.5;Surface
+2013-10-17;Salinitet;25.455714285714286;Bottom
+2013-10-17;Salinitet;23.6275;Surface
+2013-10-17;Temperatur;11.38;Bottom
+2013-10-17;Temperatur;10.98;Surface
+2013-10-30;Oxygen indhold;9.274;Bottom
+2013-10-30;Oxygen indhold;9.44;Surface
+2013-10-30;Oxygenmætning;98.5;Bottom
+2013-10-30;Oxygenmætning;100.0;Surface
+2013-10-30;Salinitet;25.877999999999997;Bottom
+2013-10-30;Salinitet;25.556;Surface
+2013-10-30;Temperatur;10.760000000000002;Bottom
+2013-10-30;Temperatur;10.658;Surface
+2013-11-11;Oxygen indhold;8.785;Bottom
+2013-11-11;Oxygen indhold;10.2525;Surface
+2013-11-11;Oxygenmætning;89.625;Bottom
+2013-11-11;Oxygenmætning;100.0;Surface
+2013-11-11;Salinitet;26.57375;Bottom
+2013-11-11;Salinitet;24.93;Surface
+2013-11-11;Temperatur;8.82125;Bottom
+2013-11-11;Temperatur;7.17;Surface
+2013-11-25;Oxygen indhold;9.948;Bottom
+2013-11-25;Oxygen indhold;10.8125;Surface
+2013-11-25;Oxygenmætning;94.0;Bottom
+2013-11-25;Oxygenmætning;98.0;Surface
+2013-11-25;Salinitet;25.639999999999997;Bottom
+2013-11-25;Salinitet;24.4725;Surface
+2013-11-25;Temperatur;5.64;Bottom
+2013-11-25;Temperatur;4.1975;Surface
+2013-12-16;Oxygen indhold;10.49;Bottom
+2013-12-16;Oxygen indhold;10.65;Surface
+2013-12-16;Oxygenmætning;97.77777777777777;Bottom
+2013-12-16;Oxygenmætning;99.0;Surface
+2013-12-16;Salinitet;27.733333333333334;Bottom
+2013-12-16;Salinitet;26.939999999999998;Surface
+2013-12-16;Temperatur;4.644444444444444;Bottom
+2013-12-16;Temperatur;4.7825;Surface
+2014-01-06;Oxygen indhold;10.082857142857142;Bottom
+2014-01-06;Oxygen indhold;10.625;Surface
+2014-01-06;Oxygenmætning;94.28571428571429;Bottom
+2014-01-06;Oxygenmætning;97.0;Surface
+2014-01-06;Salinitet;27.302857142857142;Bottom
+2014-01-06;Salinitet;25.02;Surface
+2014-01-06;Temperatur;4.782857142857142;Bottom
+2014-01-06;Temperatur;4.4025;Surface
+2014-02-05;Oxygen indhold;11.832857142857142;Bottom
+2014-02-05;Oxygen indhold;12.5175;Surface
+2014-02-05;Oxygenmætning;95.57142857142857;Bottom
+2014-02-05;Oxygenmætning;98.0;Surface
+2014-02-05;Salinitet;25.65285714285714;Bottom
+2014-02-05;Salinitet;19.665;Surface
+2014-02-05;Temperatur;-0.34285714285714286;Bottom
+2014-02-05;Temperatur;-0.14;Surface
+2014-02-25;Oxygen indhold;11.196666666666665;Bottom
+2014-02-25;Oxygen indhold;11.365;Surface
+2014-02-25;Oxygenmætning;98.66666666666667;Bottom
+2014-02-25;Oxygenmætning;100.0;Surface
+2014-02-25;Salinitet;25.02111111111111;Bottom
+2014-02-25;Salinitet;23.655;Surface
+2014-02-25;Temperatur;3.052222222222222;Bottom
+2014-02-25;Temperatur;3.36;Surface
+2014-03-03;Oxygen indhold;10.894285714285715;Bottom
+2014-03-03;Oxygen indhold;11.82;Surface
+2014-03-03;Oxygenmætning;97.0;Bottom
+2014-03-03;Oxygenmætning;105.0;Surface
+2014-03-03;Salinitet;23.957142857142856;Bottom
+2014-03-03;Salinitet;22.6;Surface
+2014-03-03;Temperatur;3.7214285714285715;Bottom
+2014-03-03;Temperatur;3.95;Surface
+2014-03-18;Oxygen indhold;10.783333333333333;Bottom
+2014-03-18;Oxygen indhold;10.685714285714285;Surface
+2014-03-18;Oxygenmætning;102.0;Bottom
+2014-03-18;Oxygenmætning;101.0;Surface
+2014-03-18;Salinitet;23.9585;Bottom
+2014-03-18;Salinitet;23.531714285714287;Surface
+2014-03-18;Temperatur;6.133666666666667;Bottom
+2014-03-18;Temperatur;6.454;Surface
+2014-03-25;Oxygen indhold;10.415000000000001;Bottom
+2014-03-25;Oxygen indhold;10.495000000000001;Surface
+2014-03-25;Oxygenmætning;99.16666666666667;Bottom
+2014-03-25;Oxygenmætning;100.0;Surface
+2014-03-25;Salinitet;23.066666666666666;Bottom
+2014-03-25;Salinitet;22.814999999999998;Surface
+2014-03-25;Temperatur;6.84;Bottom
+2014-03-25;Temperatur;6.75;Surface
+2014-04-23;Oxygen indhold;10.686;Bottom
+2014-04-23;Oxygen indhold;10.1025;Surface
+2014-04-23;Oxygenmætning;113.0;Bottom
+2014-04-23;Oxygenmætning;107.0;Surface
+2014-04-23;Salinitet;22.5;Bottom
+2014-04-23;Salinitet;21.4775;Surface
+2014-04-23;Temperatur;11.488;Bottom
+2014-04-23;Temperatur;11.7075;Surface
+2014-05-05;Oxygen indhold;8.915000000000001;Bottom
+2014-05-05;Oxygen indhold;10.057500000000001;Surface
+2014-05-05;Oxygenmætning;97.0;Bottom
+2014-05-05;Oxygenmætning;105.0;Surface
+2014-05-05;Salinitet;23.791666666666668;Bottom
+2014-05-05;Salinitet;20.2225;Surface
+2014-05-05;Temperatur;12.271666666666667;Bottom
+2014-05-05;Temperatur;11.63;Surface
+2014-05-20;Oxygen indhold;10.401666666666666;Bottom
+2014-05-20;Oxygen indhold;11.7025;Surface
+2014-05-20;Oxygenmætning;118.83333333333333;Bottom
+2014-05-20;Oxygenmætning;135.0;Surface
+2014-05-20;Salinitet;23.3;Bottom
+2014-05-20;Salinitet;22.0575;Surface
+2014-05-20;Temperatur;14.75;Bottom
+2014-05-20;Temperatur;15.754999999999999;Surface
+2014-05-27;Oxygen indhold;7.688333333333333;Bottom
+2014-05-27;Oxygen indhold;8.5975;Surface
+2014-05-27;Oxygenmætning;90.33333333333333;Bottom
+2014-05-27;Oxygenmætning;102.0;Surface
+2014-05-27;Salinitet;22.94666666666667;Bottom
+2014-05-27;Salinitet;22.37;Surface
+2014-05-27;Temperatur;16.186666666666667;Bottom
+2014-05-27;Temperatur;16.85;Surface
+2014-06-02;Oxygen indhold;4.575;Bottom
+2014-06-02;Oxygen indhold;10.807500000000001;Surface
+2014-06-02;Oxygenmætning;53.333333333333336;Bottom
+2014-06-02;Oxygenmætning;128.0;Surface
+2014-06-02;Salinitet;23.93166666666667;Bottom
+2014-06-02;Salinitet;21.42;Surface
+2014-06-02;Temperatur;15.676666666666668;Bottom
+2014-06-02;Temperatur;17.18;Surface
+2014-06-10;Oxygen indhold;1.2183333333333333;Bottom
+2014-06-10;Oxygen indhold;10.995000000000001;Surface
+2014-06-10;Oxygenmætning;14.5;Bottom
+2014-06-10;Oxygenmætning;135.25;Surface
+2014-06-10;Salinitet;23.775000000000002;Bottom
+2014-06-10;Salinitet;20.4925;Surface
+2014-06-10;Temperatur;16.488333333333333;Bottom
+2014-06-10;Temperatur;19.4825;Surface
+2014-06-16;Oxygen indhold;1.6942857142857142;Bottom
+2014-06-16;Oxygen indhold;8.95;Surface
+2014-06-16;Oxygenmætning;20.714285714285715;Bottom
+2014-06-16;Oxygenmætning;109.5;Surface
+2014-06-16;Salinitet;23.91;Bottom
+2014-06-16;Salinitet;22.25;Surface
+2014-06-16;Temperatur;17.607142857142858;Bottom
+2014-06-16;Temperatur;18.56;Surface
+2014-06-23;Oxygen indhold;8.69;Bottom
+2014-06-23;Oxygen indhold;8.665;Surface
+2014-06-23;Oxygenmætning;103.14285714285714;Bottom
+2014-06-23;Oxygenmætning;103.0;Surface
+2014-06-23;Salinitet;22.94142857142857;Bottom
+2014-06-23;Salinitet;22.94;Surface
+2014-06-23;Temperatur;16.951428571428572;Bottom
+2014-06-23;Temperatur;16.97;Surface
+2014-06-30;Oxygen indhold;5.654285714285714;Bottom
+2014-06-30;Oxygen indhold;9.58;Surface
+2014-06-30;Oxygenmætning;68.28571428571429;Bottom
+2014-06-30;Oxygenmætning;115.5;Surface
+2014-06-30;Salinitet;22.361428571428572;Bottom
+2014-06-30;Salinitet;21.2825;Surface
+2014-06-30;Temperatur;17.891428571428573;Bottom
+2014-06-30;Temperatur;18.0775;Surface
+2014-07-07;Oxygen indhold;3.55125;Bottom
+2014-07-07;Oxygen indhold;7.7425;Surface
+2014-07-07;Oxygenmætning;43.875;Bottom
+2014-07-07;Oxygenmætning;96.0;Surface
+2014-07-07;Salinitet;24.46;Bottom
+2014-07-07;Salinitet;22.515;Surface
+2014-07-07;Temperatur;18.095;Bottom
+2014-07-07;Temperatur;19.24;Surface
+2014-07-15;Oxygen indhold;2.17125;Bottom
+2014-07-15;Oxygen indhold;7.0825;Surface
+2014-07-15;Oxygenmætning;27.375;Bottom
+2014-07-15;Oxygenmætning;90.75;Surface
+2014-07-15;Salinitet;24.5775;Bottom
+2014-07-15;Salinitet;22.155;Surface
+2014-07-15;Temperatur;19.314999999999998;Bottom
+2014-07-15;Temperatur;20.95;Surface
+2014-07-22;Oxygen indhold;4.38;Bottom
+2014-07-22;Oxygen indhold;7.78;Surface
+2014-07-22;Oxygenmætning;57.42857142857143;Bottom
+2014-07-22;Oxygenmætning;102.0;Surface
+2014-07-22;Salinitet;23.384285714285713;Bottom
+2014-07-22;Salinitet;22.62;Surface
+2014-07-22;Temperatur;21.53142857142857;Bottom
+2014-07-22;Temperatur;22.1;Surface
+2014-07-28;Oxygen indhold;0.0;Bottom
+2014-07-28;Oxygen indhold;10.695;Surface
+2014-07-28;Oxygenmætning;0.0;Bottom
+2014-07-28;Oxygenmætning;144.25;Surface
+2014-07-28;Salinitet;26.02;Bottom
+2014-07-28;Salinitet;20.93;Surface
+2014-07-28;Temperatur;19.201666666666664;Bottom
+2014-07-28;Temperatur;24.235;Surface
+2014-08-04;Oxygen indhold;0.0875;Bottom
+2014-08-04;Oxygen indhold;7.135;Surface
+2014-08-04;Oxygenmætning;1.125;Bottom
+2014-08-04;Oxygenmætning;92.5;Surface
+2014-08-04;Salinitet;25.065;Bottom
+2014-08-04;Salinitet;23.36;Surface
+2014-08-04;Temperatur;20.46125;Bottom
+2014-08-04;Temperatur;21.33;Surface
+2014-08-11;Oxygen indhold;5.665;Bottom
+2014-08-11;Oxygen indhold;5.8025;Surface
+2014-08-11;Oxygenmætning;71.125;Bottom
+2014-08-11;Oxygenmætning;73.0;Surface
+2014-08-11;Salinitet;24.2375;Bottom
+2014-08-11;Salinitet;24.2;Surface
+2014-08-11;Temperatur;19.302500000000002;Bottom
+2014-08-11;Temperatur;19.31;Surface
+2014-08-13;Oxygen indhold;7.957777777777778;Bottom
+2014-08-13;Oxygen indhold;8.2;Surface
+2014-08-13;Oxygenmætning;97.66666666666667;Bottom
+2014-08-13;Oxygenmætning;100.5;Surface
+2014-08-13;Salinitet;23.876666666666665;Bottom
+2014-08-13;Salinitet;23.8325;Surface
+2014-08-13;Temperatur;18.26;Bottom
+2014-08-13;Temperatur;18.24;Surface
+2014-08-20;Oxygen indhold;8.968;Bottom
+2014-08-20;Oxygen indhold;9.0675;Surface
+2014-08-20;Oxygenmætning;107.0;Bottom
+2014-08-20;Oxygenmætning;108.0;Surface
+2014-08-20;Salinitet;24.4;Bottom
+2014-08-20;Salinitet;24.4;Surface
+2014-08-20;Temperatur;16.64;Bottom
+2014-08-20;Temperatur;16.6375;Surface
+2014-09-01;Oxygen indhold;0.48;Bottom
+2014-09-01;Oxygen indhold;8.5125;Surface
+2014-09-01;Oxygenmætning;5.875;Bottom
+2014-09-01;Oxygenmætning;100.0;Surface
+2014-09-01;Salinitet;24.825;Bottom
+2014-09-01;Salinitet;22.7675;Surface
+2014-09-01;Temperatur;16.28375;Bottom
+2014-09-01;Temperatur;16.31;Surface
+2014-09-09;Oxygen indhold;0.1825;Bottom
+2014-09-09;Oxygen indhold;5.695;Surface
+2014-09-09;Oxygenmætning;2.0;Bottom
+2014-09-09;Oxygenmætning;67.5;Surface
+2014-09-09;Salinitet;29.18625;Bottom
+2014-09-09;Salinitet;25.035;Surface
+2014-09-09;Temperatur;15.865;Bottom
+2014-09-09;Temperatur;16.1425;Surface
+2014-09-15;Oxygen indhold;8.403333333333334;Bottom
+2014-09-15;Oxygen indhold;8.55;Surface
+2014-09-15;Oxygenmætning;99.83333333333333;Bottom
+2014-09-15;Oxygenmætning;101.5;Surface
+2014-09-15;Salinitet;24.22666666666667;Bottom
+2014-09-15;Salinitet;24.21;Surface
+2014-09-15;Temperatur;16.378333333333334;Bottom
+2014-09-15;Temperatur;16.3925;Surface
+2014-09-29;Oxygen indhold;6.4;Bottom
+2014-09-29;Oxygen indhold;7.68;Surface
+2014-09-29;Oxygenmætning;74.75;Bottom
+2014-09-29;Oxygenmætning;88.75;Surface
+2014-09-29;Salinitet;26.2125;Bottom
+2014-09-29;Salinitet;25.705;Surface
+2014-09-29;Temperatur;14.99;Bottom
+2014-09-29;Temperatur;14.735;Surface
+2014-10-14;Oxygen indhold;8.73;Bottom
+2014-10-14;Oxygen indhold;9.6825;Surface
+2014-10-14;Oxygenmætning;96.16666666666667;Bottom
+2014-10-14;Oxygenmætning;106.0;Surface
+2014-10-14;Salinitet;24.80666666666667;Bottom
+2014-10-14;Salinitet;24.405;Surface
+2014-10-14;Temperatur;12.815;Bottom
+2014-10-14;Temperatur;12.5375;Surface
+2014-10-27;Oxygen indhold;8.059166666666668;Bottom
+2014-10-27;Oxygen indhold;8.385;Surface
+2014-10-27;Oxygenmætning;88.08333333333333;Bottom
+2014-10-27;Oxygenmætning;91.75;Surface
+2014-10-27;Salinitet;25.65833333333333;Bottom
+2014-10-27;Salinitet;25.384999999999998;Surface
+2014-10-27;Temperatur;12.103333333333333;Bottom
+2014-10-27;Temperatur;12.11;Surface
+2014-11-10;Oxygen indhold;7.53625;Bottom
+2014-11-10;Oxygen indhold;9.84;Surface
+2014-11-10;Oxygenmætning;80.25;Bottom
+2014-11-10;Oxygenmætning;99.0;Surface
+2014-11-10;Salinitet;26.259999999999998;Bottom
+2014-11-10;Salinitet;22.974999999999998;Surface
+2014-11-10;Temperatur;10.93625;Bottom
+2014-11-10;Temperatur;9.06;Surface
+2014-11-24;Oxygen indhold;8.1975;Bottom
+2014-11-24;Oxygen indhold;9.68;Surface
+2014-11-24;Oxygenmætning;84.0;Bottom
+2014-11-24;Oxygenmætning;94.0;Surface
+2014-11-24;Salinitet;25.86375;Bottom
+2014-11-24;Salinitet;22.59;Surface
+2014-11-24;Temperatur;9.175;Bottom
+2014-11-24;Temperatur;7.487500000000001;Surface
+2014-12-16;Oxygen indhold;10.16;Bottom
+2014-12-16;Oxygen indhold;10.635;Surface
+2014-12-16;Oxygenmætning;91.5;Bottom
+2014-12-16;Oxygenmætning;94.0;Surface
+2014-12-16;Salinitet;25.214;Bottom
+2014-12-16;Salinitet;23.6025;Surface
+2014-12-16;Temperatur;3.9159999999999995;Bottom
+2014-12-16;Temperatur;3.6025;Surface
+2015-01-05;Oxygen indhold;10.782222222222222;Bottom
+2015-01-05;Oxygen indhold;10.7325;Surface
+2015-01-05;Oxygenmætning;97.0;Bottom
+2015-01-05;Oxygenmætning;97.0;Surface
+2015-01-05;Salinitet;25.784444444444446;Bottom
+2015-01-05;Salinitet;25.735;Surface
+2015-01-05;Temperatur;3.7799999999999994;Bottom
+2015-01-05;Temperatur;3.78;Surface
+2015-02-03;Oxygen indhold;9.911111111111111;Bottom
+2015-02-03;Oxygen indhold;11.57;Surface
+2015-02-03;Oxygenmætning;86.55555555555556;Bottom
+2015-02-03;Oxygenmætning;96.75;Surface
+2015-02-03;Salinitet;26.15222222222222;Bottom
+2015-02-03;Salinitet;23.9375;Surface
+2015-02-03;Temperatur;2.5066666666666664;Bottom
+2015-02-03;Temperatur;1.2525;Surface
+2015-02-18;Oxygen indhold;11.192857142857141;Bottom
+2015-02-18;Oxygen indhold;11.6875;Surface
+2015-02-18;Oxygenmætning;97.0;Bottom
+2015-02-18;Oxygenmætning;100.0;Surface
+2015-02-18;Salinitet;25.91;Bottom
+2015-02-18;Salinitet;24.03;Surface
+2015-02-18;Temperatur;2.1471428571428572;Bottom
+2015-02-18;Temperatur;2.1825;Surface
+2015-03-02;Oxygen indhold;10.875;Bottom
+2015-03-02;Oxygen indhold;11.0925;Surface
+2015-03-02;Oxygenmætning;96.3;Bottom
+2015-03-02;Oxygenmætning;98.0;Surface
+2015-03-02;Salinitet;26.031;Bottom
+2015-03-02;Salinitet;24.6525;Surface
+2015-03-02;Temperatur;3.0420000000000003;Bottom
+2015-03-02;Temperatur;3.3;Surface
+2015-03-11;Oxygen indhold;11.52625;Bottom
+2015-03-11;Oxygen indhold;11.545;Surface
+2015-03-11;Oxygenmætning;105.75;Bottom
+2015-03-11;Oxygenmætning;106.0;Surface
+2015-03-11;Salinitet;25.39375;Bottom
+2015-03-11;Salinitet;25.285;Surface
+2015-03-11;Temperatur;4.535;Bottom
+2015-03-11;Temperatur;4.605;Surface
+2015-03-16;Oxygen indhold;11.128;Bottom
+2015-03-16;Oxygen indhold;11.1425;Surface
+2015-03-16;Oxygenmætning;101.0;Bottom
+2015-03-16;Oxygenmætning;101.0;Surface
+2015-03-16;Salinitet;23.074;Bottom
+2015-03-16;Salinitet;23.07;Surface
+2015-03-16;Temperatur;4.75;Bottom
+2015-03-16;Temperatur;4.75;Surface
+2015-04-07;Oxygen indhold;10.318333333333333;Bottom
+2015-04-07;Oxygen indhold;10.36;Surface
+2015-04-07;Oxygenmætning;97.66666666666667;Bottom
+2015-04-07;Oxygenmætning;98.0;Surface
+2015-04-07;Salinitet;23.573333333333334;Bottom
+2015-04-07;Salinitet;23.23;Surface
+2015-04-07;Temperatur;6.411666666666666;Bottom
+2015-04-07;Temperatur;6.54;Surface
+2015-05-05;Oxygen indhold;8.945714285714285;Bottom
+2015-05-05;Oxygen indhold;9.27;Surface
+2015-05-05;Oxygenmætning;94.42857142857143;Bottom
+2015-05-05;Oxygenmætning;98.0;Surface
+2015-05-05;Salinitet;24.485714285714288;Bottom
+2015-05-05;Salinitet;23.02;Surface
+2015-05-05;Temperatur;10.788571428571428;Bottom
+2015-05-05;Temperatur;11.2775;Surface
+2015-05-19;Oxygen indhold;9.0775;Bottom
+2015-05-19;Oxygen indhold;8.9875;Surface
+2015-05-19;Oxygenmætning;96.75;Bottom
+2015-05-19;Oxygenmætning;95.25;Surface
+2015-05-19;Salinitet;24.84125;Bottom
+2015-05-19;Salinitet;24.302500000000002;Surface
+2015-05-19;Temperatur;11.10875;Bottom
+2015-05-19;Temperatur;11.1625;Surface
+2015-06-04;Oxygen indhold;9.0525;Bottom
+2015-06-04;Oxygen indhold;9.0875;Surface
+2015-06-04;Oxygenmætning;99.5;Bottom
+2015-06-04;Oxygenmætning;100.0;Surface
+2015-06-04;Salinitet;24.47375;Bottom
+2015-06-04;Salinitet;24.377499999999998;Surface
+2015-06-04;Temperatur;12.615;Bottom
+2015-06-04;Temperatur;12.7225;Surface
+2015-06-15;Oxygen indhold;8.6;Bottom
+2015-06-15;Oxygen indhold;8.585;Surface
+2015-06-15;Oxygenmætning;99.125;Bottom
+2015-06-15;Oxygenmætning;99.0;Surface
+2015-06-15;Salinitet;23.8525;Bottom
+2015-06-15;Salinitet;23.7975;Surface
+2015-06-15;Temperatur;15.06;Bottom
+2015-06-15;Temperatur;15.055;Surface
+2015-06-29;Oxygen indhold;4.882857142857143;Bottom
+2015-06-29;Oxygen indhold;9.04;Surface
+2015-06-29;Oxygenmætning;56.42857142857143;Bottom
+2015-06-29;Oxygenmætning;104.75;Surface
+2015-06-29;Salinitet;26.565714285714286;Bottom
+2015-06-29;Salinitet;24.2925;Surface
+2015-06-29;Temperatur;14.561428571428573;Bottom
+2015-06-29;Temperatur;15.192499999999999;Surface
+2015-07-14;Oxygen indhold;5.075;Bottom
+2015-07-14;Oxygen indhold;8.3325;Surface
+2015-07-14;Oxygenmætning;60.0;Bottom
+2015-07-14;Oxygenmætning;99.25;Surface
+2015-07-14;Salinitet;26.43375;Bottom
+2015-07-14;Salinitet;25.47;Surface
+2015-07-14;Temperatur;15.61125;Bottom
+2015-07-14;Temperatur;16.3675;Surface
+2015-07-27;Oxygen indhold;7.83375;Bottom
+2015-07-27;Oxygen indhold;8.03;Surface
+2015-07-27;Oxygenmætning;93.125;Bottom
+2015-07-27;Oxygenmætning;93.0;Surface
+2015-07-27;Salinitet;25.47125;Bottom
+2015-07-27;Salinitet;24.045;Surface
+2015-07-27;Temperatur;16.1025;Bottom
+2015-07-27;Temperatur;15.34;Surface
+2015-08-11;Oxygen indhold;2.84375;Bottom
+2015-08-11;Oxygen indhold;9.217500000000001;Surface
+2015-08-11;Oxygenmætning;34.625;Bottom
+2015-08-11;Oxygenmætning;116.0;Surface
+2015-08-11;Salinitet;27.225;Bottom
+2015-08-11;Salinitet;24.1675;Surface
+2015-08-11;Temperatur;16.79;Bottom
+2015-08-11;Temperatur;19.487499999999997;Surface
+2015-08-18;Oxygen indhold;7.628333333333333;Bottom
+2015-08-18;Oxygen indhold;7.7175;Surface
+2015-08-18;Oxygenmætning;95.0;Bottom
+2015-08-18;Oxygenmætning;96.0;Surface
+2015-08-18;Salinitet;23.965;Bottom
+2015-08-18;Salinitet;23.78;Surface
+2015-08-18;Temperatur;18.895;Bottom
+2015-08-18;Temperatur;18.89;Surface
+2015-09-02;Oxygen indhold;7.21625;Bottom
+2015-09-02;Oxygen indhold;7.31;Surface
+2015-09-02;Oxygenmætning;87.375;Bottom
+2015-09-02;Oxygenmætning;88.25;Surface
+2015-09-02;Salinitet;25.13625;Bottom
+2015-09-02;Salinitet;25.03;Surface
+2015-09-02;Temperatur;17.10875;Bottom
+2015-09-02;Temperatur;17.13;Surface
+2015-09-14;Oxygen indhold;6.687142857142858;Bottom
+2015-09-14;Oxygen indhold;8.2575;Surface
+2015-09-14;Oxygenmætning;78.0;Bottom
+2015-09-14;Oxygenmætning;95.0;Surface
+2015-09-14;Salinitet;23.638571428571428;Bottom
+2015-09-14;Salinitet;21.7125;Surface
+2015-09-14;Temperatur;15.812857142857142;Bottom
+2015-09-14;Temperatur;15.71;Surface
+2015-09-29;Oxygen indhold;5.4471428571428575;Bottom
+2015-09-29;Oxygen indhold;10.81;Surface
+2015-09-29;Oxygenmætning;63.285714285714285;Bottom
+2015-09-29;Oxygenmætning;120.25;Surface
+2015-09-29;Salinitet;26.22;Bottom
+2015-09-29;Salinitet;23.535;Surface
+2015-09-29;Temperatur;14.884285714285713;Bottom
+2015-09-29;Temperatur;13.4875;Surface
+2015-10-14;Oxygen indhold;8.562000000000001;Bottom
+2015-10-14;Oxygen indhold;8.5375;Surface
+2015-10-14;Oxygenmætning;88.2;Bottom
+2015-10-14;Oxygenmætning;88.0;Surface
+2015-10-14;Salinitet;23.276;Bottom
+2015-10-14;Salinitet;23.262500000000003;Surface
+2015-10-14;Temperatur;10.05;Bottom
+2015-10-14;Temperatur;10.057500000000001;Surface
+2015-10-26;Oxygen indhold;8.527777777777779;Bottom
+2015-10-26;Oxygen indhold;8.69;Surface
+2015-10-26;Oxygenmætning;88.66666666666667;Bottom
+2015-10-26;Oxygenmætning;90.25;Surface
+2015-10-26;Salinitet;24.945555555555554;Bottom
+2015-10-26;Salinitet;24.795;Surface
+2015-10-26;Temperatur;10.033333333333333;Bottom
+2015-10-26;Temperatur;10.0775;Surface
+2015-11-18;Oxygen indhold;7.603;Bottom
+2015-11-18;Oxygen indhold;9.194285714285714;Surface
+2015-11-18;Oxygenmætning;77.83500000000001;Bottom
+2015-11-18;Oxygenmætning;90.53571428571429;Surface
+2015-11-18;Salinitet;25.494;Bottom
+2015-11-18;Salinitet;23.09714285714286;Surface
+2015-11-18;Temperatur;9.201;Bottom
+2015-11-18;Temperatur;8.142857142857142;Surface
+2015-11-30;Oxygen indhold;9.625384615384615;Bottom
+2015-11-30;Oxygen indhold;9.295;Surface
+2015-11-30;Oxygenmætning;93.0;Bottom
+2015-11-30;Oxygenmætning;89.75;Surface
+2015-11-30;Salinitet;26.340769230769233;Bottom
+2015-11-30;Salinitet;26.35;Surface
+2015-11-30;Temperatur;6.346153846153846;Bottom
+2015-11-30;Temperatur;6.342499999999999;Surface
+2015-12-15;Oxygen indhold;9.587142857142856;Bottom
+2015-12-15;Oxygen indhold;9.856;Surface
+2015-12-15;Oxygenmætning;89.42857142857143;Bottom
+2015-12-15;Oxygenmætning;91.4;Surface
+2015-12-15;Salinitet;25.05;Bottom
+2015-12-15;Salinitet;24.741999999999997;Surface
+2015-12-15;Temperatur;5.425714285714285;Bottom
+2015-12-15;Temperatur;5.17;Surface
+2016-01-05;Oxygen indhold;11.26;Bottom
+2016-01-05;Oxygen indhold;11.3375;Surface
+2016-01-05;Oxygenmætning;91.25;Bottom
+2016-01-05;Oxygenmætning;91.25;Surface
+2016-01-05;Salinitet;23.0975;Bottom
+2016-01-05;Salinitet;22.985;Surface
+2016-01-05;Temperatur;0.38;Bottom
+2016-01-05;Temperatur;0.2325;Surface
+2016-02-04;Oxygen indhold;10.466363636363637;Bottom
+2016-02-04;Oxygen indhold;10.4875;Surface
+2016-02-04;Oxygenmætning;90.0;Bottom
+2016-02-04;Oxygenmætning;90.5;Surface
+2016-02-04;Salinitet;24.628181818181815;Bottom
+2016-02-04;Salinitet;24.625;Surface
+2016-02-04;Temperatur;2.36;Bottom
+2016-02-04;Temperatur;2.3625;Surface
+2016-02-15;Oxygen indhold;11.908333333333333;Bottom
+2016-02-15;Oxygen indhold;11.8825;Surface
+2016-02-15;Oxygenmætning;99.66666666666667;Bottom
+2016-02-15;Oxygenmætning;98.0;Surface
+2016-02-15;Salinitet;21.855;Bottom
+2016-02-15;Salinitet;21.365000000000002;Surface
+2016-02-15;Temperatur;1.87;Bottom
+2016-02-15;Temperatur;1.6175000000000002;Surface
+2016-02-29;Oxygen indhold;10.914;Bottom
+2016-02-29;Oxygen indhold;11.906666666666666;Surface
+2016-02-29;Oxygenmætning;96.0;Bottom
+2016-02-29;Oxygenmætning;101.66666666666667;Surface
+2016-02-29;Salinitet;25.857999999999997;Bottom
+2016-02-29;Salinitet;23.61;Surface
+2016-02-29;Temperatur;2.7;Bottom
+2016-02-29;Temperatur;2.21;Surface
+2016-03-08;Oxygen indhold;11.3475;Bottom
+2016-03-08;Oxygen indhold;12.9325;Surface
+2016-03-08;Oxygenmætning;99.0;Bottom
+2016-03-08;Oxygenmætning;110.25;Surface
+2016-03-08;Salinitet;26.51125;Bottom
+2016-03-08;Salinitet;22.8375;Surface
+2016-03-08;Temperatur;2.3562499999999997;Bottom
+2016-03-08;Temperatur;2.4;Surface
+2016-03-16;Oxygen indhold;12.597999999999999;Bottom
+2016-03-16;Oxygen indhold;13.684999999999999;Surface
+2016-03-16;Oxygenmætning;112.2;Bottom
+2016-03-16;Oxygenmætning;122.0;Surface
+2016-03-16;Salinitet;26.121999999999996;Bottom
+2016-03-16;Salinitet;21.47;Surface
+2016-03-16;Temperatur;3.1399999999999997;Bottom
+2016-03-16;Temperatur;4.4775;Surface
+2016-04-04;Oxygen indhold;10.402857142857144;Bottom
+2016-04-04;Oxygen indhold;10.305;Surface
+2016-04-04;Oxygenmætning;99.0;Bottom
+2016-04-04;Oxygenmætning;98.0;Surface
+2016-04-04;Salinitet;24.505714285714284;Bottom
+2016-04-04;Salinitet;23.0525;Surface
+2016-04-04;Temperatur;6.352857142857142;Bottom
+2016-04-04;Temperatur;6.737500000000001;Surface
+2016-05-02;Oxygen indhold;10.493333333333334;Bottom
+2016-05-02;Oxygen indhold;10.5425;Surface
+2016-05-02;Oxygenmætning;103.83333333333333;Bottom
+2016-05-02;Oxygenmætning;104.0;Surface
+2016-05-02;Salinitet;23.828333333333333;Bottom
+2016-05-02;Salinitet;21.24;Surface
+2016-05-02;Temperatur;8.121666666666666;Bottom
+2016-05-02;Temperatur;8.8425;Surface
+2016-05-18;Oxygen indhold;9.402857142857144;Bottom
+2016-05-18;Oxygen indhold;9.2525;Surface
+2016-05-18;Oxygenmætning;103.57142857142857;Bottom
+2016-05-18;Oxygenmætning;101.0;Surface
+2016-05-18;Salinitet;24.58285714285714;Bottom
+2016-05-18;Salinitet;22.095;Surface
+2016-05-18;Temperatur;12.717142857142859;Bottom
+2016-05-18;Temperatur;13.122499999999999;Surface
+2016-06-02;Oxygen indhold;4.79;Bottom
+2016-06-02;Oxygen indhold;10.21;Surface
+2016-06-02;Oxygenmætning;58.333333333333336;Bottom
+2016-06-02;Oxygenmætning;127.0;Surface
+2016-06-02;Salinitet;22.765;Bottom
+2016-06-02;Salinitet;22.0075;Surface
+2016-06-02;Temperatur;18.135;Bottom
+2016-06-02;Temperatur;19.692500000000003;Surface
+2016-06-14;Oxygen indhold;6.682857142857143;Bottom
+2016-06-14;Oxygen indhold;8.3575;Surface
+2016-06-14;Oxygenmætning;80.85714285714286;Bottom
+2016-06-14;Oxygenmætning;100.0;Surface
+2016-06-14;Salinitet;22.277142857142856;Bottom
+2016-06-14;Salinitet;20.994999999999997;Surface
+2016-06-14;Temperatur;18.095714285714287;Bottom
+2016-06-14;Temperatur;17.744999999999997;Surface
+2016-06-27;Oxygen indhold;5.2700000000000005;Bottom
+2016-06-27;Oxygen indhold;8.085;Surface
+2016-06-27;Oxygenmætning;63.57142857142857;Bottom
+2016-06-27;Oxygenmætning;97.0;Surface
+2016-06-27;Salinitet;23.985714285714288;Bottom
+2016-06-27;Salinitet;22.695;Surface
+2016-06-27;Temperatur;17.345714285714287;Bottom
+2016-06-27;Temperatur;17.555;Surface
+2016-07-11;Oxygen indhold;7.11375;Bottom
+2016-07-11;Oxygen indhold;7.6850000000000005;Surface
+2016-07-11;Oxygenmætning;85.75;Bottom
+2016-07-11;Oxygenmætning;93.0;Surface
+2016-07-11;Salinitet;23.69625;Bottom
+2016-07-11;Salinitet;23.46;Surface
+2016-07-11;Temperatur;17.40625;Bottom
+2016-07-11;Temperatur;17.4925;Surface
+2016-07-25;Oxygen indhold;1.6271428571428572;Bottom
+2016-07-25;Oxygen indhold;10.765;Surface
+2016-07-25;Oxygenmætning;19.714285714285715;Bottom
+2016-07-25;Oxygenmætning;139.0;Surface
+2016-07-25;Salinitet;25.057142857142857;Bottom
+2016-07-25;Salinitet;20.655;Surface
+2016-07-25;Temperatur;17.307142857142857;Bottom
+2016-07-25;Temperatur;21.96;Surface
+2016-08-09;Oxygen indhold;8.52818181818182;Bottom
+2016-08-09;Oxygen indhold;8.022499999999999;Surface
+2016-08-09;Oxygenmætning;102.9090909090909;Bottom
+2016-08-09;Oxygenmætning;97.0;Surface
+2016-08-09;Salinitet;25.06090909090909;Bottom
+2016-08-09;Salinitet;25.064999999999998;Surface
+2016-08-09;Temperatur;17.087272727272726;Bottom
+2016-08-09;Temperatur;17.09;Surface
+2016-08-24;Oxygen indhold;2.04;Bottom
+2016-08-24;Oxygen indhold;12.09;Surface
+2016-08-24;Oxygenmætning;24.857142857142858;Bottom
+2016-08-24;Oxygenmætning;147.5;Surface
+2016-08-24;Salinitet;27.034285714285716;Bottom
+2016-08-24;Salinitet;22.335;Surface
+2016-08-24;Temperatur;16.81142857142857;Bottom
+2016-08-24;Temperatur;18.48;Surface
+2016-09-07;Oxygen indhold;2.8042857142857143;Bottom
+2016-09-07;Oxygen indhold;7.9925;Surface
+2016-09-07;Oxygenmætning;34.142857142857146;Bottom
+2016-09-07;Oxygenmætning;97.25;Surface
+2016-09-07;Salinitet;26.044285714285714;Bottom
+2016-09-07;Salinitet;24.8675;Surface
+2016-09-07;Temperatur;17.419999999999998;Bottom
+2016-09-07;Temperatur;17.54;Surface
+2016-09-20;Oxygen indhold;0.3657142857142857;Bottom
+2016-09-20;Oxygen indhold;10.275;Surface
+2016-09-20;Oxygenmætning;4.571428571428571;Bottom
+2016-09-20;Oxygenmætning;124.75;Surface
+2016-09-20;Salinitet;27.195714285714285;Bottom
+2016-09-20;Salinitet;23.28;Surface
+2016-09-20;Temperatur;17.838571428571427;Bottom
+2016-09-20;Temperatur;17.8325;Surface
+2016-10-03;Oxygen indhold;7.242857142857143;Bottom
+2016-10-03;Oxygen indhold;7.2725;Surface
+2016-10-03;Oxygenmætning;83.14285714285714;Bottom
+2016-10-03;Oxygenmætning;83.75;Surface
+2016-10-03;Salinitet;25.77857142857143;Bottom
+2016-10-03;Salinitet;25.6725;Surface
+2016-10-03;Temperatur;14.527142857142858;Bottom
+2016-10-03;Temperatur;14.4975;Surface
+2016-10-17;Oxygen indhold;8.01;Bottom
+2016-10-17;Oxygen indhold;9.005;Surface
+2016-10-17;Oxygenmætning;80.6;Bottom
+2016-10-17;Oxygenmætning;86.0;Surface
+2016-10-17;Salinitet;23.95;Bottom
+2016-10-17;Salinitet;16.8325;Surface
+2016-10-17;Temperatur;8.867999999999999;Bottom
+2016-10-17;Temperatur;8.4925;Surface
+2016-11-04;Oxygen indhold;10.02;Bottom
+2016-11-04;Oxygen indhold;10.1575;Surface
+2016-11-04;Oxygenmætning;98.85714285714286;Bottom
+2016-11-04;Oxygenmætning;98.0;Surface
+2016-11-04;Salinitet;25.02285714285714;Bottom
+2016-11-04;Salinitet;23.5825;Surface
+2016-11-04;Temperatur;7.651428571428572;Bottom
+2016-11-04;Temperatur;7.195;Surface
+2016-12-09;Oxygen indhold;10.373333333333333;Bottom
+2016-12-09;Oxygen indhold;10.4825;Surface
+2016-12-09;Oxygenmætning;95.44444444444444;Bottom
+2016-12-09;Oxygenmætning;97.0;Surface
+2016-12-09;Salinitet;24.986666666666665;Bottom
+2016-12-09;Salinitet;24.622500000000002;Surface
+2016-12-09;Temperatur;4.8244444444444445;Bottom
+2016-12-09;Temperatur;4.95;Surface
+2016-12-19;Oxygen indhold;9.3025;Bottom
+2016-12-19;Oxygen indhold;10.575;Surface
+2016-12-19;Oxygenmætning;87.0;Bottom
+2016-12-19;Oxygenmætning;94.25;Surface
+2016-12-19;Salinitet;26.93;Bottom
+2016-12-19;Salinitet;23.19;Surface
+2016-12-19;Temperatur;4.9375;Bottom
+2016-12-19;Temperatur;4.0275;Surface
+2017-01-02;Oxygen indhold;10.283333333333333;Bottom
+2017-01-02;Oxygen indhold;10.4;Surface
+2017-01-02;Oxygenmætning;95.22222222222223;Bottom
+2017-01-02;Oxygenmætning;95.0;Surface
+2017-01-02;Salinitet;26.073333333333334;Bottom
+2017-01-02;Salinitet;25.1;Surface
+2017-01-02;Temperatur;4.764444444444445;Bottom
+2017-01-02;Temperatur;4.385;Surface
+2017-01-18;Oxygen indhold;10.631666666666668;Bottom
+2017-01-18;Oxygen indhold;11.3075;Surface
+2017-01-18;Oxygenmætning;93.16666666666667;Bottom
+2017-01-18;Oxygenmætning;95.25;Surface
+2017-01-18;Salinitet;25.991666666666664;Bottom
+2017-01-18;Salinitet;24.5925;Surface
+2017-01-18;Temperatur;2.558333333333333;Bottom
+2017-01-18;Temperatur;1.5;Surface
+2017-02-08;Oxygen indhold;11.885000000000002;Bottom
+2017-02-08;Oxygen indhold;11.61;Surface
+2017-02-08;Oxygenmætning;99.0;Bottom
+2017-02-08;Oxygenmætning;97.0;Surface
+2017-02-08;Salinitet;24.105;Bottom
+2017-02-08;Salinitet;24.0475;Surface
+2017-02-08;Temperatur;1.165;Bottom
+2017-02-08;Temperatur;1.1675;Surface
+2017-02-20;Oxygen indhold;11.908750000000001;Bottom
+2017-02-20;Oxygen indhold;11.807500000000001;Surface
+2017-02-20;Oxygenmætning;103.125;Bottom
+2017-02-20;Oxygenmætning;102.0;Surface
+2017-02-20;Salinitet;26.0675;Bottom
+2017-02-20;Salinitet;26.01;Surface
+2017-02-20;Temperatur;2.145;Bottom
+2017-02-20;Temperatur;2.185;Surface
+2017-03-06;Oxygen indhold;10.878;Bottom
+2017-03-06;Oxygen indhold;10.6525;Surface
+2017-03-06;Oxygenmætning;97.0;Bottom
+2017-03-06;Oxygenmætning;95.0;Surface
+2017-03-06;Salinitet;24.694;Bottom
+2017-03-06;Salinitet;24.69;Surface
+2017-03-06;Temperatur;3.69;Bottom
+2017-03-06;Temperatur;3.6875;Surface
+2017-03-21;Oxygen indhold;10.621111111111112;Bottom
+2017-03-21;Oxygen indhold;10.6525;Surface
+2017-03-21;Oxygenmætning;97.77777777777777;Bottom
+2017-03-21;Oxygenmætning;98.0;Surface
+2017-03-21;Salinitet;25.302222222222223;Bottom
+2017-03-21;Salinitet;25.057499999999997;Surface
+2017-03-21;Temperatur;4.688888888888889;Bottom
+2017-03-21;Temperatur;4.765;Surface
+2017-04-03;Oxygen indhold;11.90857142857143;Bottom
+2017-04-03;Oxygen indhold;10.425;Surface
+2017-04-03;Oxygenmætning;113.42857142857143;Bottom
+2017-04-03;Oxygenmætning;101.75;Surface
+2017-04-03;Salinitet;26.29;Bottom
+2017-04-03;Salinitet;24.77;Surface
+2017-04-03;Temperatur;5.865714285714286;Bottom
+2017-04-03;Temperatur;7.285;Surface
+2017-04-18;Oxygen indhold;10.084999999999999;Bottom
+2017-04-18;Oxygen indhold;10.344999999999999;Surface
+2017-04-18;Oxygenmætning;98.5;Bottom
+2017-04-18;Oxygenmætning;100.0;Surface
+2017-04-18;Salinitet;23.811666666666667;Bottom
+2017-04-18;Salinitet;23.1825;Surface
+2017-04-18;Temperatur;7.601666666666667;Bottom
+2017-04-18;Temperatur;7.3475;Surface
+2017-05-03;Oxygen indhold;9.68;Bottom
+2017-05-03;Oxygen indhold;10.535;Surface
+2017-05-03;Oxygenmætning;99.8;Bottom
+2017-05-03;Oxygenmætning;107.5;Surface
+2017-05-03;Salinitet;23.246000000000002;Bottom
+2017-05-03;Salinitet;22.79;Surface
+2017-05-03;Temperatur;10.062000000000001;Bottom
+2017-05-03;Temperatur;9.754999999999999;Surface
+2017-05-15;Oxygen indhold;8.825714285714286;Bottom
+2017-05-15;Oxygen indhold;11.0225;Surface
+2017-05-15;Oxygenmætning;93.28571428571429;Bottom
+2017-05-15;Oxygenmætning;120.0;Surface
+2017-05-15;Salinitet;26.987142857142857;Bottom
+2017-05-15;Salinitet;22.7175;Surface
+2017-05-15;Temperatur;10.040000000000001;Bottom
+2017-05-15;Temperatur;12.73;Surface
+2017-06-06;Oxygen indhold;6.657500000000001;Bottom
+2017-06-06;Oxygen indhold;8.432500000000001;Surface
+2017-06-06;Oxygenmætning;77.25;Bottom
+2017-06-06;Oxygenmætning;98.0;Surface
+2017-06-06;Salinitet;25.68;Bottom
+2017-06-06;Salinitet;25.0825;Surface
+2017-06-06;Temperatur;14.82875;Bottom
+2017-06-06;Temperatur;15.035;Surface
+2017-06-19;Oxygen indhold;6.9957142857142856;Bottom
+2017-06-19;Oxygen indhold;9.115;Surface
+2017-06-19;Oxygenmætning;86.0;Bottom
+2017-06-19;Oxygenmætning;114.25;Surface
+2017-06-19;Salinitet;25.75;Bottom
+2017-06-19;Salinitet;25.1475;Surface
+2017-06-19;Temperatur;17.807142857142857;Bottom
+2017-06-19;Temperatur;18.9;Surface
+2017-07-03;Oxygen indhold;7.510909090909092;Bottom
+2017-07-03;Oxygen indhold;7.655;Surface
+2017-07-03;Oxygenmætning;89.27272727272727;Bottom
+2017-07-03;Oxygenmætning;91.0;Surface
+2017-07-03;Salinitet;25.152727272727272;Bottom
+2017-07-03;Salinitet;25.08;Surface
+2017-07-03;Temperatur;16.227272727272727;Bottom
+2017-07-03;Temperatur;16.2225;Surface
+2017-07-24;Oxygen indhold;6.012857142857143;Bottom
+2017-07-24;Oxygen indhold;8.798;Surface
+2017-07-24;Oxygenmætning;74.14285714285714;Bottom
+2017-07-24;Oxygenmætning;107.2;Surface
+2017-07-24;Salinitet;25.13714285714286;Bottom
+2017-07-24;Salinitet;24.472;Surface
+2017-07-24;Temperatur;18.055714285714284;Bottom
+2017-07-24;Temperatur;17.78;Surface
+2017-08-07;Oxygen indhold;6.61;Bottom
+2017-08-07;Oxygen indhold;6.8575;Surface
+2017-08-07;Oxygenmætning;82.0;Bottom
+2017-08-07;Oxygenmætning;85.0;Surface
+2017-08-07;Salinitet;27.563333333333333;Bottom
+2017-08-07;Salinitet;27.372500000000002;Surface
+2017-08-07;Temperatur;17.592222222222222;Bottom
+2017-08-07;Temperatur;17.5975;Surface
+2017-08-16;Oxygen indhold;5.468571428571429;Bottom
+2017-08-16;Oxygen indhold;8.765;Surface
+2017-08-16;Oxygenmætning;66.85714285714286;Bottom
+2017-08-16;Oxygenmætning;105.5;Surface
+2017-08-16;Salinitet;26.414285714285715;Bottom
+2017-08-16;Salinitet;24.8625;Surface
+2017-08-16;Temperatur;17.21;Bottom
+2017-08-16;Temperatur;17.017500000000002;Surface
+2017-08-28;Oxygen indhold;2.0124999999999997;Bottom
+2017-08-28;Oxygen indhold;9.964;Surface
+2017-08-28;Oxygenmætning;24.75;Bottom
+2017-08-28;Oxygenmætning;120.6;Surface
+2017-08-28;Salinitet;27.1275;Bottom
+2017-08-28;Salinitet;24.894;Surface
+2017-08-28;Temperatur;17.57125;Bottom
+2017-08-28;Temperatur;17.214;Surface
+2017-09-12;Oxygen indhold;3.48;Bottom
+2017-09-12;Oxygen indhold;6.975;Surface
+2017-09-12;Oxygenmætning;42.25;Bottom
+2017-09-12;Oxygenmætning;82.0;Surface
+2017-09-12;Salinitet;27.915;Bottom
+2017-09-12;Salinitet;25.5175;Surface
+2017-09-12;Temperatur;16.5575;Bottom
+2017-09-12;Temperatur;15.7225;Surface
+2017-10-03;Oxygen indhold;4.507777777777778;Bottom
+2017-10-03;Oxygen indhold;7.363333333333333;Surface
+2017-10-03;Oxygenmætning;52.77777777777778;Bottom
+2017-10-03;Oxygenmætning;84.0;Surface
+2017-10-03;Salinitet;27.492222222222225;Bottom
+2017-10-03;Salinitet;25.069999999999997;Surface
+2017-10-03;Temperatur;14.870000000000001;Bottom
+2017-10-03;Temperatur;14.17;Surface
+2017-10-18;Oxygen indhold;8.088888888888889;Bottom
+2017-10-18;Oxygen indhold;8.4675;Surface
+2017-10-18;Oxygenmætning;89.33333333333333;Bottom
+2017-10-18;Oxygenmætning;93.25;Surface
+2017-10-18;Salinitet;25.982222222222223;Bottom
+2017-10-18;Salinitet;25.545;Surface
+2017-10-18;Temperatur;12.464444444444444;Bottom
+2017-10-18;Temperatur;12.515;Surface
+2017-10-30;Oxygen indhold;8.632222222222222;Bottom
+2017-10-30;Oxygen indhold;8.5125;Surface
+2017-10-30;Oxygenmætning;90.55555555555556;Bottom
+2017-10-30;Oxygenmætning;88.25;Surface
+2017-10-30;Salinitet;25.66444444444444;Bottom
+2017-10-30;Salinitet;24.925;Surface
+2017-10-30;Temperatur;10.11888888888889;Bottom
+2017-10-30;Temperatur;10.0;Surface
+2017-11-21;Oxygen indhold;9.057142857142857;Bottom
+2017-11-21;Oxygen indhold;9.26;Surface
+2017-11-21;Oxygenmætning;87.28571428571429;Bottom
+2017-11-21;Oxygenmætning;88.0;Surface
+2017-11-21;Salinitet;26.125714285714285;Bottom
+2017-11-21;Salinitet;25.585199999999997;Surface
+2017-11-21;Temperatur;6.541857142857142;Bottom
+2017-11-21;Temperatur;5.8872;Surface
+2017-12-06;Oxygen indhold;10.477777777777778;Bottom
+2017-12-06;Oxygen indhold;10.42;Surface
+2017-12-06;Oxygenmætning;97.11111111111111;Bottom
+2017-12-06;Oxygenmætning;97.0;Surface
+2017-12-06;Salinitet;25.419555555555558;Bottom
+2017-12-06;Salinitet;25.073;Surface
+2017-12-06;Temperatur;5.041666666666667;Bottom
+2017-12-06;Temperatur;5.085;Surface
+2017-12-19;Oxygen indhold;9.728571428571428;Bottom
+2017-12-19;Oxygen indhold;10.9;Surface
+2017-12-19;Oxygenmætning;89.28571428571429;Bottom
+2017-12-19;Oxygenmætning;93.0;Surface
+2017-12-19;Salinitet;27.300285714285714;Bottom
+2017-12-19;Salinitet;23.7586;Surface
+2017-12-19;Temperatur;4.002;Bottom
+2017-12-19;Temperatur;2.1264;Surface
