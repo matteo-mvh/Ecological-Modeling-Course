@@ -30,6 +30,7 @@ Typical code in this repo includes:
 ```text
 Ecological-Modeling-Course/
 ├── README.md
+├── modelcode.py
 └── exercises/
     ├── 1/
     │   ├── Exercise 1.py
@@ -43,9 +44,21 @@ Ecological-Modeling-Course/
     ├── 4/
     │   ├── Exercise 4.py
     │   └── Exercise 4.pdf
-    └── 5/
-        ├── Exercise 5.py
-        └── Exercise 5.pdf
+    ├── 5/
+    │   ├── Exercise 5.py
+    │   └── Exercise 5.pdf
+    ├── 6/
+    │   ├── Exercise 6.py
+    │   └── Exercise 6.pdf
+    ├── 7/
+    │   ├── plotting_7.py
+    │   └── Exercise 7.pdf
+    ├── 8/
+    │   ├── plotting_8.py
+    │   └── Exercise 8.pdf
+    └── 9/
+        ├── plotting_9.py
+        └── Exercise 9.pdf
 ```
 
 ### Folder and file roles
@@ -55,6 +68,9 @@ Ecological-Modeling-Course/
 
 - `exercises/<n>/Exercise <n>.py`  
   Python implementation corresponding to that exercise.
+
+- `modelcode.py`  
+  Main ecological model code developed for the course.
 
 ## Step-by-step development path in this course
 
@@ -81,12 +97,22 @@ In the broader course context, this hands-on coding phase is complemented by wor
 
 1. Start with `exercises/1/Exercise 1.pdf` and read the task description.
 2. Open and run `exercises/1/Exercise 1.py`.
-3. Continue sequentially through exercises 2 → 5.
+3. Continue sequentially through the exercises.
 4. Compare your implementation choices and outputs with the conceptual expectations in each PDF.
 5. Use later exercises as templates for your own extended project model.
+
+## Important files for the reports
+
+### Report 1
+
+The most important file for **Report 1** is the **model code in the main directory**, as this contains the core ecological model implementation used in the report.
+
+### Report 2
+
+The most important files for **Report 2** are the **plotting and analysis files in `exercises/7` to `exercises/9`**, since these folders contain the scripts used for visualization, scenario comparison, and interpretation of results.
 
 ## Notes
 
 - Scripts are arranged for course progression and may depend on concepts introduced in earlier exercises.
-- File names include spaces to match assignment naming.
+- File names include spaces to match assignment naming where relevant.
 - This repository is best read as a learning portfolio that documents model development over the semester.
