@@ -359,7 +359,7 @@ for i, cfg in enumerate(scatter_vars):
         surf_df=cfg["surf_df"],
         bot_df=cfg["bot_df"],
         model_col=model_col,
-        max_time_diff="12h"   # change if needed
+        max_time_diff="12h"
     )
 
     if len(matched) == 0:
@@ -381,37 +381,38 @@ for i, cfg in enumerate(scatter_vars):
     ax.plot([xy_min, xy_max], [xy_min, xy_max], linestyle="--", linewidth=1)
 
     # Pearson correlation R
-    R_all = matched["obs"].corr(matched["model"]) if len(matched) >= 2 else np.nan
+    R_all  = matched["obs"].corr(matched["model"]) if len(matched) >= 2 else np.nan
     R_surf = surf["obs"].corr(surf["model"]) if len(surf) >= 2 else np.nan
     R_bot  = bot["obs"].corr(bot["model"]) if len(bot) >= 2 else np.nan
-    
+
     # RMSE
-    if len(matched) > 0:
-        rmse_all = np.sqrt(np.mean((matched["model"] - matched["obs"])**2))
-    else:
-        rmse_all = np.nan
-    
-    if len(surf) > 0:
-        rmse_surf = np.sqrt(np.mean((surf["model"] - surf["obs"])**2))
-    else:
-        rmse_surf = np.nan
-    
-    if len(bot) > 0:
-        rmse_bot = np.sqrt(np.mean((bot["model"] - bot["obs"])**2))
-    else:
-        rmse_bot = np.nan
-    
+    rmse_all  = np.sqrt(np.mean((matched["model"] - matched["obs"])**2)) if len(matched) > 0 else np.nan
+    rmse_surf = np.sqrt(np.mean((surf["model"] - surf["obs"])**2)) if len(surf) > 0 else np.nan
+    rmse_bot  = np.sqrt(np.mean((bot["model"] - bot["obs"])**2)) if len(bot) > 0 else np.nan
+
+    # NRMSE = RMSE / std(obs)
+    std_all  = matched["obs"].std(ddof=0) if len(matched) > 1 else np.nan
+    std_surf = surf["obs"].std(ddof=0) if len(surf) > 1 else np.nan
+    std_bot  = bot["obs"].std(ddof=0) if len(bot) > 1 else np.nan
+
+    nrmse_all  = rmse_all / std_all if pd.notna(std_all) and std_all != 0 else np.nan
+    nrmse_surf = rmse_surf / std_surf if pd.notna(std_surf) and std_surf != 0 else np.nan
+    nrmse_bot  = rmse_bot / std_bot if pd.notna(std_bot) and std_bot != 0 else np.nan
+
     ax.text(
         0.05, 0.95,
         f"R(all) = {R_all:.2f}\n"
         f"R(surf) = {R_surf:.2f}\n"
-        f"R(bot) = {R_bot:.2f}\n",
+        f"R(bot) = {R_bot:.2f}\n"
+        f"NRMSE(all) = {nrmse_all:.2f}\n"
+        f"NRMSE(surf) = {nrmse_surf:.2f}\n"
+        f"NRMSE(bot) = {nrmse_bot:.2f}",
         transform=ax.transAxes,
         ha="left",
         va="top",
         bbox=dict(facecolor="white", alpha=0.8, edgecolor="none")
     )
-    
+
     ax.set_title(cfg["label"])
     ax.set_xlabel(f'Observed [{cfg["unit"]}]')
     ax.set_ylabel(f'Modeled [{cfg["unit"]}]')
@@ -420,7 +421,6 @@ for i, cfg in enumerate(scatter_vars):
 
 plt.tight_layout()
 plt.show()
-
 
 # ============================================================
 # BIAS PLOTS: MODELED - OBSERVED
