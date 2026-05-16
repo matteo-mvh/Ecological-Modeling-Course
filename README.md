@@ -1,92 +1,88 @@
 # Ecological Modeling Course Repository
 
-This repository contains step-by-step programming exercises developed during a university course in **computational aquatic ecology**. The codebase is focused on learning how to build and evaluate ecological models of a water column, progressing from basic numerical methods to integrated ecosystem simulations.
+This repository contains the Python code used for the final ecological modeling project in the course **Computational Marine Ecological Modelling**.
 
-## Course purpose
+The project implements a vertically resolved **SNPZDO model**:  
+**Silicate – Nutrients – Phytoplankton – Zooplankton – Detritus – Oxygen**.
 
-The overall goal of the course is to train students to:
+The model extends a baseline NPZDO water-column model by adding:
 
-- formulate new ecological models and sub-models,
-- implement numerical solutions to process-based equations,
-- build and analyze **NPZD** models (Nutrients–Phytoplankton–Zooplankton–Detritus),
-- understand advection/diffusion in partial differential equations,
-- parameterize and interpret 1D water-column ecosystem models,
-- evaluate strengths/limitations of NPZD approaches (e.g., spring/autumn bloom dynamics),
-- gain practical familiarity with professional tools such as **MIKE EcoLab**.
+- dissolved silicate,
+- diatom nitrogen biomass,
+- living diatom silica,
+- biogenic silica detritus,
+- an internal silicon quota formulation,
+- quota-dependent diatom growth,
+- and optional quota-dependent grazing protection.
 
-## What kind of code is written here?
+The model can also be run in an NPZDO-like configuration by setting the initial silicate concentration to zero. In that case, diatom growth is suppressed and the system behaves like a non-silicate model.
 
-The repository consists of educational Python scripts, each script corresponding to one exercise in the course progression. The code is intended for learning and experimentation rather than production software.
+---
 
-Typical code in this repo includes:
+## Main scripts
 
-- numerical modeling workflows for ecological and hydrographic processes,
-- implementations of finite-difference style updates for time/space dynamics,
-- parameter setup and unit handling for ecological state variables,
-- simulation-oriented scripts that help build toward a full 1D NPZD water-column model.
+### `ModelCode.py`
+
+`ModelCode.py` is the main single-run version of the model.
+
+It contains:
+
+- the full SNPZDO model implementation,
+- the state variables,
+- the process equations,
+- the parameter setup,
+- initial-condition construction,
+- numerical integration,
+- diagnostics,
+- and saving/loading of cached model runs.
+
+This script is useful for running one representative simulation and checking the seasonal behaviour of the model in detail.
+
+---
+
+### `ModelSweep.py`
+
+`ModelSweep.py` runs the model repeatedly over different initial nutrient and silicate conditions.
+
+It is used for nutrient--silicate experiments where the model is evaluated across many combinations of initial total nitrogen and initial total silicate.
+
+The sweep script uses the same model structure as `ModelCode.py`, but repeats the simulation for many cases and saves each completed run.
+
+---
+
+### `PlotDepthProfiles.py`
+
+`PlotDepthProfiles.py` is used to plot selected depth profiles from saved model runs.
+
+It can access cached outputs created by either `ModelCode.py` or `ModelSweep.py`.
+
+---
+
+## Cached model runs
+
+Both `ModelCode.py` and `ModelSweep.py` create hashed model runs.
+
+Each run is saved using a parameter-based hash and a case-specific identifier. This means that completed simulations can be accessed again without rerunning the full model.
+
+The caching system allows:
+
+- single runs to be reused by sweep scripts,
+- sweep outputs to be opened again for plotting,
+- diagnostics to be regenerated from saved results,
+- and repeated model experiments to avoid unnecessary recomputation.
+
+In practice, `ModelCode.py` and `ModelSweep.py` can access each other's saved outputs as long as the parameter hash and initial-condition case match. If a run already exists, it can be loaded from cache; if not, rerunning the script will create the missing cached run.
+
+---
 
 ## Repository structure
 
 ```text
 Ecological-Modeling-Course/
+├── ModelCode.py
+├── ModelSweep.py
+├── PlotDepthProfiles.py
 ├── README.md
-└── exercises/
-    ├── 1/
-    │   ├── Exercise 1.py
-    │   └── Exercise 1.pdf
-    ├── 2/
-    │   ├── Exercise 2.py
-    │   └── Exercise 2.pdf
-    ├── 3/
-    │   ├── Exercise 3.py
-    │   └── Exercise 3.pdf
-    ├── 4/
-    │   ├── Exercise 4.py
-    │   └── Exercise 4.pdf
-    └── 5/
-        ├── Exercise 5.py
-        └── Exercise 5.pdf
-```
-
-### Folder and file roles
-
-- `exercises/<n>/Exercise <n>.pdf`  
-  Assignment description, theory, and expected outcomes for each exercise.
-
-- `exercises/<n>/Exercise <n>.py`  
-  Python implementation corresponding to that exercise.
-
-## Step-by-step development path in this course
-
-The exercises are organized in increasing complexity. A typical learning trajectory is:
-
-1. **Foundations of numerical ecological modeling**  
-   Set up basic variables, equations, and simple numerical updates.
-
-2. **Advection and diffusion in 1D**  
-   Implement finite-difference approximations for transport and mixing processes.
-
-3. **Core ecosystem process representation**  
-   Add biological process terms relevant to NPZD dynamics.
-
-4. **Water-column NPZD integration**  
-   Combine physical and biological components into a vertically resolved model.
-
-5. **Seasonal simulation and interpretation**  
-   Use forcing (e.g., wind/temperature seasonality), run scenarios, and interpret bloom and production patterns.
-
-In the broader course context, this hands-on coding phase is complemented by work with **MIKE EcoLab** and a final project where students either extend these models or apply professional tools to a practical ecological problem.
-
-## How to use this repository
-
-1. Start with `exercises/1/Exercise 1.pdf` and read the task description.
-2. Open and run `exercises/1/Exercise 1.py`.
-3. Continue sequentially through exercises 2 → 5.
-4. Compare your implementation choices and outputs with the conceptual expectations in each PDF.
-5. Use later exercises as templates for your own extended project model.
-
-## Notes
-
-- Scripts are arranged for course progression and may depend on concepts introduced in earlier exercises.
-- File names include spaces to match assignment naming.
-- This repository is best read as a learning portfolio that documents model development over the semester.
+├── exercises/
+├── project/
+└── results_files/
