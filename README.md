@@ -1,81 +1,76 @@
-# Ecological Modeling Course Repository
+# SNPZDO Marine Ecological Model
 
-This repository contains the Python code used for the final ecological modeling project in the course **Computational Marine Ecological Modelling**.
+> **Project type:** DTU University Course Project  
+> **Course:** Computational Marine Ecological Modelling  
+> **Field:** Marine ecology · biogeochemistry · numerical modelling  
+> **Language:** Python
 
-The project implements a vertically resolved **SNPZDO model**:  
-**Silicate – Nutrients – Phytoplankton – Zooplankton – Detritus – Oxygen**.
+## Overview
 
-The model extends a baseline NPZDO water-column model by adding:
+This project develops a vertically resolved **SNPZDO marine ecosystem model**:
 
-- dissolved silicate,
-- diatom nitrogen biomass,
-- living diatom silica,
-- biogenic silica detritus,
-- an internal silicon quota formulation,
-- quota-dependent diatom growth,
-- and optional quota-dependent grazing protection.
+**Silicate – Nutrients – Phytoplankton – Zooplankton – Detritus – Oxygen**
 
-The model can also be run in an NPZDO-like configuration by setting the initial silicate concentration to zero. In that case, diatom growth is suppressed and the system behaves like a non-silicate model.
+The model extends a traditional NPZDO water-column ecosystem model by explicitly introducing **silicate and diatom dynamics**.
 
----
+The aim is to investigate how nutrient and silicate availability influence phytoplankton community structure, biological production and oxygen dynamics in the water column.
 
-## Main scripts
+## Scientific Motivation
+
+Diatoms are major contributors to marine primary production and differ from many other phytoplankton groups because they require **silicate** to construct their frustules.
+
+Adding silicate therefore allows the model to represent competition between phytoplankton groups and investigate how changes in nutrient supply affect:
+
+- diatom abundance
+- primary production
+- detritus formation
+- remineralisation
+- oxygen consumption
+- seasonal ecosystem dynamics
+
+## Model Extension
+
+The baseline NPZDO model was extended with:
+
+- dissolved silicate
+- diatom nitrogen biomass
+- living diatom silica
+- biogenic silica detritus
+- an internal silicon quota
+- quota-dependent diatom growth
+- optional quota-dependent grazing protection
+
+The model can also approximate the original NPZDO system by setting initial silicate concentrations to zero, thereby suppressing diatom growth.
+
+## Main Components
 
 ### `ModelCode.py`
 
-`ModelCode.py` is the main single-run version of the model.
+Primary single-simulation model.
 
-It contains:
+Contains:
 
-- the full SNPZDO model implementation,
-- the state variables,
-- the process equations,
-- the parameter setup,
-- initial-condition construction,
-- numerical integration,
-- diagnostics,
-- and saving/loading of cached model runs.
+- state variables
+- model equations
+- parameters
+- initial conditions
+- numerical integration
+- diagnostics
+- model-output caching
 
-This script is useful for running one representative simulation and checking the seasonal behaviour of the model in detail.
-
----
+This script is useful for analysing the seasonal development of an individual simulation.
 
 ### `ModelSweep.py`
 
-`ModelSweep.py` runs the model repeatedly over different initial nutrient and silicate conditions.
+Runs the model across combinations of initial nutrient and silicate concentrations.
 
-It is used for nutrient--silicate experiments where the model is evaluated across many combinations of initial total nitrogen and initial total silicate.
-
-The sweep script uses the same model structure as `ModelCode.py`, but repeats the simulation for many cases and saves each completed run.
-
----
+This allows systematic exploration of how ecosystem behaviour changes across different nutrient environments.
 
 ### `PlotDepthProfiles.py`
 
-`PlotDepthProfiles.py` is used to plot selected depth profiles from saved model runs.
+Loads saved model simulations and generates selected vertical profiles for analysing water-column structure.
 
-It can access cached outputs created by either `ModelCode.py` or `ModelSweep.py`.
-
----
-
-## Cached model runs
-
-Both `ModelCode.py` and `ModelSweep.py` create hashed model runs.
-
-Each run is saved using a parameter-based hash and a case-specific identifier. This means that completed simulations can be accessed again without rerunning the full model.
-
-The caching system allows:
-
-- single runs to be reused by sweep scripts,
-- sweep outputs to be opened again for plotting,
-- diagnostics to be regenerated from saved results,
-- and repeated model experiments to avoid unnecessary recomputation.
-
-In practice, `ModelCode.py` and `ModelSweep.py` can access each other's saved outputs as long as the parameter hash and initial-condition case match. If a run already exists, it can be loaded from cache; if not, rerunning the script will create the missing cached run.
-
----
-
-## Repository structure
+## Repository Structure
 
 ```text
 Ecological-Modeling-Course/
@@ -86,3 +81,55 @@ Ecological-Modeling-Course/
 ├── exercises/
 ├── project/
 └── results_files/
+```
+
+## Model Experiments
+
+The repository supports experiments including:
+
+- changing initial nitrogen availability
+- changing initial silicate availability
+- comparing NPZDO and SNPZDO configurations
+- evaluating diatom growth
+- analysing nutrient limitation
+- examining vertical oxygen dynamics
+- comparing ecosystem responses across parameter combinations
+
+## Cached Simulation System
+
+Model runs are saved using parameter-based hashes and case identifiers.
+
+This allows previously completed simulations to be reused without repeating computationally expensive integrations.
+
+Cached simulations can be accessed by both the single-run and parameter-sweep workflows.
+
+## Typical Workflow
+
+1. Define model parameters and initial conditions.
+2. Run a representative simulation using `ModelCode.py`.
+3. Inspect seasonal ecosystem behaviour.
+4. Run nutrient–silicate experiments using `ModelSweep.py`.
+5. Reuse cached simulations for additional diagnostics.
+6. Plot selected vertical profiles using `PlotDepthProfiles.py`.
+7. Compare ecosystem responses across nutrient regimes.
+
+## What This Project Demonstrates
+
+The project provides experience in:
+
+- marine ecological modelling
+- NPZ / NPZDO ecosystem models
+- nutrient–phytoplankton interactions
+- diatom and silicate dynamics
+- oxygen modelling
+- vertical water-column models
+- numerical integration
+- parameter sweeps
+- scientific Python
+- model diagnostics and visualisation
+
+## Status
+
+Completed DTU university course project.
+
+The repository contains research-oriented course code and model experiments rather than a production software package.
